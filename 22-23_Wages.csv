@@ -1,0 +1,2285 @@
+Rk,Player,Country of Origin,Pos,Team,Age,Annual Wages EUR,League
+1,Sadio Mané,SEN,"FW,MF",Bayern Munich,30,"22,000,000",Bundes Liga
+2,Manuel Neuer,GER,GK,Bayern Munich,36,"21,000,000",Bundes Liga
+3,Thomas Müller,GER,"FW,MF",Bayern Munich,32,"20,500,000",Bundes Liga
+4,Leroy Sané,GER,"MF,FW",Bayern Munich,26,"20,000,000",Bundes Liga
+5,Joshua Kimmich,GER,MF,Bayern Munich,27,"19,500,000",Bundes Liga
+6,Niklas Süle,GER,DF,Dortmund,26,"18,870,000",Bundes Liga
+7,Serge Gnabry,GER,"FW,MF",Bayern Munich,27,"18,870,000",Bundes Liga
+8,Leon Goretzka,GER,MF,Bayern Munich,27,"18,000,000",Bundes Liga
+9,Kingsley Coman,FRA,"FW,MF",Bayern Munich,26,"17,000,000",Bundes Liga
+10,Matthijs de Ligt,NED,DF,Bayern Munich,22,"16,000,000",Bundes Liga
+11,João Cancelo,POR,"DF,FW",Bayern Munich,28,"15,280,000",Bundes Liga
+12,Lucas Hernández,FRA,DF,Bayern Munich,26,"15,000,000",Bundes Liga
+13,Marcel Sabitzer,AUT,MF,Bayern Munich,28,"12,500,000",Bundes Liga
+14,Alphonso Davies,CAN,DF,Bayern Munich,21,"11,250,000",Bundes Liga
+15,Marco Reus,GER,"MF,FW",Dortmund,33,"11,000,000",Bundes Liga
+16,Sébastien Haller,CIV,FW,Dortmund,28,"11,000,000",Bundes Liga
+17,Christopher Nkunku,FRA,"FW,MF",RB Leipzig,24,"10,000,000",Bundes Liga
+18,Timo Werner,GER,"FW,MF",RB Leipzig,26,"10,000,000",Bundes Liga
+19,Mats Hummels,GER,DF,Dortmund,33,"10,000,000",Bundes Liga
+20,Thomas Meunier,BEL,DF,Dortmund,30,"10,000,000",Bundes Liga
+21,Dayot Upamecano,FRA,DF,Bayern Munich,23,"10,000,000",Bundes Liga
+22,Ryan Gravenberch,NED,MF,Bayern Munich,20,"9,200,000",Bundes Liga
+23,Emre Can,GER,MF,Dortmund,28,"8,800,000",Bundes Liga
+24,Noussair Mazraoui,MAR,DF,Bayern Munich,24,"8,000,000",Bundes Liga
+25,Matthias Ginter,GER,DF,Freiburg,28,"7,550,000",Bundes Liga
+26,David Raum,GER,"DF,MF",RB Leipzig,24,"7,550,000",Bundes Liga
+27,Julian Brandt,GER,"MF,FW",Dortmund,26,"7,000,000",Bundes Liga
+28,Emil Forsberg,SWE,"MF,FW",RB Leipzig,30,"6,600,000",Bundes Liga
+29,Anthony Modeste,FRA,FW,Dortmund,34,"6,000,000",Bundes Liga
+30,Patrik Schick,CZE,FW,Leverkusen,26,"6,000,000",Bundes Liga
+31,Péter Gulácsi,HUN,GK,RB Leipzig,32,"5,600,000",Bundes Liga
+32,Maximilian Arnold,GER,MF,Wolfsburg,28,"5,500,000",Bundes Liga
+33,Abdou Diallo,SEN,"DF,MF",RB Leipzig,26,"5,400,000",Bundes Liga
+34,Lukas Klostermann,GER,DF,RB Leipzig,26,"5,200,000",Bundes Liga
+35,André Silva,POR,FW,RB Leipzig,26,"5,000,000",Bundes Liga
+36,Karim Adeyemi,GER,"FW,MF",Dortmund,20,"5,000,000",Bundes Liga
+37,Benjamin Pavard,FRA,DF,Bayern Munich,26,"5,000,000",Bundes Liga
+38,Jamal Musiala,GER,"MF,FW",Bayern Munich,19,"5,000,000",Bundes Liga
+39,Karim Bellarabi,GER,"FW,MF",Leverkusen,32,"4,900,000",Bundes Liga
+40,Alassane Pléa,FRA,FW,Gladbach,29,"4,720,000",Bundes Liga
+41,Nico Schlotterbeck,GER,DF,Dortmund,22,"4,720,000",Bundes Liga
+42,Angeliño,ESP,DF,Hoffenheim,25,"4,700,000",Bundes Liga
+43,Dominick Drexler,GER,"MF,FW",Schalke 04,32,"4,510,000",Bundes Liga
+44,Donyell Malen,NED,FW,Dortmund,23,"4,500,000",Bundes Liga
+45,Sebastian Rudy,GER,MF,Hoffenheim,32,"4,400,000",Bundes Liga
+46,Dani Olmo,ESP,"MF,FW",RB Leipzig,24,"4,200,000",Bundes Liga
+47,Dominik Szoboszlai,HUN,"MF,FW",RB Leipzig,21,"4,200,000",Bundes Liga
+48,Willi Orban,HUN,DF,RB Leipzig,29,"4,200,000",Bundes Liga
+49,Yann Sommer,SUI,GK,Gladbach,33,"4,000,000",Bundes Liga
+50,Xaver Schlager,AUT,MF,RB Leipzig,24,"4,000,000",Bundes Liga
+51,Yussuf Poulsen,DEN,FW,RB Leipzig,28,"4,000,000",Bundes Liga
+52,Mahmoud Dahoud,GER,MF,Dortmund,26,"4,000,000",Bundes Liga
+53,Callum Hudson-Odoi,ENG,"FW,MF",Leverkusen,21,"4,000,000",Bundes Liga
+54,Mathys Tel,FRA,FW,Bayern Munich,17,"4,000,000",Bundes Liga
+55,Julian Weigl,GER,MF,Gladbach,26,"3,960,000",Bundes Liga
+56,Simon Terodde,GER,FW,Schalke 04,34,"3,830,000",Bundes Liga
+57,Max Kruse,GER,"MF,FW",Wolfsburg,34,"3,800,000",Bundes Liga
+58,Benjamin Henrichs,GER,"DF,MF",RB Leipzig,25,"3,800,000",Bundes Liga
+59,Salih Özcan,TUR,MF,Dortmund,24,"3,780,000",Bundes Liga
+60,Charles Aránguiz,CHI,MF,Leverkusen,33,"3,780,000",Bundes Liga
+61,Yannick Gerhardt,GER,MF,Wolfsburg,28,"3,600,000",Bundes Liga
+62,Christoph Kramer,GER,MF,Gladbach,31,"3,500,000",Bundes Liga
+63,Kevin Kampl,SVN,MF,RB Leipzig,31,"3,500,000",Bundes Liga
+64,Raphaël Guerreiro,POR,"DF,MF",Dortmund,28,"3,500,000",Bundes Liga
+65,Kevin Trapp,GER,GK,Eint Frankfurt,32,"3,500,000",Bundes Liga
+66,Mario Götze,GER,MF,Eint Frankfurt,30,"3,500,000",Bundes Liga
+67,Eric Maxim Choupo-Moting,CMR,FW,Bayern Munich,33,"3,500,000",Bundes Liga
+68,Thomas Delaney,DEN,MF,Hoffenheim,30,"3,470,000",Bundes Liga
+69,Koen Casteels,BEL,GK,Wolfsburg,30,"3,400,000",Bundes Liga
+70,Marius Wolf,GER,DF,Dortmund,27,"3,300,000",Bundes Liga
+71,Jonas Hector,GER,DF,Köln,32,"3,300,000",Bundes Liga
+72,John Brooks,USA,DF,Hoffenheim,29,"3,200,000",Bundes Liga
+73,Marcus Thuram,FRA,FW,Gladbach,24,"3,200,000",Bundes Liga
+74,Kerem Demirbay,GER,MF,Leverkusen,29,"3,200,000",Bundes Liga
+75,Sardar Azmoun,IRN,"FW,MF",Leverkusen,27,"3,200,000",Bundes Liga
+76,Oliver Baumann,GER,GK,Hoffenheim,32,"3,150,000",Bundes Liga
+77,Ozan Kabak,TUR,DF,Hoffenheim,22,"3,150,000",Bundes Liga
+78,Suat Serdar,GER,MF,Hertha BSC,25,"3,130,000",Bundes Liga
+79,Kasper Dolberg,DEN,"FW,MF",Hoffenheim,24,"3,000,000",Bundes Liga
+80,Marcel Halstenberg,GER,DF,RB Leipzig,30,"3,000,000",Bundes Liga
+81,Andrej Kramarić,CRO,"MF,FW",Hoffenheim,31,"2,900,000",Bundes Liga
+82,Lars Stindl,GER,"FW,MF",Gladbach,33,"2,900,000",Bundes Liga
+83,Jérôme Roussillon,FRA,"MF,DF",Wolfsburg,29,"2,880,000",Bundes Liga
+84,Josuha Guilavogui,FRA,"DF,MF",Wolfsburg,31,"2,880,000",Bundes Liga
+85,Mergim Berisha,GER,FW,Augsburg,24,"2,830,000",Bundes Liga
+86,Mattias Svanberg,SWE,"MF,FW",Wolfsburg,23,"2,830,000",Bundes Liga
+87,Dan-Axel Zagadou,FRA,DF,Stuttgart,23,"2,830,000",Bundes Liga
+88,Jonathan Tah,GER,DF,Leverkusen,26,"2,830,000",Bundes Liga
+89,Nadiem Amiri,GER,"MF,FW",Leverkusen,25,"2,830,000",Bundes Liga
+90,Ralf Fährmann,GER,GK,Schalke 04,33,"2,800,000",Bundes Liga
+91,Danny Latza,GER,MF,Schalke 04,32,"2,750,000",Bundes Liga
+92,Luca Netz,GER,DF,Gladbach,19,"2,700,000",Bundes Liga
+93,Lucas Tousart,FRA,MF,Hertha BSC,25,"2,600,000",Bundes Liga
+94,Jiří Pavlenka,CZE,GK,Werder Bremen,30,"2,600,000",Bundes Liga
+95,Lukáš Hrádecký,FIN,GK,Leverkusen,32,"2,600,000",Bundes Liga
+96,Kingsley Schindler,GHA,"DF,MF",Köln,29,"2,570,000",Bundes Liga
+97,Davie Selke,GER,FW,Hertha BSC,27,"2,500,000",Bundes Liga
+98,Dodi Lukebakio,BEL,"FW,MF",Hertha BSC,24,"2,500,000",Bundes Liga
+99,Jonas Hofmann,GER,"FW,MF",Gladbach,30,"2,500,000",Bundes Liga
+100,Konrad Laimer,AUT,MF,RB Leipzig,25,"2,500,000",Bundes Liga
+101,Timo Horn,GER,GK,Köln,29,"2,500,000",Bundes Liga
+102,Florian Wirtz,GER,"FW,MF",Leverkusen,19,"2,500,000",Bundes Liga
+103,Lucas Alario,ARG,"FW,MF",Eint Frankfurt,29,"2,500,000",Bundes Liga
+104,Rafael Borré,COL,"MF,FW",Eint Frankfurt,26,"2,500,000",Bundes Liga
+105,Marvin Ducksch,GER,FW,Werder Bremen,28,"2,470,000",Bundes Liga
+106,Luca Pellegrini,ITA,DF,Eint Frankfurt,23,"2,450,000",Bundes Liga
+107,Vladimír Darida,CZE,MF,Hertha BSC,31,"2,400,000",Bundes Liga
+108,Stefan Lainer,AUT,DF,Gladbach,29,"2,300,000",Bundes Liga
+109,Niclas Füllkrug,GER,FW,Werder Bremen,29,"2,300,000",Bundes Liga
+110,Anthony Jung,GER,"DF,FW",Werder Bremen,30,"2,260,000",Bundes Liga
+111,Edmond Tapsoba,BFA,DF,Leverkusen,23,"2,260,000",Bundes Liga
+112,Moussa Diaby,FRA,"FW,MF",Leverkusen,23,"2,260,000",Bundes Liga
+113,Serhou Guirassy,GUI,FW,Stuttgart,26,"2,160,000",Bundes Liga
+114,Daniel Caligiuri,ITA,"DF,MF",Augsburg,34,"2,100,000",Bundes Liga
+115,Maximilian Philipp,GER,FW,Wolfsburg,28,"2,100,000",Bundes Liga
+116,Sebastian Rode,GER,MF,Eint Frankfurt,31,"2,100,000",Bundes Liga
+117,Rune Jarstein,NOR,GK,Hertha BSC,37,"2,080,000",Bundes Liga
+118,Jonas Omlin,SUI,GK,Gladbach,28,"2,080,000",Bundes Liga
+119,Djibril Sow,SUI,MF,Eint Frankfurt,25,"2,070,000",Bundes Liga
+120,Jonas Wind,DEN,FW,Wolfsburg,23,"2,040,000",Bundes Liga
+121,Gregor Kobel,SUI,GK,Dortmund,24,"2,040,000",Bundes Liga
+122,Marius Bülter,GER,"FW,MF",Schalke 04,29,"2,040,000",Bundes Liga
+123,Moanes Dabbur,ISR,FW,Hoffenheim,30,"2,000,000",Bundes Liga
+124,Luca Waldschmidt,GER,"FW,MF",Wolfsburg,26,"2,000,000",Bundes Liga
+125,Aarón Martín,ESP,DF,Mainz 05,25,"2,000,000",Bundes Liga
+126,Daichi Kamada,JPN,MF,Eint Frankfurt,25,"2,000,000",Bundes Liga
+127,Daley Blind,NED,"DF,MF",Bayern Munich,32,"2,000,000",Bundes Liga
+128,Sven Ulreich,GER,GK,Bayern Munich,33,"2,000,000",Bundes Liga
+129,Philipp Max,GER,DF,Eint Frankfurt,28,"1,990,000",Bundes Liga
+130,Patrick Wimmer,AUT,"FW,MF",Wolfsburg,21,"1,980,000",Bundes Liga
+131,Mitchell Weiser,GER,"DF,FW",Werder Bremen,28,"1,980,000",Bundes Liga
+132,Angelo Fulgini,FRA,MF,Mainz 05,25,"1,980,000",Bundes Liga
+133,Edimilson Fernandes,SUI,DF,Mainz 05,26,"1,980,000",Bundes Liga
+134,Marcin Kamiński,POL,DF,Schalke 04,30,"1,970,000",Bundes Liga
+135,Ramy Bensebaini,ALG,DF,Gladbach,27,"1,900,000",Bundes Liga
+136,Bouna Sarr,SEN,FW,Bayern Munich,30,"1,900,000",Bundes Liga
+137,Ko Itakura,JPN,DF,Gladbach,25,"1,890,000",Bundes Liga
+138,Josip Brekalo,CRO,"MF,FW",Wolfsburg,24,"1,890,000",Bundes Liga
+139,Josip Stanišić,CRO,DF,Bayern Munich,22,"1,890,000",Bundes Liga
+140,Adam Hložek,CZE,"FW,MF",Leverkusen,20,"1,880,000",Bundes Liga
+141,Sebastiaan Bornauw,BEL,DF,Wolfsburg,23,"1,830,000",Bundes Liga
+142,Nicolai Rapp,GER,"MF,DF",Werder Bremen,25,"1,830,000",Bundes Liga
+143,Robert Skov,DEN,DF,Hoffenheim,26,"1,800,000",Bundes Liga
+144,Stefan Bell,GER,DF,Mainz 05,30,"1,800,000",Bundes Liga
+145,Alex Král,CZE,MF,Schalke 04,24,"1,790,000",Bundes Liga
+146,Marvin Friedrich,GER,DF,Gladbach,26,"1,750,000",Bundes Liga
+147,Jordan Pefok,USA,FW,Union Berlin,26,"1,740,000",Bundes Liga
+148,Ihlas Bebou,TOG,"FW,DF",Hoffenheim,28,"1,700,000",Bundes Liga
+149,Kevin Vogt,GER,DF,Hoffenheim,30,"1,700,000",Bundes Liga
+150,Pavel Kadeřábek,CZE,DF,Hoffenheim,30,"1,700,000",Bundes Liga
+151,Patrick Herrmann,GER,"FW,MF",Gladbach,31,"1,700,000",Bundes Liga
+152,Tony Jantschke,GER,"DF,MF",Gladbach,32,"1,700,000",Bundes Liga
+153,Ludovic Ajorque,FRA,"FW,MF",Mainz 05,28,"1,700,000",Bundes Liga
+154,Mohamed Simakan,FRA,DF,RB Leipzig,22,"1,700,000",Bundes Liga
+155,Ellyes Skhiri,TUN,MF,Köln,27,"1,700,000",Bundes Liga
+156,Maya Yoshida,JPN,DF,Schalke 04,33,"1,700,000",Bundes Liga
+157,Exequiel Palacios,ARG,MF,Leverkusen,23,"1,700,000",Bundes Liga
+158,Almamy Touré,MLI,DF,Eint Frankfurt,26,"1,700,000",Bundes Liga
+159,Anthony Caci,FRA,DF,Mainz 05,25,"1,680,000",Bundes Liga
+160,Rodrigo Zalazar,URU,"MF,FW",Schalke 04,22,"1,660,000",Bundes Liga
+161,Jesper Lindstrøm,DEN,"MF,FW",Eint Frankfurt,22,"1,640,000",Bundes Liga
+162,Odilon Kossonou,CIV,DF,Leverkusen,21,"1,630,000",Bundes Liga
+163,Chidera Ejuke,NGA,"FW,MF",Hertha BSC,24,"1,620,000",Bundes Liga
+164,Mitchel Bakker,NED,"DF,MF",Leverkusen,22,"1,610,000",Bundes Liga
+165,André Hahn,GER,"FW,MF",Augsburg,31,"1,600,000",Bundes Liga
+166,Carlos Gruezo,ECU,MF,Augsburg,27,"1,600,000",Bundes Liga
+167,Florian Neuhaus,GER,MF,Gladbach,25,"1,600,000",Bundes Liga
+168,Nico Elvedi,SUI,DF,Gladbach,25,"1,600,000",Bundes Liga
+169,Leonardo Bittencourt,GER,"MF,DF",Werder Bremen,28,"1,600,000",Bundes Liga
+170,Josip Juranović,CRO,DF,Union Berlin,26,"1,600,000",Bundes Liga
+171,Jude Bellingham,ENG,MF,Dortmund,19,"1,600,000",Bundes Liga
+172,Thorgan Hazard,BEL,"FW,DF",Dortmund,29,"1,600,000",Bundes Liga
+173,Jordan Larsson,SWE,"FW,MF",Schalke 04,25,"1,600,000",Bundes Liga
+174,Robert Andrich,GER,MF,Leverkusen,27,"1,600,000",Bundes Liga
+175,Florent Mollet,FRA,MF,Schalke 04,30,"1,560,000",Bundes Liga
+176,Florian Niederlechner,GER,"FW,MF",Augsburg,31,"1,500,000",Bundes Liga
+177,Jeffrey Gouweleeuw,NED,DF,Augsburg,31,"1,500,000",Bundes Liga
+178,Marvin Plattenhardt,GER,DF,Hertha BSC,30,"1,500,000",Bundes Liga
+179,Genki Haraguchi,JPN,MF,Stuttgart,31,"1,500,000",Bundes Liga
+180,Robin Knoche,GER,DF,Union Berlin,30,"1,500,000",Bundes Liga
+181,Randal Kolo Muani,FRA,FW,Eint Frankfurt,23,"1,500,000",Bundes Liga
+182,Timo Baumgartl,GER,DF,Union Berlin,26,"1,470,000",Bundes Liga
+183,Niklas Stark,GER,DF,Werder Bremen,27,"1,440,000",Bundes Liga
+184,Éder Álvarez Balanta,COL,"MF,FW",Schalke 04,29,"1,400,000",Bundes Liga
+185,Makoto Hasebe,JPN,DF,Eint Frankfurt,38,"1,400,000",Bundes Liga
+186,Timothy Chandler,USA,DF,Eint Frankfurt,32,"1,400,000",Bundes Liga
+187,Elvis Rexhbeçaj,GER,MF,Augsburg,24,"1,380,000",Bundes Liga
+188,Jeremie Frimpong,NED,"DF,MF",Leverkusen,21,"1,320,000",Bundes Liga
+189,Stevan Jovetić,MNE,"FW,MF",Hertha BSC,32,"1,310,000",Bundes Liga
+190,Silvan Widmer,SUI,DF,Mainz 05,29,"1,300,000",Bundes Liga
+191,Nico Schulz,GER,LB,Dortmund,29,"1,300,000",Bundes Liga
+192,Paulinho,BRA,FW,Leverkusen,22,"1,300,000",Bundes Liga
+193,Julian Baumgartlinger,AUT,MF,Augsburg,34,"1,250,000",Bundes Liga
+194,Andrey Lunyov,RUS,GK,Leverkusen,30,"1,240,000",Bundes Liga
+195,Lys Mousset,FRA,"FW,MF",Bochum,26,"1,230,000",Bundes Liga
+196,Manuel Riemann,GER,GK,Bochum,33,"1,230,000",Bundes Liga
+197,Daley Sinkgraven,NED,"DF,MF",Leverkusen,27,"1,220,000",Bundes Liga
+198,Angelo Stiller,GER,MF,Hoffenheim,21,"1,200,000",Bundes Liga
+199,Ermin Bičakčić,BIH,DF,Hoffenheim,32,"1,200,000",Bundes Liga
+200,Jonjoe Kenny,ENG,DF,Hertha BSC,25,"1,200,000",Bundes Liga
+201,Kevin-Prince Boateng,GHA,MF,Hertha BSC,35,"1,200,000",Bundes Liga
+202,Dominique Heintz,GER,DF,Bochum,28,"1,200,000",Bundes Liga
+203,Florian Kainz,AUT,"MF,FW",Köln,29,"1,200,000",Bundes Liga
+204,Obite N'Dicka,CIV,DF,Eint Frankfurt,22,"1,200,000",Bundes Liga
+205,Dominik Kohr,GER,MF,Mainz 05,28,"1,190,000",Bundes Liga
+206,Hiroki Ito,JPN,DF,Stuttgart,23,"1,150,000",Bundes Liga
+207,Stanley N'Soki,FRA,DF,Hoffenheim,23,"1,140,000",Bundes Liga
+208,Ermedin Demirović,BIH,"FW,MF",Augsburg,24,"1,140,000",Bundes Liga
+209,Agustín Rogel,URU,DF,Hertha BSC,24,"1,140,000",Bundes Liga
+210,Michael Gregoritsch,AUT,FW,Freiburg,28,"1,140,000",Bundes Liga
+211,Mark Uth,GER,"MF,FW",Köln,30,"1,140,000",Bundes Liga
+212,Sebastian Polter,GER,FW,Schalke 04,31,"1,140,000",Bundes Liga
+213,Amine Adli,MAR,"FW,MF",Leverkusen,22,"1,140,000",Bundes Liga
+214,Joško Gvardiol,CRO,DF,RB Leipzig,20,"1,120,000",Bundes Liga
+215,Ondrej Duda,SVK,MF,Köln,27,"1,100,000",Bundes Liga
+216,Marc-Oliver Kempf,GER,DF,Hertha BSC,27,"1,080,000",Bundes Liga
+217,Janik Haberer,GER,MF,Union Berlin,28,"1,080,000",Bundes Liga
+218,Ivan Šunjić,CRO,MF,Hertha BSC,25,"1,050,000",Bundes Liga
+219,Soumaïla Coulibaly,FRA,DF,Dortmund,18,"1,050,000",Bundes Liga
+220,Morten Thorsby,NOR,MF,Union Berlin,26,"1,040,000",Bundes Liga
+221,Ivan Ordets,UKR,DF,Bochum,30,"1,040,000",Bundes Liga
+222,Wilfried Kanga,CIV,FW,Hertha BSC,24,"1,020,000",Bundes Liga
+223,Jakub Kamiński,POL,"FW,DF",Wolfsburg,20,"1,020,000",Bundes Liga
+224,Oliver Burke,SCO,"FW,MF",Werder Bremen,25,"1,020,000",Bundes Liga
+225,Jamie Leweling,GER,"FW,MF",Union Berlin,21,"1,020,000",Bundes Liga
+226,Cédric Brunner,SUI,DF,Schalke 04,28,"1,020,000",Bundes Liga
+227,Arne Maier,GER,MF,Augsburg,23,"1,000,000",Bundes Liga
+228,Iago,BRA,"DF,MF",Augsburg,25,"1,000,000",Bundes Liga
+229,Tobias Strobl,GER,DM,Augsburg,32,"1,000,000",Bundes Liga
+230,Tomáš Koubek,CZE,GK,Augsburg,29,"1,000,000",Bundes Liga
+231,Hannes Wolf,AUT,FW,Gladbach,23,"1,000,000",Bundes Liga
+232,Amadou Haidara,MLI,MF,RB Leipzig,24,"1,000,000",Bundes Liga
+233,Dennis Geiger,GER,MF,Hoffenheim,24,"990,000",Bundes Liga
+234,Maximilian Mittelstädt,GER,"DF,MF",Hertha BSC,25,"990,000",Bundes Liga
+235,Dejan Ljubicic,AUT,"MF,FW",Köln,24,"970,000",Bundes Liga
+236,Grischa Prömel,GER,MF,Hoffenheim,27,"960,000",Bundes Liga
+237,Nathan N'Goumou,FRA,FW,Gladbach,22,"960,000",Bundes Liga
+238,Danny da Costa,GER,DF,Mainz 05,29,"960,000",Bundes Liga
+239,Niklas Dorsch,GER,MF,Augsburg,24,"950,000",Bundes Liga
+240,Vincenzo Grifo,ITA,"MF,FW",Freiburg,29,"950,000",Bundes Liga
+241,Ørjan Nyland,NOR,GK,RB Leipzig,31,"950,000",Bundes Liga
+242,Timothée Kolodziejczak,FRA,DF,Schalke 04,30,"950,000",Bundes Liga
+243,Filip Uremović,CRO,DF,Hertha BSC,25,"940,000",Bundes Liga
+244,Bartol Franjić,CRO,MF,Wolfsburg,22,"940,000",Bundes Liga
+245,Kilian Fischer,GER,"DF,FW",Wolfsburg,21,"940,000",Bundes Liga
+246,Josha Vagnoman,GER,DF,Stuttgart,21,"940,000",Bundes Liga
+247,Maxim Leitsch,GER,DF,Mainz 05,24,"940,000",Bundes Liga
+248,Ritsu Doan,JPN,"MF,FW",Freiburg,24,"940,000",Bundes Liga
+249,Tom Krauß,GER,MF,Schalke 04,21,"940,000",Bundes Liga
+250,Miloš Veljković,SRB,DF,Werder Bremen,26,"920,000",Bundes Liga
+251,Kevin Möhwald,GER,CM,Union Berlin,29,"920,000",Bundes Liga
+252,Anthony Losilla,FRA,MF,Bochum,36,"920,000",Bundes Liga
+253,Anton Stach,GER,MF,Mainz 05,23,"910,000",Bundes Liga
+254,Jean-Paul Boëtius,NED,MF,Hertha BSC,28,"900,000",Bundes Liga
+255,Kevin Paredes,USA,"FW,MF",Wolfsburg,19,"900,000",Bundes Liga
+256,András Schäfer,HUN,MF,Union Berlin,23,"900,000",Bundes Liga
+257,Lennart Grill,GER,GK,Union Berlin,23,"900,000",Bundes Liga
+258,Nicolas Höfler,GER,MF,Freiburg,32,"900,000",Bundes Liga
+259,Timothy Fosu-Mensah,NED,DF,Leverkusen,24,"900,000",Bundes Liga
+260,Felix Passlack,GER,DF,Dortmund,24,"890,000",Bundes Liga
+261,Sebastian Andersson,SWE,CF,Köln,31,"890,000",Bundes Liga
+262,Benjamin Hübner,GER,CB,Hoffenheim,33,"880,000",Bundes Liga
+263,Lee Jae-sung,KOR,MF,Mainz 05,29,"880,000",Bundes Liga
+264,Alexander Schwolow,GER,GK,Schalke 04,30,"880,000",Bundes Liga
+265,Kevin Akpoguma,NGA,DF,Hoffenheim,27,"870,000",Bundes Liga
+266,Levin Öztunalı,GER,MF,Union Berlin,26,"860,000",Bundes Liga
+267,Ruben Vargas,SUI,"MF,FW",Augsburg,23,"850,000",Bundes Liga
+268,Rani Khedira,GER,MF,Union Berlin,28,"850,000",Bundes Liga
+269,Piero Hincapié,ECU,"DF,MF",Leverkusen,20,"850,000",Bundes Liga
+270,Paul Seguin,GER,MF,Union Berlin,27,"840,000",Bundes Liga
+271,Andreas Hanche-Olsen,NOR,DF,Mainz 05,25,"840,000",Bundes Liga
+272,Aymen Barkok,MAR,MF,Mainz 05,24,"840,000",Bundes Liga
+273,Philipp Förster,GER,MF,Bochum,27,"840,000",Bundes Liga
+274,Kristian Pedersen,DEN,DF,Köln,27,"840,000",Bundes Liga
+275,Christian Günter,GER,"DF,MF",Freiburg,29,"810,000",Bundes Liga
+276,Jonathan Schmid,FRA,DF,Freiburg,32,"810,000",Bundes Liga
+277,Ohis Felix Uduokhai,GER,DF,Augsburg,24,"800,000",Bundes Liga
+278,Reece Oxford,ENG,DF,Augsburg,23,"800,000",Bundes Liga
+279,Pavao Pervan,AUT,GK,Wolfsburg,34,"800,000",Bundes Liga
+280,Oscar Fraulo,DEN,"FW,MF",Gladbach,18,"780,000",Bundes Liga
+281,Kevin Stöger,AUT,MF,Bochum,28,"780,000",Bundes Liga
+282,Michael Esser,GER,GK,Bochum,34,"780,000",Bundes Liga
+283,Leo Greiml,AUT,DF,Schalke 04,21,"780,000",Bundes Liga
+284,Dion Beljo,,CF,Augsburg,20,"760,000",Bundes Liga
+285,Gil Bastião Dias,POR,FW,Stuttgart,25,"760,000",Bundes Liga
+286,Konstantinos Mavropanos,GRE,DF,Stuttgart,24,"760,000",Bundes Liga
+287,Kelvin Yeboah,ITA,"FW,MF",Augsburg,22,"750,000",Bundes Liga
+288,Rafał Gikiewicz,POL,GK,Augsburg,34,"750,000",Bundes Liga
+289,Nicolas Cozza,FRA,DF,Wolfsburg,23,"750,000",Bundes Liga
+290,Waldemar Anton,GER,DF,Stuttgart,26,"750,000",Bundes Liga
+291,Amos Pieper,GER,DF,Werder Bremen,24,"750,000",Bundes Liga
+292,Nils Petersen,GER,FW,Freiburg,33,"750,000",Bundes Liga
+293,Thomas Ouwejan,NED,DF,Schalke 04,25,"750,000",Bundes Liga
+294,Tobias Mohr,GER,"DF,MF",Schalke 04,26,"750,000",Bundes Liga
+295,Peter Pekarík,SVK,DF,Hertha BSC,35,"740,000",Bundes Liga
+296,Maximilian Eggestein,GER,MF,Freiburg,25,"740,000",Bundes Liga
+297,Kostas Stafylidis,GRE,"DF,MF",Bochum,28,"740,000",Bundes Liga
+298,Connor Noß,IRL,MF,Gladbach,21,"720,000",Bundes Liga
+299,Ilia Gruev,BUL,MF,Werder Bremen,22,"720,000",Bundes Liga
+300,Marcus Ingvartsen,DEN,"FW,MF",Mainz 05,26,"720,000",Bundes Liga
+301,Mateu Morey,ESP,RB,Dortmund,22,"720,000",Bundes Liga
+302,Arthur,,RB,Leverkusen,20,"720,000",Bundes Liga
+303,Christopher Lenz,GER,DF,Eint Frankfurt,27,"720,000",Bundes Liga
+304,Lee Dongjun,KOR,RW,Hertha BSC,25,"710,000",Bundes Liga
+305,Pascal Stenzel,GER,DF,Stuttgart,26,"710,000",Bundes Liga
+306,Noah Joel Sarenren Bazee,NGA,"MF,FW",Augsburg,25,"700,000",Bundes Liga
+307,Frederik Rønnow,DEN,GK,Union Berlin,29,"700,000",Bundes Liga
+308,Christopher Trimmel,AUT,DF,Union Berlin,35,"680,000",Bundes Liga
+309,Philipp Lienhart,AUT,DF,Freiburg,26,"680,000",Bundes Liga
+310,Wataru Endo,JPN,MF,Stuttgart,29,"660,000",Bundes Liga
+311,Aïssa Laïdouni,TUN,MF,Union Berlin,25,"660,000",Bundes Liga
+312,Steffen Tigges,GER,FW,Köln,24,"660,000",Bundes Liga
+313,Borna Sosa,CRO,DF,Stuttgart,24,"640,000",Bundes Liga
+314,Erhan Mašović,SRB,"DF,MF",Bochum,23,"640,000",Bundes Liga
+315,Marko Johansson,SWE,GK,Bochum,23,"630,000",Bundes Liga
+316,Lukas Nmecha,GER,FW,Wolfsburg,23,"620,000",Bundes Liga
+317,Nikolas Nartey,DEN,"DF,MF",Stuttgart,22,"620,000",Bundes Liga
+318,Georginio Rutter,FRA,FW,Hoffenheim,20,"600,000",Bundes Liga
+319,Deyovaisio Zeefuik,NED,"DF,MF",Hertha BSC,24,"600,000",Bundes Liga
+320,Ridle Baku,GER,"DF,FW",Wolfsburg,24,"600,000",Bundes Liga
+321,Luca Pfeiffer,GER,FW,Stuttgart,25,"600,000",Bundes Liga
+322,Felix Agu,GER,"DF,FW",Werder Bremen,22,"600,000",Bundes Liga
+323,Jens Stage,DEN,MF,Werder Bremen,25,"600,000",Bundes Liga
+324,Danilho Doekhi,NED,DF,Union Berlin,24,"600,000",Bundes Liga
+325,Niko Gießelmann,GER,DF,Union Berlin,30,"600,000",Bundes Liga
+326,Pierre Kunde,CMR,"MF,FW",Bochum,27,"600,000",Bundes Liga
+327,Sargis Adamyan,ARM,"FW,MF",Köln,29,"600,000",Bundes Liga
+328,Kenan Karaman,TUR,FW,Schalke 04,28,"600,000",Bundes Liga
+329,Karim Onisiwo,AUT,"FW,MF",Mainz 05,30,"590,000",Bundes Liga
+330,Marco Friedl,AUT,DF,Werder Bremen,24,"580,000",Bundes Liga
+331,Tymoteusz Puchacz,POL,DF,Union Berlin,23,"580,000",Bundes Liga
+332,Benno Schmitz,GER,DF,Köln,27,"580,000",Bundes Liga
+333,Raphael Framberger,GER,"DF,FW",Augsburg,26,"570,000",Bundes Liga
+334,Alexander Meyer,GER,GK,Dortmund,31,"570,000",Bundes Liga
+335,Mehmet Aydin,GER,"DF,FW",Schalke 04,20,"570,000",Bundes Liga
+336,Irvin Cardona,FRA,"MF,FW",Augsburg,24,"560,000",Bundes Liga
+337,Nathanael Mbuku,FRA,"MF,FW",Augsburg,20,"560,000",Bundes Liga
+338,Derry Scherhant,GER,"FW,MF",Hertha BSC,19,"560,000",Bundes Liga
+339,Tolga Ciğerci,TUR,MF,Hertha BSC,30,"560,000",Bundes Liga
+340,Silas Katompa,COD,"FW,MF",Stuttgart,23,"560,000",Bundes Liga
+341,Roland Sallai,HUN,"MF,FW",Freiburg,25,"560,000",Bundes Liga
+342,Alexander Hack,GER,DF,Mainz 05,28,"550,000",Bundes Liga
+343,Sergio Córdova,VEN,CF,Augsburg,25,"540,000",Bundes Liga
+344,Julian Ryerson,NOR,DF,Union Berlin,24,"540,000",Bundes Liga
+345,Niklas Tauer,GER,"DF,MF",Mainz 05,21,"540,000",Bundes Liga
+346,Jannes Horn,GER,"DF,FW",Bochum,25,"540,000",Bundes Liga
+347,Sepp van den Berg,NED,DF,Schalke 04,20,"540,000",Bundes Liga
+348,Jérôme Onguéné,CMR,DF,Eint Frankfurt,24,"540,000",Bundes Liga
+349,Sheraldo Becker,SUR,FW,Union Berlin,27,"520,000",Bundes Liga
+350,Robin Zentner,GER,GK,Mainz 05,27,"520,000",Bundes Liga
+351,Patrick Osterhage,GER,MF,Bochum,22,"520,000",Bundes Liga
+352,Nassim Boujellab,MAR,CM,Schalke 04,23,"520,000",Bundes Liga
+353,Fabian Bredlow,GER,GK,Stuttgart,27,"490,000",Bundes Liga
+354,Manuel Gulde,GER,DF,Freiburg,31,"490,000",Bundes Liga
+355,Muhammed Damar,,AM,Hoffenheim,18,"480,000",Bundes Liga
+356,Paulo Otávio,BRA,DF,Wolfsburg,27,"480,000",Bundes Liga
+357,Jere Uronen,FIN,DF,Schalke 04,28,"480,000",Bundes Liga
+358,Soichiro Kozuki,,RM,Schalke 04,22,"480,000",Bundes Liga
+359,Aurélio Buta,POR,DF,Eint Frankfurt,25,"480,000",Bundes Liga
+360,Atakan Karazor,GER,MF,Stuttgart,25,"470,000",Bundes Liga
+361,Cristian Gamboa,CRC,DF,Bochum,32,"470,000",Bundes Liga
+362,Moritz Jenz,GER,DF,Schalke 04,23,"470,000",Bundes Liga
+363,Mads Pedersen,DEN,"DF,MF",Augsburg,25,"460,000",Bundes Liga
+364,Michael Langer,AUT,GK,Schalke 04,37,"460,000",Bundes Liga
+365,Fisnik Asllani,KVX,FW,Hoffenheim,19,"450,000",Bundes Liga
+366,Jacob Bruun Larsen,DEN,FW,Hoffenheim,23,"450,000",Bundes Liga
+367,Marco Richter,GER,"MF,FW",Hertha BSC,24,"450,000",Bundes Liga
+368,Oliver Christensen,DEN,GK,Hertha BSC,23,"450,000",Bundes Liga
+369,Dzenan Pejcinovic,,CF,Wolfsburg,17,"450,000",Bundes Liga
+370,Gerrit Holtmann,PHI,"FW,MF",Bochum,27,"450,000",Bundes Liga
+371,Tobias Sippel,GER,GK,Gladbach,34,"440,000",Bundes Liga
+372,Simon Zoller,GER,FW,Bochum,31,"440,000",Bundes Liga
+373,Lucas Höler,GER,"FW,MF",Freiburg,28,"430,000",Bundes Liga
+374,Danilo Soares,BRA,DF,Bochum,30,"430,000",Bundes Liga
+375,Micky van de Ven,NED,DF,Wolfsburg,21,"420,000",Bundes Liga
+376,Jakob Busk,DEN,GK,Union Berlin,28,"420,000",Bundes Liga
+377,Tim Skarke,GER,"DF,MF",Union Berlin,25,"420,000",Bundes Liga
+378,Ben Bobzien,GER,FW,Mainz 05,19,"420,000",Bundes Liga
+379,Junior Dina Ebimbe,FRA,"DF,MF",Eint Frankfurt,21,"420,000",Bundes Liga
+380,Faride Alidou,GER,"DF,MF",Eint Frankfurt,21,"420,000",Bundes Liga
+381,Fredrik Jensen,FIN,"FW,MF",Augsburg,24,"410,000",Bundes Liga
+382,Sven Michel,GER,"FW,MF",Union Berlin,32,"400,000",Bundes Liga
+383,Vassilis Lambropoulos,GRE,DF,Bochum,32,"400,000",Bundes Liga
+384,Christoph Baumgartner,AUT,"MF,FW",Hoffenheim,22,"390,000",Bundes Liga
+385,Rocco Reitz,GER,MF,Gladbach,20,"390,000",Bundes Liga
+386,Juan José Perea,,CF,Stuttgart,22,"390,000",Bundes Liga
+387,Miloš Pantović,SRB,MF,Union Berlin,26,"390,000",Bundes Liga
+388,Jeong Woo-yeong,KOR,"MF,FW",Freiburg,22,"390,000",Bundes Liga
+389,Jacek Góralski,POL,MF,Bochum,29,"390,000",Bundes Liga
+390,Jordi Osei-Tutu,ENG,"DF,FW",Bochum,23,"390,000",Bundes Liga
+391,Philipp Hofmann,GER,FW,Bochum,29,"390,000",Bundes Liga
+392,Chris Führich,GER,"FW,MF",Stuttgart,24,"380,000",Bundes Liga
+393,Benjamin Uphoff,GER,GK,Freiburg,28,"380,000",Bundes Liga
+394,Julian Chabot,GER,DF,Köln,24,"380,000",Bundes Liga
+395,Patrick Pentz,AUT,GK,Leverkusen,25,"380,000",Bundes Liga
+396,Janis Blaswich,GER,GK,RB Leipzig,31,"370,000",Bundes Liga
+397,Dimitris Limnios,GRE,FW,Köln,24,"370,000",Bundes Liga
+398,Marvin Schwäbe,GER,GK,Köln,27,"370,000",Bundes Liga
+399,Finn Ole Becker,GER,MF,Hoffenheim,22,"360,000",Bundes Liga
+400,Jan Olschowsky,GER,GK,Gladbach,20,"360,000",Bundes Liga
+401,Yvandro Borges Sanches,LUX,"FW,MF",Gladbach,18,"360,000",Bundes Liga
+402,Laurin Ulrich,,AM,Stuttgart,18,"360,000",Bundes Liga
+403,Nelson Weiper,GER,"FW,DF",Mainz 05,17,"360,000",Bundes Liga
+404,Daniel Kyereh,GHA,"MF,FW",Freiburg,26,"360,000",Bundes Liga
+405,Linton Maina,GER,"FW,MF",Köln,23,"360,000",Bundes Liga
+406,Manu Koné,FRA,MF,Gladbach,21,"350,000",Bundes Liga
+407,Mark Flekken,NED,GK,Freiburg,29,"350,000",Bundes Liga
+408,Jens Grahl,GER,GK,Eint Frankfurt,33,"350,000",Bundes Liga
+409,Diogo Leite,POR,DF,Union Berlin,23,"340,000",Bundes Liga
+410,Thomas Kastanaras,GRE,"FW,DF",Stuttgart,19,"330,000",Bundes Liga
+411,Andreas Ivan,ROU,MF,Schalke 04,27,"320,000",Bundes Liga
+412,Michael Frey,SUI,FW,Schalke 04,28,"320,000",Bundes Liga
+413,Maximilian Bauer,GER,DF,Augsburg,22,"300,000",Bundes Liga
+414,Enzo Millot,FRA,MF,Stuttgart,20,"300,000",Bundes Liga
+415,Paul Jaeckel,GER,DF,Union Berlin,24,"300,000",Bundes Liga
+416,Jamie Bynoe-Gittens,ENG,"FW,MF",Dortmund,17,"300,000",Bundes Liga
+417,Florian Dietz,GER,FW,Köln,23,"300,000",Bundes Liga
+418,Kristijan Jakić,CRO,"DF,MF",Eint Frankfurt,25,"300,000",Bundes Liga
+419,Marcel Wenig,GER,MF,Eint Frankfurt,18,"300,000",Bundes Liga
+420,Christian Groß,GER,MF,Werder Bremen,33,"290,000",Bundes Liga
+421,David Colina,,LB,Augsburg,22,"280,000",Bundes Liga
+422,Kevin Schade,GER,"FW,MF",Freiburg,20,"280,000",Bundes Liga
+423,Julien Duranville,,RW,Dortmund,16,"280,000",Bundes Liga
+424,Noah Mbamba,BEL,MF,Leverkusen,17,"280,000",Bundes Liga
+425,Florian Müller,GER,GK,Stuttgart,24,"270,000",Bundes Liga
+426,Lee Buchanan,ENG,"DF,FW",Werder Bremen,21,"270,000",Bundes Liga
+427,Hugo Novoa,ESP,"DF,FW",RB Leipzig,19,"270,000",Bundes Liga
+428,Tim Oermann,GER,DF,Bochum,18,"270,000",Bundes Liga
+429,Eric Martel,GER,MF,Köln,20,"270,000",Bundes Liga
+430,Henning Matriciani,GER,DF,Schalke 04,22,"270,000",Bundes Liga
+431,Niklas Lomb,GER,GK,Leverkusen,29,"270,000",Bundes Liga
+432,Paxten Aaronson,USA,"MF,DF",Eint Frankfurt,18,"260,000",Bundes Liga
+433,Eduardo Quaresma,POR,DF,Hoffenheim,20,"250,000",Bundes Liga
+434,Robert Gumny,POL,DF,Augsburg,24,"250,000",Bundes Liga
+435,Delano Burgzorg,NED,"FW,MF",Mainz 05,23,"250,000",Bundes Liga
+436,Lukas Kübler,GER,DF,Freiburg,29,"250,000",Bundes Liga
+437,Saidy Janko,GAM,DF,Bochum,26,"250,000",Bundes Liga
+438,Florian Flick,GER,MF,Schalke 04,22,"250,000",Bundes Liga
+439,Youssoufa Moukoko,GER,FW,Dortmund,17,"240,000",Bundes Liga
+440,Denis Huseinbasic,GER,"MF,FW",Köln,21,"240,000",Bundes Liga
+441,Ibrahima Cissé,MLI,CB,Schalke 04,21,"240,000",Bundes Liga
+442,Justin Heekeren,GER,GK,Schalke 04,21,"240,000",Bundes Liga
+443,Omar Marmoush,EGY,FW,Wolfsburg,23,"230,000",Bundes Liga
+444,Silvère Ganvoula M'Boussy,CGO,"FW,MF",Bochum,26,"230,000",Bundes Liga
+445,Alou Kuol,AUS,FW,Stuttgart,21,"210,000",Bundes Liga
+446,Eduardo Dos Santos Haesler,GER,GK,Werder Bremen,23,"210,000",Bundes Liga
+447,Romano Schmid,AUT,"MF,FW",Werder Bremen,22,"210,000",Bundes Liga
+448,Tuta,BRA,DF,Eint Frankfurt,23,"210,000",Bundes Liga
+449,Tanguy Coulibaly,FRA,"FW,DF",Stuttgart,21,"200,000",Bundes Liga
+450,Eren Dinkçi,GER,"FW,MF",Werder Bremen,20,"200,000",Bundes Liga
+451,Tarsis Bonga,GER,"FW,MF",Bochum,25,"200,000",Bundes Liga
+452,Timo Hübers,GER,DF,Köln,26,"200,000",Bundes Liga
+453,Diant Ramaj,GER,GK,Eint Frankfurt,20,"200,000",Bundes Liga
+454,Johannes Schenk,,GK,Bayern Munich,19,"200,000",Bundes Liga
+455,Torben Müsel,GER,"FW,MF",Gladbach,23,"190,000",Bundes Liga
+456,Maxence Lacroix,FRA,DF,Wolfsburg,22,"190,000",Bundes Liga
+457,Kevin Behrens,GER,FW,Union Berlin,31,"190,000",Bundes Liga
+458,Tim Maciejewski,GER,RW,Union Berlin,21,"190,000",Bundes Liga
+459,Jonathan Burkardt,GER,"MF,FW",Mainz 05,22,"190,000",Bundes Liga
+460,Marlon Mustapha,AUT,"FW,MF",Mainz 05,21,"190,000",Bundes Liga
+461,Kelian Nsona Wa Saka,FRA,RW,Hertha BSC,20,"180,000",Bundes Liga
+462,Mamadou Doucouré,FRA,CB,Gladbach,24,"180,000",Bundes Liga
+463,Caden Clark,USA,MF,RB Leipzig,19,"180,000",Bundes Liga
+464,Nikola Soldo,,CB,Köln,22,"180,000",Bundes Liga
+465,Arijon Ibrahimovic,,AM,Bayern Munich,17,"180,000",Bundes Liga
+466,Paul Grave,GER,GK,Bochum,22,"170,000",Bundes Liga
+467,Philipp Pentke,GER,GK,Hoffenheim,37,"160,000",Bundes Liga
+468,Renato Veiga,,DM,Augsburg,19,"160,000",Bundes Liga
+469,Ansgar Knauff,GER,DF,Eint Frankfurt,20,"160,000",Bundes Liga
+470,Paul Wanner,GER,MF,Bayern Munich,16,"160,000",Bundes Liga
+471,Jessic Ngankam,GER,"FW,MF",Hertha BSC,22,"150,000",Bundes Liga
+472,Myziane Maolida,COM,"FW,MF",Hertha BSC,23,"150,000",Bundes Liga
+473,Joe Scally,USA,DF,Gladbach,19,"150,000",Bundes Liga
+474,Michael Zetterer,GER,GK,Werder Bremen,27,"150,000",Bundes Liga
+475,Eniss Shabani,ALB,MF,Mainz 05,19,"150,000",Bundes Liga
+476,Philipp Schulz,GER,DM,Mainz 05,17,"150,000",Bundes Liga
+477,Hugo Siquet,BEL,DF,Freiburg,20,"150,000",Bundes Liga
+478,Abdoulaye Kamara,GUI,MF,Dortmund,17,"150,000",Bundes Liga
+479,Antonios Papadopoulos,,CB,Dortmund,23,"150,000",Bundes Liga
+480,Luca Kilian,GER,DF,Köln,22,"150,000",Bundes Liga
+481,Zidan Sertdemir,DEN,MF,Leverkusen,17,"150,000",Bundes Liga
+482,Hrvoje Smolčić,CRO,DF,Eint Frankfurt,21,"150,000",Bundes Liga
+483,Ömer Faruk Beyaz,TUR,AM,Stuttgart,19,"130,000",Bundes Liga
+484,Niklas Schmidt,GER,MF,Werder Bremen,24,"130,000",Bundes Liga
+485,Leandro Barreiro Martins,LUX,MF,Mainz 05,22,"130,000",Bundes Liga
+486,Gio Reyna,USA,"FW,MF",Dortmund,19,"130,000",Bundes Liga
+487,Jan Thielmann,GER,FW,Köln,20,"130,000",Bundes Liga
+488,Antonis Aidonis,GER,DF,Stuttgart,21,"120,000",Bundes Liga
+489,Tiago Tomás,POR,"FW,MF",Stuttgart,20,"120,000",Bundes Liga
+490,Robert Wagner,GER,MF,Freiburg,19,"120,000",Bundes Liga
+491,Marcel Lotka,POL,GK,Dortmund,21,"120,000",Bundes Liga
+492,Georg Strauch,GER,DF,Köln,21,"120,000",Bundes Liga
+493,Rijad Smajic,,CB,Köln,18,"120,000",Bundes Liga
+494,Mehdi Loune,MAR,CM,Eint Frankfurt,18,"120,000",Bundes Liga
+495,Felix Nmecha,GER,MF,Wolfsburg,21,"110,000",Bundes Liga
+496,Benjamin Goller,GER,"FW,MF",Werder Bremen,23,"110,000",Bundes Liga
+497,Jean-Manuel Mbom,GER,MF,Werder Bremen,22,"110,000",Bundes Liga
+498,Kiliann Sildillia,FRA,"DF,MF",Freiburg,20,"110,000",Bundes Liga
+499,Kimberly Ezekwem,GER,DF,Freiburg,21,"110,000",Bundes Liga
+500,Arne Engels,,CM,Augsburg,19,"100,000",Bundes Liga
+501,Benjamin Leneis,GER,GK,Augsburg,23,"90,000",Bundes Liga
+502,Lukas Petkov,BUL,"MF,FW",Augsburg,21,"90,000",Bundes Liga
+503,Fabio Schneider,GER,CM,Union Berlin,20,"90,000",Bundes Liga
+504,Noah Weißhaupt,GER,"MF,DF",Freiburg,20,"90,000",Bundes Liga
+505,Jonas Nickisch,,GK,RB Leipzig,18,"90,000",Bundes Liga
+506,Matteo Bignetti,AUT,GK,Eint Frankfurt,18,"90,000",Bundes Liga
+507,Tom Bischof,GER,"MF,FW",Hoffenheim,17,"80,000",Bundes Liga
+508,Frederik Winther,DEN,DF,Augsburg,21,"80,000",Bundes Liga
+509,Tom Rothe,GER,DF,Dortmund,17,"80,000",Bundes Liga
+510,Ayman Azhil,MAR,MF,Leverkusen,21,"80,000",Bundes Liga
+511,Joshua Chima Eze,GER,DM,Leverkusen,19,"80,000",Bundes Liga
+512,Simon Simoni,,GK,Eint Frankfurt,18,"80,000",Bundes Liga
+513,Justin Che,USA,DF,Hoffenheim,18,"70,000",Bundes Liga
+514,Márton Dárdai,HUN,"DF,MF",Hertha BSC,20,"70,000",Bundes Liga
+515,Fabio Chiarodia,ITA,DF,Werder Bremen,17,"70,000",Bundes Liga
+516,Brajan Gruda,,RW,Mainz 05,18,"70,000",Bundes Liga
+517,Finn Dahmen,GER,GK,Mainz 05,24,"70,000",Bundes Liga
+518,Kenneth Schmidt,,CB,Freiburg,20,"70,000",Bundes Liga
+519,Yannik Keitel,GER,MF,Freiburg,22,"70,000",Bundes Liga
+520,Umut Tohumcu,,CM,Hoffenheim,18,"60,000",Bundes Liga
+521,Julian Eitschberger,,RB,Hertha BSC,18,"60,000",Bundes Liga
+522,Lukas Ullrich,,LB,Hertha BSC,18,"60,000",Bundes Liga
+523,Tjark Ernst,GER,GK,Hertha BSC,19,"60,000",Bundes Liga
+524,Niklas Klinger,GER,GK,Wolfsburg,26,"60,000",Bundes Liga
+525,Dikeni-Rafid Salifou,TOG,MF,Werder Bremen,19,"60,000",Bundes Liga
+526,Louis Lord,,GK,Werder Bremen,19,"60,000",Bundes Liga
+527,Lasse Rieß,GER,GK,Mainz 05,21,"60,000",Bundes Liga
+528,Keven Schlotterbeck,GER,DF,Freiburg,25,"60,000",Bundes Liga
+529,Merlin Röhl,GER,"MF,FW",Freiburg,20,"60,000",Bundes Liga
+530,Noah Atubolu,GER,GK,Freiburg,20,"60,000",Bundes Liga
+531,Oskar Preil,,GK,RB Leipzig,19,"60,000",Bundes Liga
+532,Sanoussy Ba,GER,DF,RB Leipzig,18,"60,000",Bundes Liga
+533,Timo Schlieck,,GK,RB Leipzig,16,"60,000",Bundes Liga
+534,Göktan Gürpüz,GER,AM,Dortmund,20,"60,000",Bundes Liga
+535,Moritz Broschinski,,CF,Bochum,22,"60,000",Bundes Liga
+536,Julian Roloff,,GK,Köln,22,"60,000",Bundes Liga
+537,Justin Diehl,,SS,Köln,18,"60,000",Bundes Liga
+538,Aaron Zehnter,GER,DF,Augsburg,17,"50,000",Bundes Liga
+539,Simon Walde,,RB,Gladbach,18,"50,000",Bundes Liga
+540,Philipp Schulze,GER,GK,Wolfsburg,19,"50,000",Bundes Liga
+541,Mio Backhaus,GER,GK,Werder Bremen,18,"50,000",Bundes Liga
+542,Luca Unbehaun,GER,GK,Dortmund,21,"50,000",Bundes Liga
+543,Mohammed Tolba,,CB,Bochum,18,"50,000",Bundes Liga
+544,Takuma Asano,JPN,"FW,MF",Bochum,27,"50,000",Bundes Liga
+545,Joshua Schwirten,,CM,Köln,21,"50,000",Bundes Liga
+546,Maximilian Schmid,,CF,Köln,19,"50,000",Bundes Liga
+547,Nacho Ferri,,CF,Eint Frankfurt,18,"50,000",Bundes Liga
+548,Luca Philipp,GER,GK,Hoffenheim,21,"40,000",Bundes Liga
+549,Nahuel Noll,GER,GK,Hoffenheim,19,"40,000",Bundes Liga
+550,Jonas Urbig,GER,GK,Köln,18,"40,000",Bundes Liga
+551,Tim Lemperle,GER,"FW,MF",Köln,20,"40,000",Bundes Liga
+552,Kerim Calhanoglu,GER,DF,Schalke 04,19,"40,000",Bundes Liga
+553,Jan Schröder,GER,LB,Eint Frankfurt,19,"40,000",Bundes Liga
+554,Florian Schock,GER,GK,Stuttgart,21,"30,000",Bundes Liga
+555,Lilian Egloff,GER,"MF,FW",Stuttgart,19,"30,000",Bundes Liga
+556,Christopher Antwi-Adjei,GHA,"FW,MF",Bochum,28,"30,000",Bundes Liga
+557,Mathias Olesen,LUX,MF,Köln,21,"30,000",Bundes Liga
+558,Matthias Köbbing,GER,GK,Köln,25,"30,000",Bundes Liga
+559,Daniel Klein,GER,GK,Augsburg,21,"20,000",Bundes Liga
+560,Linus Gechter,GER,DF,Hertha BSC,18,"20,000",Bundes Liga
+561,Naouirou Ahamada,FRA,MF,Stuttgart,20,"20,000",Bundes Liga
+1,Frenkie de Jong,NED,MF,Barcelona,25,"37,500,000",La Liga
+2,Eden Hazard,BEL,FW,Real Madrid,31,"31,250,000",La Liga
+3,Gerard Piqué,ESP,DF,Barcelona,35,"29,500,000",La Liga
+4,Toni Kroos,GER,MF,Real Madrid,32,"24,380,000",La Liga
+5,Karim Benzema,FRA,FW,Real Madrid,34,"24,000,000",La Liga
+6,Sergio Busquets,ESP,MF,Barcelona,34,"24,000,000",La Liga
+7,David Alaba,AUT,DF,Real Madrid,30,"22,500,000",La Liga
+8,Luka Modrić,CRO,MF,Real Madrid,36,"21,880,000",La Liga
+9,Vinicius Júnior,BRA,FW,Real Madrid,22,"20,830,000",La Liga
+10,Jan Oblak,SVN,GK,Atlético Madrid,29,"20,830,000",La Liga
+11,Robert Lewandowski,POL,FW,Barcelona,33,"20,830,000",La Liga
+12,Koke,ESP,MF,Atlético Madrid,30,"16,000,000",La Liga
+13,Thibaut Courtois,BEL,GK,Real Madrid,30,"15,000,000",La Liga
+14,Antonio Rüdiger,GER,DF,Real Madrid,29,"14,580,000",La Liga
+15,João Félix,POR,"FW,MF",Atlético Madrid,22,"14,580,000",La Liga
+16,Ansu Fati,ESP,FW,Barcelona,19,"13,950,000",La Liga
+17,Jules Koundé,FRA,DF,Barcelona,23,"13,550,000",La Liga
+18,Aurélien Tchouaméni,FRA,MF,Real Madrid,22,"12,500,000",La Liga
+19,Antoine Griezmann,FRA,"FW,MF",Atlético Madrid,31,"12,500,000",La Liga
+20,Raphinha,BRA,FW,Barcelona,25,"12,500,000",La Liga
+21,Saúl Ñíguez,ESP,"MF,DF",Atlético Madrid,27,"12,000,000",La Liga
+22,Ousmane Dembélé,FRA,FW,Barcelona,25,"12,000,000",La Liga
+23,Iñaki Williams,GHA,FW,Athletic Club,28,"11,400,000",La Liga
+24,Jordi Alba,ESP,DF,Barcelona,33,"10,560,000",La Liga
+25,Dani Carvajal,ESP,DF,Real Madrid,30,"10,420,000",La Liga
+26,Ferland Mendy,FRA,DF,Real Madrid,27,"10,420,000",La Liga
+27,Ferrán Torres,ESP,"FW,MF",Barcelona,22,"10,000,000",La Liga
+28,Marco Asensio,ESP,"FW,MF",Real Madrid,26,"9,830,000",La Liga
+29,Álvaro Morata,ESP,FW,Atlético Madrid,29,"9,800,000",La Liga
+30,Lucas Vázquez,ESP,DF,Real Madrid,31,"9,380,000",La Liga
+31,Pedri,ESP,MF,Barcelona,19,"9,380,000",La Liga
+32,Andreas Christensen,DEN,DF,Barcelona,26,"9,000,000",La Liga
+33,Franck Kessié,CIV,MF,Barcelona,25,"9,000,000",La Liga
+34,Marc-André ter Stegen,GER,GK,Barcelona,30,"9,000,000",La Liga
+35,Iñigo Martínez,ESP,DF,Athletic Club,31,"8,870,000",La Liga
+36,Memphis,NED,FW,Atlético Madrid,28,"8,750,000",La Liga
+37,Nacho,ESP,DF,Real Madrid,32,"8,540,000",La Liga
+38,Eduardo Camavinga,FRA,"MF,DF",Real Madrid,19,"8,330,000",La Liga
+39,Mariano,DOM,FW,Real Madrid,28,"8,330,000",La Liga
+40,Rodrygo,BRA,"FW,MF",Real Madrid,21,"8,330,000",La Liga
+41,Axel Witsel,BEL,"DF,MF",Atlético Madrid,33,"8,330,000",La Liga
+42,Federico Valverde,URU,"MF,FW",Real Madrid,24,"8,130,000",La Liga
+43,Felipe,BRA,DF,Atlético Madrid,33,"7,560,000",La Liga
+44,Yannick Carrasco,BEL,"DF,MF",Atlético Madrid,28,"7,560,000",La Liga
+45,Álvaro Odriozola,ESP,DF,Real Madrid,26,"7,290,000",La Liga
+46,Éder Militão,BRA,DF,Real Madrid,24,"7,290,000",La Liga
+47,Ronald Araújo,URU,DF,Barcelona,23,"7,000,000",La Liga
+48,Geoffrey Kondogbia,CTA,MF,Atlético Madrid,29,"6,900,000",La Liga
+49,Nabil Fekir,FRA,MF,Betis,29,"6,800,000",La Liga
+50,Gavi,ESP,"MF,FW",Barcelona,17,"6,800,000",La Liga
+51,Rodrigo De Paul,ARG,MF,Atlético Madrid,28,"6,670,000",La Liga
+52,Ivan Rakitić,CRO,MF,Sevilla,34,"6,450,000",La Liga
+53,Marcos Alonso,ESP,DF,Barcelona,31,"6,250,000",La Liga
+54,Eric García,ESP,"DF,MF",Barcelona,21,"6,000,000",La Liga
+55,José Luis Gayà,ESP,DF,Valencia,27,"5,830,000",La Liga
+56,Raúl García,ESP,"FW,MF",Athletic Club,36,"5,600,000",La Liga
+57,Nemanja Gudelj,SRB,"DF,MF",Sevilla,30,"5,600,000",La Liga
+58,Gerónimo Rulli,ARG,GK,Villarreal,30,"5,420,000",La Liga
+59,Gabriel Paulista,BRA,DF,Valencia,31,"5,330,000",La Liga
+60,David Silva,ESP,MF,Real Sociedad,36,"5,300,000",La Liga
+61,Munir El Haddadi,MAR,"MF,FW",Getafe,26,"5,250,000",La Liga
+62,Sergi Roberto,ESP,"DF,MF",Barcelona,30,"5,000,000",La Liga
+63,Borja Mayoral,ESP,FW,Getafe,25,"4,790,000",La Liga
+64,Vedat Muriqi,KVX,FW,Mallorca,28,"4,580,000",La Liga
+65,Stefan Savić,MNE,DF,Atlético Madrid,31,"4,500,000",La Liga
+66,Jesús Navas,ESP,"DF,FW",Sevilla,36,"4,400,000",La Liga
+67,Denis Suárez,ESP,"MF,FW",Espanyol,28,"4,380,000",La Liga
+68,Marcão,BRA,DF,Sevilla,26,"4,380,000",La Liga
+69,Unai Simón,ESP,GK,Athletic Club,25,"4,280,000",La Liga
+70,Yuri Berchiche,ESP,DF,Athletic Club,32,"4,280,000",La Liga
+71,Matt Doherty,IRL,DF,Atlético Madrid,30,"4,200,000",La Liga
+72,Tanguy Nianzou,FRA,DF,Sevilla,20,"4,170,000",La Liga
+73,Edinson Cavani,URU,FW,Valencia,35,"4,170,000",La Liga
+74,Carles Pérez,ESP,"MF,FW",Celta Vigo,24,"4,170,000",La Liga
+75,Roque Mesa,ESP,MF,Valladolid,33,"4,160,000",La Liga
+76,Giovani Lo Celso,ARG,"MF,FW",Villarreal,26,"4,120,000",La Liga
+77,José María Giménez,URU,DF,Atlético Madrid,27,"4,000,000",La Liga
+78,Papu Gómez,ARG,"FW,MF",Sevilla,34,"3,860,000",La Liga
+79,Daniel Parejo,ESP,MF,Villarreal,33,"3,800,000",La Liga
+80,Pau Torres,ESP,DF,Villarreal,25,"3,800,000",La Liga
+81,Justin Kluivert,NED,"FW,MF",Valencia,23,"3,750,000",La Liga
+82,Francis Coquelin,FRA,MF,Villarreal,31,"3,740,000",La Liga
+83,Gerard Moreno,ESP,FW,Villarreal,30,"3,620,000",La Liga
+84,Joan Jordán,ESP,MF,Sevilla,28,"3,600,000",La Liga
+85,David López,ESP,DF,Girona,32,"3,560,000",La Liga
+86,Nico Williams,ESP,FW,Athletic Club,20,"3,500,000",La Liga
+87,Jesús Corona,MEX,FW,Sevilla,29,"3,500,000",La Liga
+88,Ángel Correa,ARG,"FW,MF",Atlético Madrid,27,"3,500,000",La Liga
+89,Thomas Delaney,DEN,MF,Sevilla,30,"3,470,000",La Liga
+90,Érik Lamela,ARG,"FW,MF",Sevilla,30,"3,300,000",La Liga
+91,Loïc Bade,FRA,DF,Sevilla,22,"3,300,000",La Liga
+92,Thomas Lemar,FRA,MF,Atlético Madrid,26,"3,250,000",La Liga
+93,Mikel Merino,ESP,MF,Real Sociedad,26,"3,200,000",La Liga
+94,Luiz Felipe,ITA,DF,Betis,25,"3,200,000",La Liga
+95,Sergio Reguilón,ESP,DF,Atlético Madrid,25,"3,190,000",La Liga
+96,Alexander Sørloth,NOR,FW,Real Sociedad,26,"3,140,000",La Liga
+97,Arnaut Danjuma,NED,FW,Villarreal,25,"3,130,000",La Liga
+98,Dani Ceballos,ESP,MF,Real Madrid,25,"3,130,000",La Liga
+99,Martin Braithwaite,DEN,"FW,MF",Espanyol,31,"3,120,000",La Liga
+100,Adnan Januzaj,BEL,FW,Sevilla,27,"3,120,000",La Liga
+101,Raúl de Tomás,ESP,FW,Rayo Vallecano,27,"3,100,000",La Liga
+102,Benjamin Lecomte,FRA,GK,Espanyol,31,"3,090,000",La Liga
+103,Ander Herrera,ESP,MF,Athletic Club,32,"3,000,000",La Liga
+104,Álex Collado,ESP,MF,Elche,23,"3,000,000",La Liga
+105,Kasper Dolberg,DEN,FW,Sevilla,24,"3,000,000",La Liga
+106,Youssef En-Nesyri,MAR,FW,Sevilla,25,"3,000,000",La Liga
+107,Matheus Cunha,BRA,"FW,MF",Atlético Madrid,23,"3,000,000",La Liga
+108,Asier Illarramendi,ESP,MF,Real Sociedad,32,"3,000,000",La Liga
+109,Martín Zubimendi,ESP,MF,Real Sociedad,23,"3,000,000",La Liga
+110,Martín Montoya,ESP,DF,Betis,31,"2,950,000",La Liga
+111,Gonzalo Escalante,ARG,MF,Cádiz,29,"2,920,000",La Liga
+112,Marcos Acuña,ARG,DF,Sevilla,30,"2,900,000",La Liga
+113,Hugo Duro,ESP,FW,Valencia,22,"2,890,000",La Liga
+114,Raúl Albiol,ESP,DF,Villarreal,36,"2,840,000",La Liga
+115,Andriy Lunin,UKR,GK,Real Madrid,23,"2,810,000",La Liga
+116,Fernando,BRA,"MF,DF",Sevilla,35,"2,800,000",La Liga
+117,Suso,ESP,"MF,FW",Sevilla,28,"2,800,000",La Liga
+118,Álex Remiro,ESP,GK,Real Sociedad,27,"2,800,000",La Liga
+119,Robin Le Normand,ESP,DF,Real Sociedad,25,"2,800,000",La Liga
+120,Dani García,ESP,MF,Athletic Club,32,"2,770,000",La Liga
+121,Yassine Bounou,MAR,GK,Sevilla,31,"2,700,000",La Liga
+122,Oriol Romeu,ESP,MF,Girona,30,"2,600,000",La Liga
+123,Iago Aspas,ESP,FW,Celta Vigo,34,"2,600,000",La Liga
+124,Hugo Mallo,ESP,DF,Celta Vigo,31,"2,590,000",La Liga
+125,Pepe Reina,ESP,GK,Villarreal,39,"2,500,000",La Liga
+126,Gonzalo Villar,ESP,MF,Getafe,24,"2,500,000",La Liga
+127,Joselu,ESP,FW,Espanyol,32,"2,500,000",La Liga
+128,Isco,ESP,"MF,FW",Sevilla,30,"2,500,000",La Liga
+129,Karim Rekik,NED,DF,Sevilla,27,"2,500,000",La Liga
+130,Samu Castillejo,ESP,"FW,MF",Valencia,27,"2,500,000",La Liga
+131,Franco Cervi,ARG,"MF,DF",Celta Vigo,28,"2,500,000",La Liga
+132,Germán Pezzella,ARG,DF,Betis,31,"2,500,000",La Liga
+133,Héctor Bellerín,ESP,DF,Barcelona,27,"2,500,000",La Liga
+134,Yeray Álvarez,ESP,DF,Athletic Club,27,"2,400,000",La Liga
+135,Kiko Casilla,ESP,GK,Getafe,35,"2,400,000",La Liga
+136,Bryan Gil,ESP,"FW,DF",Sevilla,21,"2,350,000",La Liga
+137,William Carvalho,POR,MF,Betis,30,"2,350,000",La Liga
+138,Óliver Torres,ESP,"MF,FW",Sevilla,27,"2,300,000",La Liga
+139,Unai Núñez,ESP,DF,Celta Vigo,25,"2,240,000",La Liga
+140,Alfonso Pedraza,ESP,DF,Villarreal,26,"2,200,000",La Liga
+141,Iker Muniain,ESP,"MF,FW",Athletic Club,29,"2,200,000",La Liga
+142,Djené,TOG,DF,Getafe,30,"2,200,000",La Liga
+143,Brais Méndez,ESP,MF,Real Sociedad,25,"2,200,000",La Liga
+144,Mikel Oyarzabal,ESP,"FW,MF",Real Sociedad,25,"2,200,000",La Liga
+145,Willian José,BRA,FW,Betis,30,"2,200,000",La Liga
+146,Jaime Mata,ESP,"FW,MF",Getafe,33,"2,140,000",La Liga
+147,Portu,ESP,"MF,DF",Getafe,30,"2,110,000",La Liga
+148,Jaume Doménech,ESP,GK,Valencia,31,"2,110,000",La Liga
+149,Marcos Llorente,ESP,"MF,DF",Atlético Madrid,27,"2,100,000",La Liga
+150,Mario Hermoso,ESP,DF,Atlético Madrid,27,"2,100,000",La Liga
+151,Nemanja Maksimović,SRB,MF,Getafe,27,"2,080,000",La Liga
+152,Alex Baena,ESP,"MF,FW",Villarreal,21,"2,000,000",La Liga
+153,Juan Foyth,ARG,DF,Villarreal,24,"2,000,000",La Liga
+154,Alex Telles,BRA,DF,Sevilla,29,"2,000,000",La Liga
+155,Marcos André,BRA,"FW,MF",Valencia,25,"2,000,000",La Liga
+156,Igor Zubeldia,ESP,DF,Real Sociedad,25,"2,000,000",La Liga
+157,Takefusa Kubo,JPN,"FW,MF",Real Sociedad,21,"2,000,000",La Liga
+158,Iñaki Peña,ESP,GK,Barcelona,23,"2,000,000",La Liga
+159,Joseph Aidoo,GHA,DF,Celta Vigo,26,"1,950,000",La Liga
+160,Hugo Guillamón,ESP,MF,Valencia,22,"1,920,000",La Liga
+161,Étienne Capoue,FRA,MF,Villarreal,34,"1,900,000",La Liga
+162,Sergi Darder,ESP,MF,Espanyol,28,"1,900,000",La Liga
+163,Rafa Mir,ESP,FW,Sevilla,25,"1,900,000",La Liga
+164,Dimitri Foulquier,FRA,DF,Valencia,29,"1,870,000",La Liga
+165,Aritz Elustondo,ESP,DF,Real Sociedad,28,"1,850,000",La Liga
+166,Thierry Correia,POR,DF,Valencia,23,"1,840,000",La Liga
+167,Óscar de Marcos,ESP,DF,Athletic Club,33,"1,800,000",La Liga
+168,Jesús Vallejo,ESP,DF,Real Madrid,25,"1,800,000",La Liga
+169,Ezequiel Ponce,ARG,"FW,MF",Elche,25,"1,800,000",La Liga
+170,Gastón Álvarez,URU,DF,Getafe,22,"1,800,000",La Liga
+171,Asier Villalibre,ESP,FW,Athletic Club,24,"1,770,000",La Liga
+172,Toni Lato,ESP,"DF,MF",Valencia,24,"1,760,000",La Liga
+173,Álex Berenguer,ESP,FW,Athletic Club,27,"1,700,000",La Liga
+174,Guido Rodríguez,ARG,MF,Betis,28,"1,700,000",La Liga
+175,Federico Fernández,ARG,DF,Elche,33,"1,680,000",La Liga
+176,Luis Javier Suárez,COL,FW,Almería,24,"1,640,000",La Liga
+177,Kenedy,BRA,"FW,DF",Valladolid,26,"1,620,000",La Liga
+178,Ilaix Moriba,GUI,MF,Valencia,19,"1,620,000",La Liga
+179,Aïssa Mandi,ALG,DF,Villarreal,30,"1,600,000",La Liga
+180,Lucas Ocampos,ARG,"FW,MF",Sevilla,28,"1,600,000",La Liga
+181,Borja Iglesias,ESP,FW,Betis,29,"1,600,000",La Liga
+182,Claudio Bravo,CHI,GK,Betis,39,"1,600,000",La Liga
+183,Sergio Canales,ESP,"FW,MF",Betis,31,"1,600,000",La Liga
+184,Lisandro Magallán,ARG,DF,Elche,28,"1,560,000",La Liga
+185,Mauro Arambarri,URU,MF,Getafe,26,"1,530,000",La Liga
+186,David Soria,ESP,GK,Getafe,29,"1,510,000",La Liga
+187,Aitor Fernández,ESP,GK,Osasuna,31,"1,500,000",La Liga
+188,Ezequiel Ávila,ARG,"FW,MF",Osasuna,28,"1,500,000",La Liga
+189,Anuar,MAR,"MF,FW",Valladolid,27,"1,500,000",La Liga
+190,José Luis Morales,ESP,"FW,MF",Villarreal,35,"1,500,000",La Liga
+191,Iñigo Lekue,ESP,DF,Athletic Club,29,"1,500,000",La Liga
+192,Unai Vencedor Paris,ESP,MF,Athletic Club,21,"1,500,000",La Liga
+193,Javier Pastore,ARG,MF,Elche,33,"1,500,000",La Liga
+194,Pape Gueye,SEN,MF,Sevilla,23,"1,500,000",La Liga
+195,Giorgi Mamardashvili,GEO,GK,Valencia,21,"1,500,000",La Liga
+196,Yunus Musah,USA,MF,Valencia,19,"1,500,000",La Liga
+197,Haris Seferović,SUI,FW,Celta Vigo,30,"1,500,000",La Liga
+198,Javi Galán,ESP,DF,Celta Vigo,27,"1,500,000",La Liga
+199,Joaquín,ESP,"MF,FW",Betis,41,"1,500,000",La Liga
+200,Víctor Ruiz,ESP,DF,Betis,33,"1,500,000",La Liga
+201,Darwin Machís,VEN,FW,Valladolid,29,"1,450,000",La Liga
+202,Álvaro García,ESP,"FW,MF",Rayo Vallecano,29,"1,450,000",La Liga
+203,Cristian,ESP,GK,Valencia,24,"1,450,000",La Liga
+204,Alberto Moreno,ESP,DF,Villarreal,30,"1,400,000",La Liga
+205,Viktor Tsyhankov,UKR,MF,Girona,24,"1,400,000",La Liga
+206,Florian Lejeune,FRA,DF,Rayo Vallecano,31,"1,400,000",La Liga
+207,Andrés Guardado,MEX,MF,Betis,35,"1,400,000",La Liga
+208,Gonzalo Montiel,ARG,DF,Sevilla,25,"1,380,000",La Liga
+209,Rubén García,ESP,"FW,MF",Osasuna,29,"1,350,000",La Liga
+210,Yeremi Pino,ESP,"FW,MF",Villarreal,19,"1,350,000",La Liga
+211,Augusto Solari,ARG,MF,Celta Vigo,30,"1,350,000",La Liga
+212,Rodrigo Battaglia,ARG,MF,Mallorca,31,"1,320,000",La Liga
+213,Manu Morlanes,ESP,MF,Villarreal,23,"1,310,000",La Liga
+214,Juan Miranda,ESP,DF,Betis,22,"1,300,000",La Liga
+215,Álvaro Negredo,ESP,FW,Cádiz,36,"1,290,000",La Liga
+216,Jeremías Ledesma,ARG,GK,Cádiz,29,"1,280,000",La Liga
+217,Manu Sánchez,ESP,DF,Osasuna,21,"1,260,000",La Liga
+218,Marko Dmitrović,SRB,GK,Sevilla,30,"1,260,000",La Liga
+219,Agustín Marchesín,ARG,GK,Celta Vigo,34,"1,260,000",La Liga
+220,Samuel Lino,,LW,Valencia,23,"1,250,000",La Liga
+221,Ayoze Pérez,ESP,"FW,MF",Betis,29,"1,250,000",La Liga
+222,Manu Trigueros,ESP,MF,Villarreal,30,"1,200,000",La Liga
+223,Ander Capa,ESP,DF,Athletic Club,30,"1,200,000",La Liga
+224,Omar Alderete,PAR,DF,Getafe,25,"1,200,000",La Liga
+225,Cristhian Stuani,URU,FW,Girona,35,"1,200,000",La Liga
+226,Radamel Falcao,COL,"FW,MF",Rayo Vallecano,36,"1,200,000",La Liga
+227,Edu Expósito,ESP,MF,Espanyol,25,"1,200,000",La Liga
+228,Sergi Gómez,ESP,DF,Espanyol,30,"1,200,000",La Liga
+229,Nahuel Molina,ARG,DF,Atlético Madrid,24,"1,200,000",La Liga
+230,Diego Rico,ESP,DF,Real Sociedad,29,"1,200,000",La Liga
+231,Umar Sadiq,NGA,FW,Real Sociedad,25,"1,200,000",La Liga
+232,Jorge Meré,ESP,DF,Cádiz,25,"1,200,000",La Liga
+233,Theo Bongonda,COD,"MF,FW",Cádiz,26,"1,200,000",La Liga
+234,Édgar González,ESP,DF,Betis,25,"1,200,000",La Liga
+235,Juanmi,ESP,FW,Betis,29,"1,200,000",La Liga
+236,Moi Gómez,ESP,"MF,FW",Osasuna,28,"1,150,000",La Liga
+237,Pablo Barrios,,CM,Atlético Madrid,19,"1,150,000",La Liga
+238,Óscar Rodríguez Arnaiz,ESP,MF,Celta Vigo,24,"1,150,000",La Liga
+239,Manu Vallejo,ESP,"FW,MF",Girona,25,"1,140,000",La Liga
+240,Óscar Mingueza,ESP,DF,Celta Vigo,23,"1,140,000",La Liga
+241,Johan Mojica,COL,DF,Villarreal,29,"1,100,000",La Liga
+242,Samuel Chukwueze,NGA,"FW,MF",Villarreal,23,"1,100,000",La Liga
+243,Daniel Vivian,ESP,DF,Athletic Club,23,"1,100,000",La Liga
+244,Yangel Herrera,VEN,"MF,FW",Girona,24,"1,100,000",La Liga
+245,Eray Cömert,SUI,DF,Valencia,24,"1,100,000",La Liga
+246,Cala,ESP,DF,Cádiz,32,"1,100,000",La Liga
+247,Iván Sánchez,ESP,"MF,FW",Valladolid,29,"1,080,000",La Liga
+248,Tino Kadewere,ZIM,"FW,MF",Mallorca,26,"1,080,000",La Liga
+249,Carlos Clerc,ESP,"DF,MF",Elche,30,"1,080,000",La Liga
+250,Domingos Duarte,POR,DF,Getafe,27,"1,080,000",La Liga
+251,Lucas Pérez,ESP,FW,Cádiz,33,"1,080,000",La Liga
+252,Ludwig Augustinsson,SWE,DF,Mallorca,28,"1,070,000",La Liga
+253,Jorge Cuenca,ESP,DF,Villarreal,22,"1,050,000",La Liga
+254,Sergio Asenjo,ESP,GK,Valladolid,33,"1,040,000",La Liga
+255,Dyego Sousa,POR,FW,Almería,32,"1,040,000",La Liga
+256,Roger Martí,ESP,FW,Elche,31,"1,020,000",La Liga
+257,Jordan Amavi,FRA,DF,Getafe,28,"1,020,000",La Liga
+258,Luis Hernández,ESP,DF,Cádiz,33,"1,020,000",La Liga
+259,Nacho Vidal,ESP,DF,Osasuna,27,"1,010,000",La Liga
+260,Lucas Olaza,URU,DF,Valladolid,28,"1,000,000",La Liga
+261,Sergio León,ESP,FW,Valladolid,33,"1,000,000",La Liga
+262,Kiko Femenía,ESP,DF,Villarreal,31,"1,000,000",La Liga
+263,Mikel Vesga,ESP,MF,Athletic Club,29,"1,000,000",La Liga
+264,Pol Lirola,ESP,DF,Elche,24,"1,000,000",La Liga
+265,Aleix Vidal,ESP,"MF,FW",Espanyol,32,"1,000,000",La Liga
+266,Carlos Fernández,ESP,FW,Real Sociedad,26,"1,000,000",La Liga
+267,Abner,BRA,DF,Betis,22,"1,000,000",La Liga
+268,Iván Villar,ESP,GK,Celta Vigo,25,"990,000",La Liga
+269,Pablo Maffeo,ESP,DF,Mallorca,25,"980,000",La Liga
+270,Juan Brandáriz,ESP,DF,Almería,23,"970,000",La Liga
+271,Adri Embarba,ESP,"FW,MF",Almería,30,"960,000",La Liga
+272,Kevin Vázquez,ESP,"DF,MF",Celta Vigo,29,"960,000",La Liga
+273,Sergio Herrera,ESP,GK,Osasuna,29,"950,000",La Liga
+274,Lucas Robertone,ARG,MF,Almería,25,"950,000",La Liga
+275,Martin Hongla,CMR,"DF,MF",Valladolid,24,"940,000",La Liga
+276,Valentín Castellanos,ARG,FW,Girona,23,"910,000",La Liga
+277,Mikel Balenziaga,ESP,DF,Athletic Club,34,"900,000",La Liga
+278,Ronaël Pierre-Gabriel,FRA,DF,Espanyol,24,"900,000",La Liga
+279,Andoni Gorosabel,ESP,DF,Real Sociedad,25,"900,000",La Liga
+280,Joseba Zaldúa,ESP,DF,Cádiz,30,"900,000",La Liga
+281,Fran Beltrán,ESP,MF,Celta Vigo,23,"900,000",La Liga
+282,Rui Silva,POR,GK,Betis,28,"900,000",La Liga
+283,Víctor Camarasa,ESP,CM,Betis,28,"890,000",La Liga
+284,Ander Guevara,ESP,MF,Real Sociedad,25,"870,000",La Liga
+285,Enes Ünal,TUR,FW,Getafe,25,"860,000",La Liga
+286,Paulo Gazzaniga,ARG,GK,Girona,30,"860,000",La Liga
+287,Ivo Grbić,CRO,GK,Atlético Madrid,26,"860,000",La Liga
+288,Aihen Muñoz,ESP,DF,Real Sociedad,24,"860,000",La Liga
+289,Fernando Pacheco,ESP,GK,Almería,30,"850,000",La Liga
+290,Francisco Portillo,ESP,"MF,FW",Almería,32,"850,000",La Liga
+291,Youssouf Sabaly,SEN,DF,Betis,29,"850,000",La Liga
+292,Predrag Rajković,SRB,GK,Mallorca,26,"840,000",La Liga
+293,Leandro Cabrera,URU,DF,Espanyol,31,"840,000",La Liga
+294,Tomás Alarcón,CHI,MF,Cádiz,23,"830,000",La Liga
+295,Iddrisu Baba,GHA,"MF,DF",Mallorca,26,"820,000",La Liga
+296,Omar Mascarell,ESP,"MF,DF",Elche,29,"820,000",La Liga
+297,Loren Morón,ESP,FW,Betis,28,"810,000",La Liga
+298,Giovanni González,URU,DF,Mallorca,27,"800,000",La Liga
+299,Jon Morcillo,ESP,"FW,MF",Athletic Club,23,"800,000",La Liga
+300,Álex Centelles,ESP,DF,Almería,24,"800,000",La Liga
+301,Reinildo Mandava,MOZ,DF,Atlético Madrid,28,"800,000",La Liga
+302,Mouctar Diakhaby,GUI,DF,Valencia,25,"800,000",La Liga
+303,Luiz Henrique,BRA,FW,Betis,21,"800,000",La Liga
+304,Sergio Escudero,ESP,DF,Valladolid,32,"780,000",La Liga
+305,Antonio Raillo,ESP,DF,Mallorca,30,"780,000",La Liga
+306,Dennis Hadzikadunic,BIH,DF,Mallorca,24,"780,000",La Liga
+307,Luis Milla,ESP,MF,Getafe,27,"780,000",La Liga
+308,Gonçalo Paciência,POR,"FW,MF",Celta Vigo,27,"780,000",La Liga
+309,Darko Brašanac,SRB,MF,Osasuna,30,"770,000",La Liga
+310,Rubén Alcaraz,ESP,MF,Cádiz,31,"770,000",La Liga
+311,Alexander Callens,PER,DF,Girona,30,"750,000",La Liga
+312,Rubén Peña,ESP,"DF,MF",Osasuna,31,"720,000",La Liga
+313,Alejandro Pozo Pozo,ESP,DF,Almería,23,"720,000",La Liga
+314,Fede San Emeterio,ESP,MF,Cádiz,25,"720,000",La Liga
+315,Roberto Torres,ESP,"FW,MF",Osasuna,33,"710,000",La Liga
+316,Martin Valjent,SVK,DF,Mallorca,26,"700,000",La Liga
+317,Álvaro Fernández,ESP,GK,Espanyol,24,"700,000",La Liga
+318,Rubén Sobrino,ESP,"MF,FW",Cádiz,30,"700,000",La Liga
+319,Unai García,ESP,DF,Osasuna,30,"680,000",La Liga
+320,César Montes,MEX,DF,Espanyol,25,"680,000",La Liga
+321,Álex Moreno,ESP,DF,Betis,29,"680,000",La Liga
+322,Jawad El Yamiq,MAR,DF,Valladolid,30,"670,000",La Liga
+323,Javi Sánchez,ESP,DF,Valladolid,25,"660,000",La Liga
+324,Iñigo Ruiz de Galarreta,ESP,MF,Mallorca,28,"660,000",La Liga
+325,Stole Dimitrievski,MKD,GK,Rayo Vallecano,28,"660,000",La Liga
+326,Juan Pérez,ESP,GK,Osasuna,26,"650,000",La Liga
+327,Franco Russo,ARG,DF,Mallorca,27,"650,000",La Liga
+328,Édgar Badía,ESP,GK,Elche,30,"650,000",La Liga
+329,Ander Barrenetxea,ESP,"FW,DF",Real Sociedad,20,"650,000",La Liga
+330,Kiké,ESP,FW,Osasuna,32,"640,000",La Liga
+331,Ante Budimir,CRO,FW,Osasuna,31,"630,000",La Liga
+332,Carles Aleñá,ESP,"MF,FW",Getafe,24,"630,000",La Liga
+333,David García,ESP,DF,Osasuna,28,"620,000",La Liga
+334,Juan Cruz Armada,ESP,DF,Osasuna,30,"620,000",La Liga
+335,Fidel,ESP,"MF,FW",Elche,32,"620,000",La Liga
+336,Damián Suárez,URU,"DF,MF",Getafe,34,"620,000",La Liga
+337,Íñigo Eguaras,ESP,MF,Almería,30,"620,000",La Liga
+338,Anthony Lozano,HON,FW,Cádiz,29,"620,000",La Liga
+339,Aridane Hernández,ESP,DF,Osasuna,33,"610,000",La Liga
+340,Mickael Malsa,MTQ,MF,Valladolid,26,"600,000",La Liga
+341,Filip Jørgensen,DEN,GK,Villarreal,20,"600,000",La Liga
+342,Oihan Sancet,ESP,MF,Athletic Club,22,"600,000",La Liga
+343,Fabrizio Angileri,ARG,DF,Getafe,28,"600,000",La Liga
+344,Léo Baptistão,BRA,"FW,MF",Almería,29,"600,000",La Liga
+345,Rodrigo Ely,BRA,DF,Almería,28,"600,000",La Liga
+346,Reinier,BRA,"MF,FW",Girona,20,"600,000",La Liga
+347,Domingos André Ribeiro Almeida,POR,MF,Valencia,22,"600,000",La Liga
+348,Nicolás González,ESP,MF,Valencia,20,"600,000",La Liga
+349,Jon Pacheco,ESP,DF,Real Sociedad,21,"600,000",La Liga
+350,Aitor Ruibal,ESP,"DF,FW",Betis,26,"600,000",La Liga
+351,Cenk Özkacar,TUR,DF,Valencia,21,"590,000",La Liga
+352,Martín Merquelanz,ESP,LW,Real Sociedad,27,"560,000",La Liga
+353,Mario Suárez,ESP,"MF,DF",Rayo Vallecano,35,"550,000",La Liga
+354,Dani Gómez,ESP,"MF,FW",Espanyol,24,"550,000",La Liga
+355,Clément Grenier,FRA,MF,Mallorca,31,"540,000",La Liga
+356,José Ángel Carmona,,RB,Elche,21,"540,000",La Liga
+357,Jaime Seoane,ESP,"MF,FW",Getafe,25,"540,000",La Liga
+358,Gonzalo Melero,ESP,MF,Almería,28,"540,000",La Liga
+359,Kaiky,BRA,DF,Almería,18,"540,000",La Liga
+360,Unai López,ESP,MF,Rayo Vallecano,26,"540,000",La Liga
+361,Brian Oliván,ESP,DF,Espanyol,28,"540,000",La Liga
+362,Brian Ocampo,,RW,Cádiz,23,"540,000",La Liga
+363,Luis Pérez,ESP,DF,Valladolid,27,"520,000",La Liga
+364,Nicolas Jackson,SEN,FW,Villarreal,21,"520,000",La Liga
+365,Domingos Quina,POR,MF,Elche,22,"520,000",La Liga
+366,Santi Comesaña,ESP,MF,Rayo Vallecano,25,"520,000",La Liga
+367,Fernando Calero,ESP,"DF,MF",Espanyol,26,"520,000",La Liga
+368,Óscar Gil,ESP,DF,Espanyol,25,"520,000",La Liga
+369,Youba Diarra,MLI,MF,Cádiz,24,"520,000",La Liga
+370,Óscar Trejo,ARG,"MF,FW",Rayo Vallecano,34,"510,000",La Liga
+371,Jon Moncayola,ESP,"MF,DF",Osasuna,24,"500,000",La Liga
+372,Braian Cufré,ARG,DF,Mallorca,25,"500,000",La Liga
+373,Juanjo Nieto,ESP,RB,Almería,27,"500,000",La Liga
+374,Diego López,ESP,GK,Rayo Vallecano,40,"500,000",La Liga
+375,Isaac Palazón Camacho,ESP,"FW,MF",Rayo Vallecano,27,"500,000",La Liga
+376,Adrià Pedrosa,ESP,"DF,MF",Espanyol,24,"500,000",La Liga
+377,Beñat Turrientes,ESP,"MF,FW",Real Sociedad,20,"500,000",La Liga
+378,Alfonso Espino,URU,DF,Cádiz,30,"500,000",La Liga
+379,Fali,ESP,"DF,MF",Cádiz,28,"500,000",La Liga
+380,Rodri,ESP,"FW,MF",Betis,22,"500,000",La Liga
+381,Óscar Plano,ESP,"FW,MF",Valladolid,31,"490,000",La Liga
+382,Álex Fernández,ESP,"MF,FW",Cádiz,29,"490,000",La Liga
+383,Gonzalo Plata,ECU,FW,Valladolid,21,"480,000",La Liga
+384,Jordi Masip,ESP,GK,Valladolid,33,"480,000",La Liga
+385,Bernardo Espinosa,COL,DF,Girona,33,"480,000",La Liga
+386,José Gragera,,CM,Espanyol,22,"480,000",La Liga
+387,Jesus Vazquez,ESP,"DF,MF",Valencia,19,"480,000",La Liga
+388,Isaac Carcelen,ESP,DF,Cádiz,29,"480,000",La Liga
+389,Raúl Guti,ESP,MF,Elche,25,"470,000",La Liga
+390,Toni Villa,ESP,"MF,FW",Girona,27,"470,000",La Liga
+391,Iván Alejo,ESP,"MF,FW",Cádiz,27,"470,000",La Liga
+392,Kike Barja,ESP,"FW,MF",Osasuna,25,"460,000",La Liga
+393,Selim Amallah,MAR,"MF,FW",Valladolid,25,"460,000",La Liga
+394,Sergio Camello,ESP,FW,Rayo Vallecano,21,"460,000",La Liga
+395,Lucas Torró,ESP,MF,Osasuna,28,"450,000",La Liga
+396,Lago Junior,CIV,"FW,MF",Mallorca,31,"450,000",La Liga
+397,Iván Balliu,ALB,DF,Rayo Vallecano,30,"450,000",La Liga
+398,Jørgen Strand Larsen,NOR,FW,Celta Vigo,22,"450,000",La Liga
+399,Paul Akouokou,CIV,"MF,DF",Betis,24,"450,000",La Liga
+400,Dani Rodríguez,ESP,MF,Mallorca,34,"440,000",La Liga
+401,Juanpe,ESP,DF,Girona,31,"440,000",La Liga
+402,Cyle Larin,CAN,FW,Valladolid,27,"420,000",La Liga
+403,Kike Pérez,ESP,MF,Valladolid,25,"420,000",La Liga
+404,Zouhair Feddal,MAR,DF,Valladolid,33,"420,000",La Liga
+405,Amath,SEN,"MF,FW",Mallorca,26,"420,000",La Liga
+406,Julen Agirrezabala,ESP,GK,Athletic Club,21,"420,000",La Liga
+407,Aleix García,ESP,MF,Girona,25,"420,000",La Liga
+408,Roberto Navarro,ESP,"MF,FW",Real Sociedad,20,"420,000",La Liga
+409,Álvaro Giménez,ESP,FW,Cádiz,31,"420,000",La Liga
+410,José Mari,ESP,MF,Cádiz,34,"410,000",La Liga
+411,Arnau Martinez,ESP,DF,Girona,19,"400,000",La Liga
+412,Óscar Valentín,ESP,MF,Rayo Vallecano,27,"400,000",La Liga
+413,Keidi Bare,ALB,MF,Espanyol,24,"400,000",La Liga
+414,Iago Herrerín,ESP,GK,Valencia,34,"400,000",La Liga
+415,Juan Cruz,ESP,FW,Betis,22,"400,000",La Liga
+416,Juanjo Narváez,COL,"MF,FW",Valladolid,27,"390,000",La Liga
+417,Sergi Guardiola,ESP,FW,Valladolid,31,"390,000",La Liga
+418,Antonio Sánchez,ESP,"MF,DF",Mallorca,25,"390,000",La Liga
+419,Iván Martos,ESP,CB,Almería,25,"390,000",La Liga
+420,Awer Mabil,AUS,"MF,FW",Cádiz,26,"390,000",La Liga
+421,Jon Ander Garrido,ESP,DM,Cádiz,33,"390,000",La Liga
+422,Lautaro Blanco,ARG,"DF,MF",Elche,23,"380,000",La Liga
+423,César de la Hoz,ESP,MF,Almería,30,"380,000",La Liga
+424,Diego Mariño,ESP,GK,Almería,32,"380,000",La Liga
+425,Javi Puado,ESP,"FW,MF",Espanyol,24,"380,000",La Liga
+426,Juan Carlos,ESP,GK,Girona,34,"370,000",La Liga
+427,Aimar Oroz,,CM,Osasuna,20,"360,000",La Liga
+428,Matija Nastasić,SRB,DF,Mallorca,29,"360,000",La Liga
+429,Lázaro,BRA,"FW,MF",Almería,20,"360,000",La Liga
+430,Rodrigo Riquelme,ESP,"MF,FW",Girona,22,"360,000",La Liga
+431,Catena,ESP,DF,Rayo Vallecano,27,"360,000",La Liga
+432,Antonio Blanco,,DM,Cádiz,22,"360,000",La Liga
+433,Arnau Tenas,ESP,GK,Barcelona,21,"360,000",La Liga
+434,Iván Martín,ESP,MF,Girona,23,"350,000",La Liga
+435,Abdul Mumin,GHA,DF,Rayo Vallecano,24,"350,000",La Liga
+436,Pep Chavarría,ESP,"FW,MF",Rayo Vallecano,24,"350,000",La Liga
+437,Mohamed Ali Cho,FRA,"FW,MF",Real Sociedad,18,"350,000",La Liga
+438,Daniel Martín,ESP,GK,Betis,24,"350,000",La Liga
+439,Ángel Rodríguez,ESP,"FW,MF",Mallorca,35,"340,000",La Liga
+440,Pere Milla,ESP,"FW,MF",Elche,29,"340,000",La Liga
+441,José Pozo,ESP,"MF,FW",Rayo Vallecano,26,"340,000",La Liga
+442,Pathé Ciss,SEN,"MF,DF",Rayo Vallecano,28,"340,000",La Liga
+443,Jaume Costa,ESP,DF,Mallorca,34,"330,000",La Liga
+444,Miguel Gutiérrez,ESP,DF,Girona,21,"330,000",La Liga
+445,Esteban Saveljich,MNE,FW,Rayo Vallecano,31,"330,000",La Liga
+446,David Gil,ESP,GK,Cádiz,28,"330,000",La Liga
+447,Lucas Boyé,ARG,FW,Elche,26,"320,000",La Liga
+448,José Carlos Lazo,ESP,"MF,FW",Espanyol,26,"320,000",La Liga
+449,Chris Ramos,ESP,FW,Cádiz,25,"320,000",La Liga
+450,Joaquín Fernández,ESP,DF,Valladolid,26,"310,000",La Liga
+451,Monchu,ESP,MF,Valladolid,22,"300,000",La Liga
+452,Dominik Greif,SVK,GK,Mallorca,25,"300,000",La Liga
+453,El Bilal Touré,MLI,FW,Almería,20,"300,000",La Liga
+454,Houboulang Mendes,GNB,DF,Almería,24,"300,000",La Liga
+455,Borja García,ESP,"MF,FW",Girona,31,"300,000",La Liga
+456,Salvi,ESP,"FW,MF",Rayo Vallecano,31,"300,000",La Liga
+457,Carlos Dominguez,ESP,DF,Celta Vigo,21,"300,000",La Liga
+458,Shon Weissman,ISR,FW,Valladolid,26,"290,000",La Liga
+459,Tete Morente,ESP,"MF,DF",Elche,25,"290,000",La Liga
+460,Bebé,CPV,FW,Rayo Vallecano,32,"280,000",La Liga
+461,Vinicius Souza,BRA,MF,Espanyol,23,"280,000",La Liga
+462,Leonardo Román,ESP,GK,Mallorca,22,"270,000",La Liga
+463,Luca de la Torre,USA,MF,Celta Vigo,24,"270,000",La Liga
+464,Yan Couto,BRA,"DF,MF",Girona,20,"260,000",La Liga
+465,Renato Tapia,PER,"MF,DF",Celta Vigo,27,"260,000",La Liga
+466,Lee Kang-in,KOR,"MF,FW",Mallorca,21,"250,000",La Liga
+467,Gorka Guruzeta,ESP,FW,Athletic Club,25,"250,000",La Liga
+468,Stefan Mitrović,SRB,DF,Getafe,32,"250,000",La Liga
+469,Nicolás Fernández Mercau,,LB,Elche,23,"240,000",La Liga
+470,Fernando,ESP,GK,Almería,32,"240,000",La Liga
+471,Alex Sola,ESP,DF,Real Sociedad,23,"240,000",La Liga
+472,Andoni Zubiaurre,ESP,GK,Real Sociedad,25,"240,000",La Liga
+473,Víctor Chust,ESP,DF,Cádiz,22,"240,000",La Liga
+474,Williot Swedberg,SWE,MF,Celta Vigo,18,"240,000",La Liga
+475,Abdón Prats,ESP,"FW,MF",Mallorca,29,"230,000",La Liga
+476,Randy Ntekja,FRA,"FW,MF",Elche,24,"230,000",La Liga
+477,Copete,ESP,DF,Mallorca,22,"210,000",La Liga
+478,Axel Werner,ARG,GK,Elche,26,"210,000",La Liga
+479,Gerard Gumbau,ESP,MF,Elche,27,"210,000",La Liga
+480,Pedro Bigas,ESP,DF,Elche,31,"210,000",La Liga
+481,Juanmi Latasa,,CF,Getafe,21,"210,000",La Liga
+482,Nico Ribaudo,ESP,"MF,FW",Espanyol,21,"210,000",La Liga
+483,Momo Mbaye,,CB,Cádiz,24,"210,000",La Liga
+484,Pablo Torre,,AM,Barcelona,19,"210,000",La Liga
+485,Ramón Terrats,ESP,MF,Villarreal,21,"200,000",La Liga
+486,Ander Iru,,GK,Athletic Club,24,"200,000",La Liga
+487,Oier Zarraga,ESP,MF,Athletic Club,23,"200,000",La Liga
+488,Fran Garcia,ESP,DF,Rayo Vallecano,22,"200,000",La Liga
+489,Santiago Arzamendia,PAR,"DF,MF",Cádiz,24,"200,000",La Liga
+490,Javi Hernández,ESP,DF,Girona,24,"190,000",La Liga
+491,Abde Ezzalzouli,,LW,Osasuna,21,"180,000",La Liga
+492,Pablo Ibáñez,ESP,MF,Osasuna,23,"180,000",La Liga
+493,Ángel Algobia,ESP,MF,Getafe,23,"180,000",La Liga
+494,Iglesias,ESP,"DF,MF",Getafe,24,"180,000",La Liga
+495,Samu Costa,POR,MF,Almería,21,"180,000",La Liga
+496,Ibrahima Kebe,MLI,DM,Girona,22,"180,000",La Liga
+497,Pol Lozano,ESP,MF,Espanyol,22,"180,000",La Liga
+498,Gabriel Veiga,ESP,MF,Celta Vigo,20,"180,000",La Liga
+499,Sergio Akieme,ESP,DF,Almería,24,"170,000",La Liga
+500,Iván Fresneda,,RB,Valladolid,18,"160,000",La Liga
+501,John Nwankwo,,CB,Elche,22,"160,000",La Liga
+502,Diego Fuoli,ESP,GK,Almería,24,"160,000",La Liga
+503,Gui Guedes,POR,MF,Almería,20,"160,000",La Liga
+504,Marko Milovanovic,,CF,Almería,19,"160,000",La Liga
+505,Martin Svidersky,,DM,Almería,20,"160,000",La Liga
+506,Valery Fernández,ESP,"MF,DF",Girona,22,"160,000",La Liga
+507,Andrés Martín,ESP,"FW,MF",Rayo Vallecano,23,"160,000",La Liga
+508,Mario Hernández,ESP,DF,Rayo Vallecano,23,"160,000",La Liga
+509,Cristhian Mosquera,COL,DF,Valencia,18,"160,000",La Liga
+510,Alejandro Balde,ESP,DF,Barcelona,18,"160,000",La Liga
+511,Kike Saverio,ESP,LW,Osasuna,23,"155,000",La Liga
+512,Álvaro Aguado,ESP,MF,Valladolid,26,"155,000",La Liga
+513,Diego González,ESP,DF,Elche,27,"155,000",La Liga
+514,Enzo Roco,CHI,DF,Elche,29,"155,000",La Liga
+515,Gonzalo Verdú,ESP,DF,Elche,33,"155,000",La Liga
+516,Helibelton Palacios,COL,DF,Elche,29,"155,000",La Liga
+517,Josan,ESP,"DF,MF",Elche,32,"155,000",La Liga
+518,Diego Conde,ESP,GK,Getafe,23,"155,000",La Liga
+519,Arnau Puigmal,ESP,"MF,FW",Almería,21,"155,000",La Liga
+520,Largie Ramazani,BEL,"FW,MF",Almería,21,"155,000",La Liga
+521,Srđan Babić,SRB,DF,Almería,26,"155,000",La Liga
+522,Samuel Sáiz,ESP,MF,Girona,31,"155,000",La Liga
+523,Aitor Paredes,,CB,Athletic Club,22,"150,000",La Liga
+524,Santiago Bueno,URU,DF,Girona,23,"150,000",La Liga
+525,Toni Fuidias,,GK,Girona,21,"130,000",La Liga
+526,Morro,ESP,GK,Rayo Vallecano,21,"120,000",La Liga
+527,Joan García,ESP,GK,Espanyol,21,"120,000",La Liga
+528,Lucas Rosa,,RB,Valladolid,22,"100,000",La Liga
+529,Rubén Sánchez,,RB,Espanyol,21,"100,000",La Liga
+530,Omar El Hilali,,RB,Espanyol,19,"60,000",La Liga
+531,Simo Keddari,,CB,Espanyol,17,"60,000",La Liga
+1,Dušan Vlahović,SRB,FW,Juventus,22,"12,960,000",Serie A
+2,Leonardo Bonucci,ITA,DF,Juventus,35,"12,040,000",Serie A
+3,Wojciech Szczęsny,POL,GK,Juventus,32,"12,040,000",Serie A
+4,Lautaro Martínez,ARG,FW,Inter,24,"11,110,000",Serie A
+5,Marcelo Brozović,CRO,MF,Inter,29,"11,110,000",Serie A
+6,Alex Sandro,BRA,DF,Juventus,31,"11,110,000",Serie A
+7,Romelu Lukaku,BEL,FW,Inter,29,"10,900,000",Serie A
+8,Paul Pogba,FRA,"MF,FW",Juventus,29,"10,260,000",Serie A
+9,Edin Džeko,BIH,FW,Inter,36,"9,260,000",Serie A
+10,Hakan Çalhanoğlu,TUR,MF,Inter,28,"9,260,000",Serie A
+11,Nicolò Barella,ITA,MF,Inter,25,"9,260,000",Serie A
+12,Gleison Bremer,BRA,DF,Juventus,25,"9,260,000",Serie A
+13,Federico Chiesa,ITA,"DF,MF",Juventus,24,"9,260,000",Serie A
+14,Juan Cuadrado,COL,"DF,FW",Juventus,34,"9,260,000",Serie A
+15,Adrien Rabiot,FRA,MF,Juventus,27,"8,970,000",Serie A
+16,Leandro Paredes,ARG,MF,Juventus,28,"8,970,000",Serie A
+17,Ángel Di María,ARG,"FW,MF",Juventus,34,"7,690,000",Serie A
+18,Ciro Immobile,ITA,FW,Lazio,32,"7,410,000",Serie A
+19,Paulo Dybala,ARG,"MF,FW",Roma,28,"7,040,000",Serie A
+20,Stefan de Vrij,NED,DF,Inter,30,"7,040,000",Serie A
+21,Gianluca Mancini,ITA,DF,Roma,26,"6,480,000",Serie A
+22,Lorenzo Pellegrini,ITA,MF,Roma,26,"6,480,000",Serie A
+23,Stephan El Shaarawy,ITA,"DF,MF",Roma,29,"6,480,000",Serie A
+24,Joaquín Correa,ARG,FW,Inter,27,"6,480,000",Serie A
+25,Daniele Rugani,ITA,DF,Juventus,28,"6,480,000",Serie A
+26,Piotr Zieliński,POL,MF,Napoli,28,"6,480,000",Serie A
+27,Georginio Wijnaldum,NED,MF,Roma,31,"6,410,000",Serie A
+28,Sergiño Dest,USA,DF,Milan,21,"6,000,000",Serie A
+29,Sergej Milinković-Savić,SRB,MF,Lazio,27,"5,930,000",Serie A
+30,Tammy Abraham,ENG,FW,Roma,24,"5,770,000",Serie A
+31,Alexis Sánchez,CHI,CF,Inter,33,"5,770,000",Serie A
+32,Nikola Milenković,SRB,DF,Fiorentina,24,"5,560,000",Serie A
+33,Alessio Romagnoli,ITA,DF,Lazio,27,"5,560,000",Serie A
+34,Leonardo Spinazzola,ITA,DF,Roma,29,"5,560,000",Serie A
+35,Milan Škriniar,SVK,DF,Inter,27,"5,560,000",Serie A
+36,Manuel Locatelli,ITA,MF,Juventus,24,"5,560,000",Serie A
+37,Domenico Berardi,ITA,FW,Sassuolo,27,"5,560,000",Serie A
+38,Victor Osimhen,NGA,FW,Napoli,23,"5,450,000",Serie A
+39,Pablo Marí,ESP,DF,Monza,28,"5,200,000",Serie A
+40,Alessandro Bastoni,ITA,DF,Inter,23,"5,190,000",Serie A
+41,Nemanja Matić,SRB,MF,Roma,33,"5,130,000",Serie A
+42,Divock Origi,BEL,FW,Milan,27,"5,130,000",Serie A
+43,Theo Hernández,FRA,DF,Milan,24,"5,130,000",Serie A
+44,Danilo,BRA,DF,Juventus,31,"5,130,000",Serie A
+45,Hirving Lozano,MEX,FW,Napoli,27,"5,130,000",Serie A
+46,Chris Smalling,ENG,DF,Roma,32,"4,870,000",Serie A
+47,Henrikh Mkhitaryan,ARM,MF,Inter,33,"4,870,000",Serie A
+48,Luis Alberto,ESP,MF,Lazio,29,"4,630,000",Serie A
+49,Federico Fazio,ARG,DF,Salernitana,35,"4,630,000",Serie A
+50,Nicolò Zaniolo,ITA,"MF,FW",Roma,23,"4,630,000",Serie A
+51,Robin Gosens,GER,DF,Inter,28,"4,630,000",Serie A
+52,Samir Handanović,SVN,GK,Inter,38,"4,630,000",Serie A
+53,Sandro Tonali,ITA,MF,Milan,22,"4,630,000",Serie A
+54,Tiemoué Bakayoko,FRA,MF,Milan,27,"4,630,000",Serie A
+55,Giacomo Raspadori,ITA,"FW,MF",Napoli,22,"4,630,000",Serie A
+56,Kim Min-jae,KOR,DF,Napoli,25,"4,630,000",Serie A
+57,Ante Rebić,CRO,"FW,MF",Milan,28,"4,490,000",Serie A
+58,Fikayo Tomori,ENG,DF,Milan,24,"4,490,000",Serie A
+59,Olivier Giroud,FRA,FW,Milan,35,"4,490,000",Serie A
+60,Arkadiusz Milik,POL,FW,Juventus,28,"4,490,000",Serie A
+61,Andrea Belotti,ITA,FW,Roma,28,"4,440,000",Serie A
+62,Andrea Pinamonti,ITA,FW,Sassuolo,23,"4,440,000",Serie A
+63,Giovanni Di Lorenzo,ITA,DF,Napoli,28,"4,440,000",Serie A
+64,Matteo Darmian,ITA,DF,Inter,32,"4,100,000",Serie A
+65,Rick Karsdorp,NED,DF,Roma,27,"4,070,000",Serie A
+66,Matteo Politano,ITA,FW,Napoli,28,"4,070,000",Serie A
+67,Mário Rui,POR,DF,Napoli,31,"3,890,000",Serie A
+68,Krzysztof Piątek,POL,FW,Salernitana,27,"3,850,000",Serie A
+69,Rui Patrício,POR,GK,Roma,34,"3,850,000",Serie A
+70,André Onana,CMR,GK,Inter,26,"3,850,000",Serie A
+71,Aaron Ramsey,WAL,CM,Juventus,31,"3,850,000",Serie A
+72,Moise Kean,ITA,FW,Juventus,22,"3,850,000",Serie A
+73,Stefano Sensi,ITA,MF,Monza,26,"3,700,000",Serie A
+74,Viktor Kovalenko,UKR,MF,Spezia,26,"3,700,000",Serie A
+75,Elseid Hysaj,ALB,DF,Lazio,28,"3,700,000",Serie A
+76,Mattia Zaccagni,ITA,FW,Lazio,27,"3,700,000",Serie A
+77,Andrea Conti,ITA,DF,Sampdoria,28,"3,700,000",Serie A
+78,Merih Demiral,TUR,DF,Atalanta,24,"3,700,000",Serie A
+79,Danilo D'Ambrosio,ITA,DF,Inter,33,"3,700,000",Serie A
+80,Alessandro Florenzi,ITA,DF,Milan,31,"3,700,000",Serie A
+81,Davide Calabria,ITA,DF,Milan,25,"3,700,000",Serie A
+82,Mike Maignan,FRA,GK,Milan,27,"3,590,000",Serie A
+83,Matías Vecino,URU,MF,Lazio,30,"3,520,000",Serie A
+84,Marko Arnautović,AUT,FW,Bologna,33,"3,460,000",Serie A
+85,Andre-Frank Zambo Anguissa,CMR,MF,Napoli,26,"3,460,000",Serie A
+86,Andrea Petagna,ITA,FW,Monza,27,"3,330,000",Serie A
+87,Duván Zapata,COL,FW,Atalanta,31,"3,330,000",Serie A
+88,Bryan Cristante,ITA,"MF,DF",Roma,27,"3,330,000",Serie A
+89,Marash Kumbulla,ALB,DF,Roma,22,"3,330,000",Serie A
+90,Giovanni Simeone,ARG,FW,Napoli,27,"3,330,000",Serie A
+91,Nikola Vlašić,CRO,"MF,FW",Torino,24,"3,210,000",Serie A
+92,Luka Jović,SRB,"FW,MF",Fiorentina,24,"3,210,000",Serie A
+93,Nicolás González,ARG,"FW,MF",Fiorentina,24,"3,210,000",Serie A
+94,Pedro,ESP,FW,Lazio,35,"3,210,000",Serie A
+95,Denzel Dumfries,NED,DF,Inter,26,"3,210,000",Serie A
+96,Arthur Melo,BRA,DM,Juventus,26,"3,210,000",Serie A
+97,Filip Kostić,SRB,"DF,FW",Juventus,29,"3,210,000",Serie A
+98,Weston McKennie,USA,"MF,DF",Juventus,23,"3,210,000",Serie A
+99,Diego Demme,GER,MF,Napoli,30,"3,210,000",Serie A
+100,Tanguy Ndombele,FRA,MF,Napoli,25,"3,210,000",Serie A
+101,Simone Verdi,ITA,"MF,FW",Hellas Verona,30,"3,150,000",Serie A
+102,Armando Izzo,ITA,DF,Monza,30,"3,150,000",Serie A
+103,Manuel Lazzari,ITA,DF,Lazio,28,"3,150,000",Serie A
+104,Antonio Sanabria,PAR,FW,Torino,26,"2,960,000",Serie A
+105,Rolando Mandragora,ITA,MF,Fiorentina,25,"2,960,000",Serie A
+106,Juan Musso,ARG,GK,Atalanta,28,"2,960,000",Serie A
+107,Federico Dimarco,ITA,DF,Inter,24,"2,960,000",Serie A
+108,Felipe Anderson,BRA,FW,Lazio,29,"2,820,000",Serie A
+109,Charles De Ketelaere,BEL,"MF,FW",Milan,21,"2,820,000",Serie A
+110,Aleksei Miranchuk,RUS,MF,Torino,26,"2,780,000",Serie A
+111,Ricardo Rodríguez,SUI,DF,Torino,29,"2,780,000",Serie A
+112,Antonín Barák,CZE,MF,Fiorentina,27,"2,780,000",Serie A
+113,Giacomo Bonaventura,ITA,MF,Fiorentina,32,"2,780,000",Serie A
+114,Jeremie Boga,CIV,"MF,FW",Atalanta,25,"2,780,000",Serie A
+115,Mattia Destro,ITA,"FW,MF",Empoli,31,"2,780,000",Serie A
+116,Francesco Acerbi,ITA,DF,Inter,34,"2,780,000",Serie A
+117,Roberto Gagliardini,ITA,MF,Inter,28,"2,780,000",Serie A
+118,Ismaël Bennacer,ALG,MF,Milan,24,"2,780,000",Serie A
+119,Rade Krunić,BIH,MF,Milan,28,"2,780,000",Serie A
+120,Mattia De Sciglio,ITA,DF,Juventus,29,"2,780,000",Serie A
+121,Mattia Perin,ITA,GK,Juventus,29,"2,780,000",Serie A
+122,Alex Meret,ITA,GK,Napoli,25,"2,780,000",Serie A
+123,Karol Linetty,POL,MF,Torino,27,"2,590,000",Serie A
+124,Gaetano Castrovilli,ITA,MF,Fiorentina,25,"2,590,000",Serie A
+125,Danilo Cataldi,ITA,MF,Lazio,27,"2,590,000",Serie A
+126,Marlon,BRA,DF,Monza,26,"2,560,000",Serie A
+127,Éderson,BRA,MF,Atalanta,23,"2,560,000",Serie A
+128,Zeki Çelik,TUR,DF,Roma,25,"2,560,000",Serie A
+129,Pierre Kalulu,FRA,DF,Milan,22,"2,560,000",Serie A
+130,Marin Pongračić,CRO,DF,Lecce,24,"2,500,000",Serie A
+131,Alfred Duncan,GHA,MF,Fiorentina,29,"2,410,000",Serie A
+132,Marco Benassi,ITA,DF,Fiorentina,27,"2,410,000",Serie A
+133,Luca Pellegrini,ITA,DF,Lazio,23,"2,410,000",Serie A
+134,Sebastiano Luperto,ITA,DF,Empoli,25,"2,410,000",Serie A
+135,Antonio Candreva,ITA,"MF,DF",Salernitana,35,"2,410,000",Serie A
+136,Florian Thauvin,FRA,"FW,MF",Udinese,29,"2,310,000",Serie A
+137,Ademola Lookman,NGA,"FW,MF",Atalanta,24,"2,310,000",Serie A
+138,Luis Muriel,COL,"FW,MF",Atalanta,31,"2,310,000",Serie A
+139,Amir Rrahmani,KVX,DF,Napoli,28,"2,310,000",Serie A
+140,Christian Kouamé,CIV,FW,Fiorentina,24,"2,220,000",Serie A
+141,Cristiano Biraghi,ITA,DF,Fiorentina,29,"2,220,000",Serie A
+142,Mohamed Fares,ALG,"DF,FW",Lazio,26,"2,220,000",Serie A
+143,Patric,ESP,DF,Lazio,29,"2,220,000",Serie A
+144,Ștefan Radu,ROU,FW,Lazio,35,"2,220,000",Serie A
+145,Federico Bonazzoli,ITA,"FW,MF",Salernitana,25,"2,220,000",Serie A
+146,Dalbert Henrique,BRA,LB,Inter,29,"2,220,000",Serie A
+147,Juan Jesus,BRA,DF,Napoli,31,"2,220,000",Serie A
+148,Arthur Cabral,BRA,FW,Fiorentina,24,"2,180,000",Serie A
+149,Jonathan Ikone,FRA,FW,Fiorentina,24,"2,180,000",Serie A
+150,Nicola Sansone,ITA,FW,Bologna,30,"2,050,000",Serie A
+151,Roberto Soriano,ITA,"FW,MF",Bologna,31,"2,050,000",Serie A
+152,Josip Brekalo,CRO,"FW,MF",Fiorentina,24,"2,050,000",Serie A
+153,Stanislav Lobotka,SVK,MF,Napoli,27,"2,050,000",Serie A
+154,Riccardo Orsolini,ITA,FW,Bologna,25,"2,040,000",Serie A
+155,Soualiho Meïté,FRA,MF,Cremonese,28,"2,040,000",Serie A
+156,Valentino Lazaro,AUT,DF,Torino,26,"1,920,000",Serie A
+157,Gary Medel,CHI,"MF,DF",Bologna,34,"1,920,000",Serie A
+158,Dodô,BRA,DF,Fiorentina,23,"1,920,000",Serie A
+159,Sofyan Amrabat,MAR,MF,Fiorentina,25,"1,920,000",Serie A
+160,Eldor Shomurodov,UZB,FW,Spezia,27,"1,920,000",Serie A
+161,Teun Koopmeiners,NED,MF,Atalanta,24,"1,920,000",Serie A
+162,Junior Sambia,FRA,DF,Salernitana,25,"1,920,000",Serie A
+163,Roger Ibanez,BRA,DF,Roma,23,"1,920,000",Serie A
+164,Aster Vranckx,BEL,MF,Milan,19,"1,920,000",Serie A
+165,Brahim Díaz,MAR,"MF,FW",Milan,22,"1,920,000",Serie A
+166,Simon Kjær,DEN,DF,Milan,33,"1,920,000",Serie A
+167,Zlatan Ibrahimović,SWE,FW,Milan,40,"1,920,000",Serie A
+168,Elif Elmas,MKD,"FW,MF",Napoli,22,"1,920,000",Serie A
+169,Mathías Olivera,URU,DF,Napoli,24,"1,920,000",Serie A
+170,Marco Silvestri,ITA,GK,Udinese,31,"1,850,000",Serie A
+171,Etrit Berisha,ALB,GK,Torino,33,"1,850,000",Serie A
+172,Ola Aina,NGA,DF,Torino,25,"1,850,000",Serie A
+173,Samuele Ricci,ITA,MF,Torino,20,"1,850,000",Serie A
+174,Yann Karamoh,FRA,"MF,FW",Torino,24,"1,850,000",Serie A
+175,Andrea Cambiaso,ITA,DF,Bologna,22,"1,850,000",Serie A
+176,Kevin Bonifazi,ITA,DF,Bologna,26,"1,850,000",Serie A
+177,Alessio Cragno,ITA,GK,Monza,28,"1,850,000",Serie A
+178,Nicolò Rovella,ITA,MF,Monza,20,"1,850,000",Serie A
+179,Ivan Provedel,ITA,GK,Lazio,28,"1,850,000",Serie A
+180,Matteo Cancellieri,ITA,FW,Lazio,20,"1,850,000",Serie A
+181,Nicolò Casale,ITA,DF,Lazio,24,"1,850,000",Serie A
+182,Mario Pašalić,CRO,"MF,FW",Atalanta,27,"1,850,000",Serie A
+183,Marten de Roon,NED,MF,Atalanta,31,"1,850,000",Serie A
+184,Rafael Tolói,ITA,DF,Atalanta,31,"1,850,000",Serie A
+185,Ionuț Radu,ROU,GK,Cremonese,25,"1,850,000",Serie A
+186,Lorenzo Tonelli,ITA,DF,Empoli,32,"1,850,000",Serie A
+187,Giulio Maggiore,ITA,MF,Salernitana,24,"1,850,000",Serie A
+188,Junior Messias,BRA,"FW,DF",Milan,31,"1,850,000",Serie A
+189,Tommaso Pobega,ITA,MF,Milan,23,"1,850,000",Serie A
+190,Federico Gatti,ITA,DF,Juventus,24,"1,850,000",Serie A
+191,Nicolò Fagioli,ITA,MF,Juventus,21,"1,850,000",Serie A
+192,Andrea Consigli,ITA,GK,Sassuolo,35,"1,850,000",Serie A
+193,Gonzalo Escalante,ARG,MF,Cremonese,29,"1,810,000",Serie A
+194,Perr Schuurs,NED,DF,Torino,22,"1,790,000",Serie A
+195,Toma Bašić,CRO,MF,Lazio,25,"1,790,000",Serie A
+196,Boulaye Dia,SEN,"FW,MF",Salernitana,25,"1,790,000",Serie A
+197,Rafael Leão,POR,"FW,MF",Milan,23,"1,790,000",Serie A
+198,Omar Colley,GAM,DF,Sampdoria,29,"1,760,000",Serie A
+199,Lorenzo De Silvestri,ITA,DF,Bologna,34,"1,670,000",Serie A
+200,Łukasz Skorupski,POL,GK,Bologna,31,"1,670,000",Serie A
+201,Gianluca Caprari,ITA,"MF,FW",Monza,29,"1,670,000",Serie A
+202,Dimitris Nikolaou,GRE,DF,Spezia,23,"1,670,000",Serie A
+203,Adam Marušić,MNE,DF,Lazio,29,"1,670,000",Serie A
+204,Davide Zappacosta,ITA,DF,Atalanta,30,"1,670,000",Serie A
+205,Alberto Grassi,ITA,MF,Empoli,27,"1,670,000",Serie A
+206,Ardian Ismajli,ALB,DF,Empoli,25,"1,670,000",Serie A
+207,Nicolas Haas,SUI,MF,Empoli,26,"1,670,000",Serie A
+208,Luigi Sepe,ITA,GK,Salernitana,31,"1,670,000",Serie A
+209,Raoul Bellanova,ITA,DF,Inter,22,"1,670,000",Serie A
+210,Diego Llorente,ESP,DF,Roma,28,"1,650,000",Serie A
+211,Santiago Ascacíbar,ARG,MF,Cremonese,25,"1,600,000",Serie A
+212,William Troost-Ekong,NGA,DF,Salernitana,28,"1,590,000",Serie A
+213,Grégoire Defrel,MTQ,FW,Sassuolo,31,"1,570,000",Serie A
+214,Gonzalo Villar,ESP,MF,Sampdoria,24,"1,540,000",Serie A
+215,Nedim Bajrami,ALB,"MF,FW",Empoli,23,"1,540,000",Serie A
+216,Ante Ćorić,CRO,AM,Roma,25,"1,540,000",Serie A
+217,Mady Camara,,CM,Roma,25,"1,540,000",Serie A
+218,Matías Viña,URU,DF,Roma,24,"1,540,000",Serie A
+219,Kristjan Asllani,ALB,MF,Inter,20,"1,540,000",Serie A
+220,Ciprian Tătărușanu,ROU,GK,Milan,36,"1,540,000",Serie A
+221,Kaio Jorge,BRA,CF,Juventus,21,"1,540,000",Serie A
+222,Khvicha Kvaratskhelia,GEO,FW,Napoli,21,"1,540,000",Serie A
+223,Leo Skiri Østigård,NOR,DF,Napoli,22,"1,540,000",Serie A
+224,Musa Barrow,GAM,"FW,MF",Bologna,23,"1,480,000",Serie A
+225,Matteo Pessina,ITA,MF,Monza,25,"1,480,000",Serie A
+226,Pierluigi Gollini,ITA,GK,Fiorentina,27,"1,480,000",Serie A
+227,Pietro Terracciano,ITA,GK,Fiorentina,32,"1,480,000",Serie A
+228,Albin Ekdal,SWE,MF,Spezia,33,"1,480,000",Serie A
+229,Emil Audero,ITA,GK,Sampdoria,25,"1,480,000",Serie A
+230,Filip Đuričić,SRB,"MF,FW",Sampdoria,30,"1,480,000",Serie A
+231,Francesco Caputo,ITA,FW,Sampdoria,34,"1,480,000",Serie A
+232,Berat Djimsiti,ALB,DF,Atalanta,29,"1,480,000",Serie A
+233,Hans Hateboer,NED,DF,Atalanta,28,"1,480,000",Serie A
+234,José Luis Palomino,ARG,DF,Atalanta,32,"1,480,000",Serie A
+235,Liam Henderson,SCO,MF,Empoli,26,"1,480,000",Serie A
+236,Marko Pjaca,CRO,"MF,FW",Empoli,27,"1,480,000",Serie A
+237,Guillermo Ochoa,MEX,GK,Salernitana,37,"1,480,000",Serie A
+238,Matteo Gabbia,ITA,DF,Milan,22,"1,480,000",Serie A
+239,Jeison Murillo,COL,DF,Sampdoria,30,"1,410,000",Serie A
+240,Manolo Gabbiadini,ITA,"FW,MF",Sampdoria,30,"1,410,000",Serie A
+241,Adama Soumaoro,FRA,DF,Bologna,30,"1,390,000",Serie A
+242,Federico Di Francesco,ITA,"FW,MF",Lecce,28,"1,390,000",Serie A
+243,Ilija Nestorovski,MKD,"FW,MF",Udinese,32,"1,300,000",Serie A
+244,Mato Jajalo,BIH,MF,Udinese,34,"1,300,000",Serie A
+245,Kevin Lasagna,ITA,"FW,MF",Hellas Verona,29,"1,300,000",Serie A
+246,Saša Lukić,SRB,MF,Torino,25,"1,300,000",Serie A
+247,Francesco Bardi,ITA,GK,Bologna,30,"1,300,000",Serie A
+248,Salvatore Sirigu,ITA,GK,Fiorentina,35,"1,300,000",Serie A
+249,Youssef Maleh,MAR,MF,Fiorentina,23,"1,300,000",Serie A
+250,Bartłomiej Drągowski,POL,GK,Spezia,24,"1,300,000",Serie A
+251,Emmanuel Gyasi,GHA,"FW,DF",Spezia,28,"1,300,000",Serie A
+252,Nicola Murru,ITA,DF,Sampdoria,27,"1,300,000",Serie A
+253,Tomás Rincón,VEN,MF,Sampdoria,34,"1,300,000",Serie A
+254,Valerio Verre,ITA,MF,Sampdoria,28,"1,300,000",Serie A
+255,Vlad Chiricheș,ROU,DF,Cremonese,32,"1,300,000",Serie A
+256,Antonio Mirante,ITA,GK,Milan,39,"1,300,000",Serie A
+257,Davide Frattesi,ITA,MF,Sassuolo,22,"1,300,000",Serie A
+258,Rogério,BRA,DF,Sassuolo,24,"1,300,000",Serie A
+259,Gerard Deulofeu,ESP,FW,Udinese,28,"1,280,000",Serie A
+260,Roberto Pereyra,ARG,"DF,MF",Udinese,31,"1,280,000",Serie A
+261,Pietro Pellegri,ITA,FW,Torino,21,"1,280,000",Serie A
+262,Lucas Martínez Quarta,ARG,DF,Fiorentina,26,"1,280,000",Serie A
+263,Riccardo Saponara,ITA,FW,Fiorentina,30,"1,280,000",Serie A
+264,Jeroen Zoet,NED,GK,Spezia,31,"1,280,000",Serie A
+265,Luís Maximiano,POR,GK,Lazio,23,"1,280,000",Serie A
+266,Joakim Mæhle,DEN,"DF,MF",Atalanta,25,"1,280,000",Serie A
+267,Ruslan Malinovskyi,UKR,"MF,FW",Atalanta,29,"1,280,000",Serie A
+268,Răzvan Marin,ROU,MF,Empoli,26,"1,280,000",Serie A
+269,Domagoj Bradarić,CRO,DF,Salernitana,22,"1,280,000",Serie A
+270,Mile Svilar,SRB,GK,Roma,22,"1,280,000",Serie A
+271,Alexis Saelemaekers,BEL,"FW,DF",Milan,23,"1,280,000",Serie A
+272,Fodé Ballo-Touré,SEN,DF,Milan,25,"1,280,000",Serie A
+273,Agustín Álvarez Martínez,URU,"FW,MF",Sassuolo,21,"1,280,000",Serie A
+274,Assan Ceesay,GAM,FW,Lecce,28,"1,280,000",Serie A
+275,Luca Caldirola,ITA,DF,Monza,31,"1,260,000",Serie A
+276,Patrick Ciurria,ITA,"DF,MF",Monza,27,"1,260,000",Serie A
+277,Nikola Moro,CRO,MF,Bologna,24,"1,240,000",Serie A
+278,Adolfo Gaich,ARG,FW,Hellas Verona,23,"1,230,000",Serie A
+279,Harry Winks,ENG,MF,Sampdoria,26,"1,210,000",Serie A
+280,Mattia Caldara,ITA,DF,Spezia,28,"1,200,000",Serie A
+281,Adam Masina,MAR,DF,Udinese,28,"1,150,000",Serie A
+282,Joshua Zirkzee,NED,FW,Bologna,21,"1,150,000",Serie A
+283,Arkadiusz Reca,POL,DF,Spezia,27,"1,150,000",Serie A
+284,Marcos Antônio,BRA,MF,Lazio,22,"1,150,000",Serie A
+285,Cyriel Dessers,NGA,FW,Cremonese,27,"1,150,000",Serie A
+286,Dylan Bronn,TUN,DF,Salernitana,27,"1,150,000",Serie A
+287,Armand Lauriente,FRA,FW,Sassuolo,23,"1,150,000",Serie A
+288,Christian Gytkjær,DEN,"FW,MF",Monza,32,"1,120,000",Serie A
+289,Bram Nuytinck,NED,DF,Udinese,32,"1,110,000",Serie A
+290,Darko Lazović,SRB,"MF,DF",Hellas Verona,31,"1,110,000",Serie A
+291,Giangiacomo Magnani,ITA,DF,Hellas Verona,26,"1,110,000",Serie A
+292,Koray Günter,GER,DF,Hellas Verona,27,"1,110,000",Serie A
+293,Ronaldo Vieira,ENG,MF,Torino,24,"1,110,000",Serie A
+294,Luca Ranieri,ITA,DF,Fiorentina,23,"1,110,000",Serie A
+295,Riccardo Sottil,ITA,FW,Fiorentina,23,"1,110,000",Serie A
+296,Mehdi Bourabia,MAR,MF,Spezia,30,"1,110,000",Serie A
+297,Marco Sportiello,ITA,GK,Atalanta,30,"1,110,000",Serie A
+298,Filippo Bandinelli,ITA,MF,Empoli,27,"1,110,000",Serie A
+299,Guglielmo Vicario,ITA,GK,Empoli,25,"1,110,000",Serie A
+300,Ivan Radovanović,SRB,"MF,DF",Salernitana,33,"1,110,000",Serie A
+301,Leonardo Capezzi,ITA,MF,Salernitana,27,"1,110,000",Serie A
+302,Gian Marco Ferrari,ITA,DF,Sassuolo,30,"1,110,000",Serie A
+303,Ondrej Duda,SVK,MF,Hellas Verona,27,"1,100,000",Serie A
+304,Pedro Obiang,EQG,MF,Sassuolo,30,"1,090,000",Serie A
+305,Luca Marrone,ITA,DF,Monza,32,"1,060,000",Serie A
+306,Caleb Okoli,ITA,DF,Atalanta,21,"1,040,000",Serie A
+307,Enzo Ebosse,CMR,DF,Udinese,23,"1,030,000",Serie A
+308,Jaka Bijol,SVN,DF,Udinese,23,"1,030,000",Serie A
+309,Walace,BRA,MF,Udinese,27,"1,030,000",Serie A
+310,Thomas Henry,FRA,FW,Hellas Verona,27,"1,030,000",Serie A
+311,Nemanja Radonjić,SRB,"MF,FW",Torino,26,"1,030,000",Serie A
+312,Sam Lammers,NED,FW,Sampdoria,25,"1,030,000",Serie A
+313,Malick Thiaw,GER,DF,Milan,20,"1,030,000",Serie A
+314,Yacine Adli,FRA,"MF,FW",Milan,22,"1,030,000",Serie A
+315,M'Bala Nzola,ANG,FW,Spezia,25,"1,020,000",Serie A
+316,Stefan Posch,AUT,DF,Bologna,25,"1,000,000",Serie A
+317,Emil Bohinen,NOR,MF,Salernitana,23,"1,000,000",Serie A
+318,Jhon Lucumí,COL,DF,Bologna,24,"960,000",Serie A
+319,Antonino Gallo,ITA,DF,Lecce,22,"960,000",Serie A
+320,Remi Oudin,FRA,"FW,MF",Lecce,25,"940,000",Serie A
+321,Davide Faraoni,ITA,DF,Hellas Verona,30,"930,000",Serie A
+322,Federico Ceccherini,ITA,DF,Hellas Verona,30,"930,000",Serie A
+323,Miguel Veloso,POR,MF,Hellas Verona,36,"930,000",Serie A
+324,Charalambos Lykogiannis,GRE,DF,Bologna,28,"930,000",Serie A
+325,Andrea Carboni,ITA,DF,Monza,21,"930,000",Serie A
+326,Szymon Żurkowski,POL,MF,Fiorentina,24,"930,000",Serie A
+327,Fabio Quagliarella,ITA,FW,Sampdoria,39,"930,000",Serie A
+328,Ignacio Pussetto,ARG,"MF,DF",Sampdoria,26,"930,000",Serie A
+329,Daniel Ciofani,ITA,FW,Cremonese,37,"930,000",Serie A
+330,Paolo Ghiglione,ITA,DF,Cremonese,25,"930,000",Serie A
+331,Jean-Daniel Akpa-Akpro,CIV,"MF,FW",Empoli,29,"930,000",Serie A
+332,Matteo Lovato,ITA,DF,Salernitana,22,"930,000",Serie A
+333,Norbert Gyömbér,SVK,DF,Salernitana,30,"930,000",Serie A
+334,Gianluca Pegolo,ITA,GK,Sassuolo,41,"930,000",Serie A
+335,Hamed Junior Traorè,CIV,"MF,FW",Sassuolo,22,"930,000",Serie A
+336,Riccardo Marchizza,ITA,DF,Sassuolo,24,"930,000",Serie A
+337,Simone Romagnoli,ITA,DF,Lecce,32,"930,000",Serie A
+338,Matteo Scozzarella,ITA,DM,Monza,34,"910,000",Serie A
+339,Isaac Success,NGA,FW,Udinese,26,"900,000",Serie A
+340,Kingsley Ehizibue,NED,DF,Udinese,27,"900,000",Serie A
+341,Sandi Lovrić,SVN,MF,Udinese,24,"900,000",Serie A
+342,Milan Đurić,BIH,FW,Hellas Verona,32,"900,000",Serie A
+343,Mërgim Vojvoda,KVX,DF,Torino,27,"900,000",Serie A
+344,Nicolás Domínguez,ARG,MF,Bologna,24,"900,000",Serie A
+345,Igor,BRA,DF,Fiorentina,24,"900,000",Serie A
+346,Dimitrije Kamenović,SRB,DF,Lazio,22,"900,000",Serie A
+347,Ola Solbakken,,RW,Roma,24,"900,000",Serie A
+348,William Bianda,FRA,CB,Roma,22,"900,000",Serie A
+349,Jeremy Toljan,GER,DF,Sassuolo,27,"900,000",Serie A
+350,Kristijan Bistrović,CRO,MF,Lecce,24,"900,000",Serie A
+351,Andrea Barberis,ITA,MF,Monza,28,"890,000",Serie A
+352,Nehuén Pérez,ARG,DF,Udinese,22,"830,000",Serie A
+353,Martin Hongla,CMR,MF,Hellas Verona,24,"830,000",Serie A
+354,Michele Di Gregorio,ITA,GK,Monza,25,"830,000",Serie A
+355,Samuele Birindelli,ITA,DF,Monza,23,"830,000",Serie A
+356,Salvatore Esposito,ITA,MF,Spezia,21,"830,000",Serie A
+357,Bartosz Bereszyński,POL,DF,Sampdoria,30,"830,000",Serie A
+358,Ebrima Darboe,GAM,MF,Roma,21,"830,000",Serie A
+359,Rodrigo Becão,BRA,DF,Udinese,26,"770,000",Serie A
+360,Tolgay Arslan,GER,MF,Udinese,31,"770,000",Serie A
+361,Cyril Ngonge,BEL,"MF,FW",Hellas Verona,22,"770,000",Serie A
+362,Isak Hien,,CB,Hellas Verona,23,"770,000",Serie A
+363,Valentin Antov,BUL,DF,Monza,21,"770,000",Serie A
+364,Brandon Soppy,FRA,DF,Atalanta,20,"770,000",Serie A
+365,Charles Pickel,COD,MF,Cremonese,25,"770,000",Serie A
+366,David Okereke,NGA,"FW,MF",Cremonese,24,"770,000",Serie A
+367,Mohammed Ihattaren,NED,AM,Juventus,20,"770,000",Serie A
+368,Kaan Ayhan,TUR,DF,Sassuolo,27,"770,000",Serie A
+369,Kristian Thorstvedt,NOR,MF,Sassuolo,23,"770,000",Serie A
+370,Maxime Lopez,FRA,MF,Sassuolo,24,"770,000",Serie A
+371,Demba Seck,SEN,"MF,FW",Torino,21,"740,000",Serie A
+372,Simone Edera,ITA,MF,Torino,25,"740,000",Serie A
+373,Vanja Milinković-Savić,SRB,GK,Torino,25,"740,000",Serie A
+374,Marco D'Alessandro,ITA,"DF,FW",Monza,31,"740,000",Serie A
+375,Lorenzo Venuti,ITA,DF,Fiorentina,27,"740,000",Serie A
+376,Daniele Verde,ITA,"FW,MF",Spezia,26,"740,000",Serie A
+377,Jacopo Sala,ITA,MF,Spezia,30,"740,000",Serie A
+378,Kevin Agudelo,COL,"MF,FW",Spezia,23,"740,000",Serie A
+379,Alessandro Zanoli,ITA,DF,Sampdoria,21,"740,000",Serie A
+380,Alex Ferrari,ITA,DF,Sampdoria,28,"740,000",Serie A
+381,Cristian Buonaiuto,ITA,"MF,FW",Cremonese,29,"740,000",Serie A
+382,Tonny Vilhena,NED,MF,Salernitana,27,"740,000",Serie A
+383,Filippo Romagna,ITA,DF,Sassuolo,25,"740,000",Serie A
+384,Alessandro Tuia,ITA,DF,Lecce,32,"740,000",Serie A
+385,Oliver Abildgaard,DEN,MF,Hellas Verona,26,"710,000",Serie A
+386,Kelvin Amian,FRA,DF,Spezia,24,"710,000",Serie A
+387,Janis Antiste,FRA,FW,Sassuolo,19,"710,000",Serie A
+388,Fabio Depaoli,ITA,DF,Hellas Verona,25,"650,000",Serie A
+389,Mattia Valoti,ITA,"MF,FW",Monza,28,"650,000",Serie A
+390,Salvatore Molina,ITA,DF,Monza,30,"650,000",Serie A
+391,Martin Satriano,URU,FW,Empoli,21,"650,000",Serie A
+392,Giuseppe Pezzella,ITA,DF,Lecce,24,"650,000",Serie A
+393,Marvin Zeegelaar,NED,DF,Udinese,31,"640,000",Serie A
+394,Adrien Tameze,CMR,MF,Hellas Verona,28,"640,000",Serie A
+395,Josh Doig,SCO,DF,Hellas Verona,20,"640,000",Serie A
+396,David Zima,CZE,DF,Torino,21,"640,000",Serie A
+397,Jerdy Schouten,NED,MF,Bologna,25,"640,000",Serie A
+398,Michel Aebischer,SUI,"FW,MF",Bologna,25,"640,000",Serie A
+399,Mario Gila,,CB,Lazio,22,"640,000",Serie A
+400,Jesé,ESP,FW,Sampdoria,29,"640,000",Serie A
+401,Rasmus Højlund,DEN,FW,Atalanta,19,"640,000",Serie A
+402,Luka Lochoshvili,GEO,DF,Cremonese,24,"640,000",Serie A
+403,Petar Stojanović,SVN,DF,Empoli,26,"640,000",Serie A
+404,Tyronne Ebuehi,NGA,DF,Empoli,26,"640,000",Serie A
+405,Flavius Daniliuc,AUT,DF,Salernitana,21,"640,000",Serie A
+406,Samuel Iling-Junior,ENG,"DF,FW",Juventus,18,"640,000",Serie A
+407,Alexis Blin,FRA,MF,Lecce,25,"640,000",Serie A
+408,Joan Gonzàlez,ESP,MF,Lecce,20,"640,000",Serie A
+409,Lameck Banda,,RW,Lecce,22,"640,000",Serie A
+410,Carlos Augusto,BRA,DF,Monza,23,"630,000",Serie A
+411,Gabriel Paletta,ITA,CB,Monza,36,"610,000",Serie A
+412,Matteo Bianchetti,ITA,DF,Cremonese,29,"610,000",Serie A
+413,Deyovaisio Zeefuik,NED,DF,Hellas Verona,24,"600,000",Serie A
+414,Johan Vásquez,MEX,DF,Cremonese,23,"580,000",Serie A
+415,Matheus Henrique,BRA,MF,Sassuolo,24,"570,000",Serie A
+416,Roberto Piccoli,ITA,FW,Hellas Verona,21,"560,000",Serie A
+417,Brian Bayeye,,RM,Torino,22,"560,000",Serie A
+418,Emanuel Vignato,ITA,"MF,FW",Bologna,21,"560,000",Serie A
+419,Gabriele Corbo,ITA,CB,Bologna,23,"560,000",Serie A
+420,Daniel Maldini,ITA,"FW,MF",Spezia,20,"560,000",Serie A
+421,Nikita Contini Baranovsky,ITA,GK,Sampdoria,26,"560,000",Serie A
+422,Giorgio Scalvini,ITA,DF,Atalanta,18,"560,000",Serie A
+423,Frank Tsadjout,ITA,FW,Cremonese,23,"560,000",Serie A
+424,Michele Castagnetti,ITA,MF,Cremonese,32,"560,000",Serie A
+425,Tommaso Baldanzi,ITA,MF,Empoli,19,"560,000",Serie A
+426,Lorenzo Pirola,ITA,DF,Salernitana,20,"560,000",Serie A
+427,Nicola Zalewski,POL,DF,Roma,20,"560,000",Serie A
+428,Carlo Pinsoglio,ITA,GK,Juventus,32,"560,000",Serie A
+429,Fabio Miretti,ITA,"MF,FW",Juventus,18,"560,000",Serie A
+430,Federico Baschirotto,ITA,DF,Lecce,25,"560,000",Serie A
+431,Kastriot Dermaku,ALB,DF,Lecce,30,"560,000",Serie A
+432,Lorenzo Colombo,ITA,FW,Lecce,20,"560,000",Serie A
+433,Pietro Ceccaroni,ITA,DF,Lecce,26,"560,000",Serie A
+434,Marco Bleve,ITA,GK,Lecce,26,"540,000",Serie A
+435,Mirko Marić,CRO,FW,Monza,27,"530,000",Serie A
+436,Mehdi Léris,ALG,"MF,DF",Sampdoria,24,"520,000",Serie A
+437,Alessandro Micai,ITA,GK,Salernitana,29,"520,000",Serie A
+438,Lazar Samardzic,SRB,MF,Udinese,20,"510,000",Serie A
+439,Denso Kasius,NED,DF,Bologna,19,"510,000",Serie A
+440,Giorgos Kyriakopoulos,GRE,"DF,FW",Bologna,26,"510,000",Serie A
+441,Lewis Ferguson,SCO,"MF,FW",Bologna,22,"510,000",Serie A
+442,Przemysław Wiśniewski,POL,DF,Spezia,24,"510,000",Serie A
+443,Luka Romero,ARG,FW,Lazio,17,"510,000",Serie A
+444,Mickaël Cuisance,FRA,MF,Sampdoria,22,"510,000",Serie A
+445,Erik Botheim,NOR,"MF,FW",Salernitana,22,"510,000",Serie A
+446,Lassana Coulibaly,MLI,MF,Salernitana,26,"510,000",Serie A
+447,Mert Müldür,TUR,"FW,DF",Sassuolo,23,"510,000",Serie A
+448,Lorenzo Montipò,ITA,GK,Hellas Verona,26,"500,000",Serie A
+449,Vincenzo Fiorillo,ITA,GK,Salernitana,32,"500,000",Serie A
+450,Ruan,BRA,DF,Sassuolo,23,"490,000",Serie A
+451,Koffi Djidji,CIV,DF,Torino,29,"470,000",Serie A
+452,Alessandro Berardi,ITA,GK,Hellas Verona,31,"460,000",Serie A
+453,Diego Coppola,ITA,DF,Hellas Verona,18,"460,000",Serie A
+454,Simone Perilli,ITA,GK,Hellas Verona,27,"460,000",Serie A
+455,Yayah Kallon,SLE,"MF,FW",Hellas Verona,21,"460,000",Serie A
+456,Musa Juwara,GAM,LW,Bologna,20,"460,000",Serie A
+457,Filippo Ranocchia,ITA,MF,Monza,21,"460,000",Serie A
+458,Mikael Ellertsson,ISL,"MF,DF",Spezia,20,"460,000",Serie A
+459,Tommaso Augello,ITA,DF,Sampdoria,27,"460,000",Serie A
+460,Samir Ujkani,KVX,GK,Empoli,34,"460,000",Serie A
+461,Gabriel Strefezza,BRA,"FW,MF",Lecce,25,"460,000",Serie A
+462,Juan David Cabal,COL,DF,Hellas Verona,21,"450,000",Serie A
+463,Ethan Ampadu,WAL,"DF,MF",Spezia,21,"450,000",Serie A
+464,Pablo Galdames Millán,CHI,MF,Cremonese,25,"450,000",Serie A
+465,Domen Črnigoj,SVN,MF,Salernitana,26,"450,000",Serie A
+466,Dany Mota,POR,"FW,MF",Monza,24,"440,000",Serie A
+467,Alessandro Buongiorno,ITA,DF,Torino,23,"410,000",Serie A
+468,Raimonds Krollis,,CF,Spezia,21,"400,000",Serie A
+469,Hans Nicolussi Caviglia,ITA,MF,Salernitana,22,"390,000",Serie A
+470,Jean-Victor Makengo,FRA,MF,Udinese,24,"380,000",Serie A
+471,Ajdin Hrustic,AUS,MF,Hellas Verona,26,"380,000",Serie A
+472,Paweł Dawidowicz,POL,DF,Hellas Verona,27,"380,000",Serie A
+473,Joaquín Sosa,,CB,Bologna,21,"380,000",Serie A
+474,Aleksa Terzić,SRB,DF,Fiorentina,22,"380,000",Serie A
+475,João Moutinho,POR,"DF,FW",Spezia,24,"380,000",Serie A
+476,Emanuel Aiwum,AUT,DF,Cremonese,21,"380,000",Serie A
+477,Sebastian Walukiewicz,POL,DF,Empoli,22,"380,000",Serie A
+478,Daniele Padelli,ITA,GK,Udinese,36,"370,000",Serie A
+479,Gabriele Ferrarini,ITA,DF,Monza,22,"370,000",Serie A
+480,Michele Cerofolini,ITA,GK,Fiorentina,23,"370,000",Serie A
+481,Federico Marchetti,ITA,GK,Spezia,39,"370,000",Serie A
+482,Felix Afena-Gyan,GHA,"FW,MF",Cremonese,19,"370,000",Serie A
+483,Luca Zanimacchia,ITA,"MF,FW",Cremonese,24,"370,000",Serie A
+484,Mouhamadou Sarr,SEN,GK,Cremonese,25,"370,000",Serie A
+485,Samuele Perisan,ITA,GK,Empoli,24,"370,000",Serie A
+486,Cristian Volpato,ITA,MF,Roma,18,"370,000",Serie A
+487,Edoardo Bove,ITA,MF,Roma,20,"370,000",Serie A
+488,Pietro Boer,ITA,GK,Roma,20,"370,000",Serie A
+489,Morten Hjulmand,DEN,MF,Lecce,23,"370,000",Serie A
+490,Emirhan İlkhan,TUR,MF,Torino,18,"350,000",Serie A
+491,Giulio Donati,ITA,DF,Monza,32,"350,000",Serie A
+492,Jack Hendry,SCO,DF,Cremonese,27,"350,000",Serie A
+493,Nicola Rigoni,ITA,DM,Monza,31,"330,000",Serie A
+494,Nadir Zortea,ITA,"DF,MF",Atalanta,23,"330,000",Serie A
+495,Alessio Zerbin,ITA,FW,Napoli,23,"330,000",Serie A
+496,Leonardo Buta,POR,DF,Udinese,20,"320,000",Serie A
+497,Ivan Ilić,SRB,MF,Hellas Verona,21,"320,000",Serie A
+498,Mateusz Praszelik,POL,MF,Hellas Verona,21,"320,000",Serie A
+499,Salvador Ferrer,ESP,DF,Spezia,24,"320,000",Serie A
+500,Diego Valencia,,CF,Salernitana,22,"320,000",Serie A
+501,Marko Lazetić,SRB,FW,Milan,18,"320,000",Serie A
+502,John Björkengren,SWE,CM,Lecce,23,"320,000",Serie A
+503,Yıldırım Mert Çetin,TUR,DF,Lecce,25,"320,000",Serie A
+504,Pablo Rodríguez,ESP,"FW,MF",Lecce,20,"320,000",Serie A
+505,Devis Vásquez,,GK,Milan,24,"310,000",Serie A
+506,Antonis Siatounis,GRE,DM,Monza,20,"300,000",Serie A
+507,Pasquale Mazzocchi,ITA,DF,Salernitana,27,"300,000",Serie A
+508,Liberato Cacace,NZL,DF,Empoli,21,"290,000",Serie A
+509,Destiny Udogie,ITA,DF,Udinese,19,"280,000",Serie A
+510,Mattia Chiesa,ITA,GK,Hellas Verona,22,"280,000",Serie A
+511,Eugenio Lamanna,ITA,GK,Monza,33,"280,000",Serie A
+512,Petar Zovko,BIH,GK,Spezia,20,"280,000",Serie A
+513,Tommaso Milanese,ITA,MF,Cremonese,20,"280,000",Serie A
+514,Alex Cordaz,ITA,GK,Inter,39,"280,000",Serie A
+515,Martin Erlic,CRO,DF,Sassuolo,24,"280,000",Serie A
+516,Wilfried Singo,CIV,DF,Torino,21,"260,000",Serie A
+517,Emil Holm,SWE,DF,Spezia,22,"260,000",Serie A
+518,Leandro Sanca,GNB,"FW,MF",Spezia,22,"260,000",Serie A
+519,Marios Oikonomou,GRE,DF,Sampdoria,29,"260,000",Serie A
+520,Giacomo Quagliata,ITA,DF,Cremonese,22,"260,000",Serie A
+521,Franco Carboni,ITA,"DF,FW",Monza,19,"240,000",Serie A
+522,Festy Ebosele,IRL,DF,Udinese,19,"230,000",Serie A
+523,Aurélien Nguiamba,FRA,MF,Spezia,23,"230,000",Serie A
+524,Marcin Listkowski,POL,"MF,FW",Lecce,24,"220,000",Serie A
+525,Jaime Báez,URU,DF,Cremonese,27,"200,000",Serie A
+526,Beto,GNB,FW,Udinese,24,"190,000",Serie A
+527,Jayden Braaf,NED,"MF,FW",Hellas Verona,19,"190,000",Serie A
+528,Warren Bondo,FRA,MF,Monza,18,"190,000",Serie A
+529,Alessandro Bianco,ITA,MF,Fiorentina,19,"190,000",Serie A
+530,Aimar Sher,SWE,MF,Spezia,19,"190,000",Serie A
+531,Dávid Strelec,SVK,FW,Spezia,21,"190,000",Serie A
+532,Simone Bastoni,ITA,"MF,DF",Spezia,25,"190,000",Serie A
+533,Tio Cipot,,CM,Spezia,19,"190,000",Serie A
+534,Marius Adamonis,LTU,GK,Lazio,25,"190,000",Serie A
+535,Lorenzo Malagrida,,LM,Sampdoria,19,"190,000",Serie A
+536,Nicola Ravaglia,ITA,GK,Sampdoria,33,"190,000",Serie A
+537,Francesco Rossi,ITA,GK,Atalanta,31,"190,000",Serie A
+538,Emanuele Valeri,ITA,DF,Cremonese,23,"190,000",Serie A
+539,Marco Carnesecchi,ITA,GK,Cremonese,22,"190,000",Serie A
+540,Emmanuel Ekong,SWE,"FW,MF",Empoli,20,"190,000",Serie A
+541,Fabiano Parisi,ITA,DF,Empoli,21,"190,000",Serie A
+542,Grigoris Kastanos,CYP,"MF,DF",Salernitana,24,"190,000",Serie A
+543,Brian Oddei,ITA,RW,Sassuolo,20,"190,000",Serie A
+544,Daniel Samek,,DM,Lecce,18,"190,000",Serie A
+545,Joel Voelkerling Persson,,CF,Lecce,19,"190,000",Serie A
+546,Tommaso Cassandro,ITA,DF,Lecce,22,"190,000",Serie A
+547,Gianluca Gaetano,ITA,MF,Napoli,22,"190,000",Serie A
+548,Andrea Colpani,ITA,MF,Monza,23,"170,000",Serie A
+549,Axel Guessand,FRA,DF,Udinese,17,"150,000",Serie A
+550,Alessandro Sorrentino,ITA,GK,Monza,20,"150,000",Serie A
+551,Gerard Yepes,ESP,MF,Sampdoria,19,"150,000",Serie A
+552,Simone Trimboli,ITA,MF,Sampdoria,20,"150,000",Serie A
+553,Gianluca Saro,ITA,GK,Cremonese,22,"150,000",Serie A
+554,Leonardo Sernicola,ITA,DF,Cremonese,25,"150,000",Serie A
+555,Maissa Ndiaye,,CB,Cremonese,20,"150,000",Serie A
+556,Koni De Winter,,CB,Empoli,20,"150,000",Serie A
+557,Nicolò Cambiaghi,ITA,"FW,MF",Empoli,21,"150,000",Serie A
+558,Federico Brancolini,ITA,GK,Lecce,21,"150,000",Serie A
+559,Wladimiro Falcone,ITA,GK,Lecce,27,"150,000",Serie A
+560,Jakub Kiwior,POL,DF,Spezia,22,"130,000",Serie A
+561,Diego González,,LW,Lazio,20,"130,000",Serie A
+562,Bruno Amione,ARG,DF,Sampdoria,20,"130,000",Serie A
+563,Kristoffer Askildsen,NOR,MF,Lecce,21,"130,000",Serie A
+564,Abdou Harroui,NED,MF,Sassuolo,24,"120,000",Serie A
+565,Valentin Gendrey,FRA,DF,Lecce,22,"120,000",Serie A
+566,Gvidas Gineitis,,CM,Torino,18,"110,000",Serie A
+567,Luca Gemello,ITA,GK,Torino,22,"110,000",Serie A
+568,Michel Ndary Adopo,FRA,"MF,DF",Torino,22,"110,000",Serie A
+569,Abdelhamid Sabiri,MAR,"MF,FW",Sampdoria,25,"110,000",Serie A
+570,Jacopo Fazzini,,CM,Empoli,19,"110,000",Serie A
+571,Francesco Orlando,,RW,Salernitana,25,"110,000",Serie A
+572,Sanasi Sy,FRA,LB,Salernitana,23,"110,000",Serie A
+573,Alessandro Russo,ITA,GK,Sassuolo,21,"110,000",Serie A
+574,Emil Ceide,NOR,FW,Sassuolo,20,"100,000",Serie A
+575,Alessandro Cortinovis,ITA,MF,Hellas Verona,21,"90,000",Serie A
+576,Filippo Terracciano,,CM,Hellas Verona,19,"90,000",Serie A
+577,Andrew Gravillon,GLP,DF,Torino,24,"90,000",Serie A
+578,Antonio Raimondo,,CF,Bologna,18,"90,000",Serie A
+579,Kacper Urbanski,POL,MF,Bologna,17,"90,000",Serie A
+580,Orji Okwonkwo,NGA,RW,Bologna,25,"90,000",Serie A
+581,Daniele Montevago,,CF,Sampdoria,19,"90,000",Serie A
+582,Davide Marfella,ITA,GK,Napoli,22,"90,000",Serie A
+583,Ibrahim Sulemana,,DM,Hellas Verona,19,"70,000",Serie A
+584,Pepín,EQG,MF,Monza,25,"70,000",Serie A
+585,Petko Hristov,BUL,DF,Spezia,23,"70,000",Serie A
+586,Manuel De Luca,ITA,"FW,MF",Sampdoria,24,"70,000",Serie A
+587,Matteo Ruggeri,ITA,"DF,MF",Atalanta,20,"70,000",Serie A
+588,Dorian Ciężkowski,POL,GK,Cremonese,21,"70,000",Serie A
+589,James Abankwah,,CB,Udinese,19,"60,000",Serie A
+590,Matthew Garbett,,CM,Torino,20,"60,000",Serie A
+591,Federico Ravaglia,ITA,GK,Bologna,22,"60,000",Serie A
+592,Telasco Segovia,,CM,Sampdoria,19,"60,000",Serie A
+593,Emil Roback,,CF,Milan,19,"60,000",Serie A
+594,Mats Lemmens,,RB,Lecce,20,"60,000",Serie A
+595,Edoardo Piana,,GK,Udinese,18,"56,000",Serie A
+596,Simone Pafundi,,AM,Udinese,16,"56,000",Serie A
+597,Nicola Bagnolini,,GK,Bologna,18,"56,000",Serie A
+598,Wisdom Amey,,CB,Bologna,17,"56,000",Serie A
+599,Elia Tantalocchi,,GK,Sampdoria,18,"56,000",Serie A
+600,Christian Acella,ITA,MF,Cremonese,20,"56,000",Serie A
+601,Duccio Degli Innocenti,,DM,Empoli,19,"56,000",Serie A
+602,Andrei Motoc,,CB,Salernitana,20,"56,000",Serie A
+603,Antonio Pio Iervolino,,CM,Salernitana,19,"56,000",Serie A
+604,Luca D'Andrea,,AM,Sassuolo,17,"56,000",Serie A
+605,Karim Zedadka,FRA,FW,Napoli,22,"56,000",Serie A
+606,Lovro Stubljar,,GK,Empoli,18,"50,000",Serie A
+607,Julian Kristoffersen,NOR,FW,Salernitana,25,"50,000",Serie A
+608,Medon Berisha,,CM,Lecce,19,"50,000",Serie A
+609,Matteo Fiorenza,,GK,Torino,19,"46,000",Serie A
+610,Jasper Samooja,FIN,GK,Lecce,19,"38,000",Serie A
+611,Samuele Vignato,ITA,"MF,FW",Monza,18,"37,000",Serie A
+612,Martin Turk,SVN,GK,Sampdoria,18,"37,000",Serie A
+613,Simone Muratore,ITA,CM,Atalanta,24,"37,000",Serie A
+614,Gabriele Guarino,,CB,Empoli,18,"37,000",Serie A
+615,Julius Beck,,CM,Spezia,17,"26,000",Serie A
+616,Þórir Jóhann Helgason,ISL,MF,Lecce,21,"26,000",Serie A
+1,Cristiano Ronaldo,POR,FW,Manchester Utd,37,"31,332,600",Premier League
+2,Kevin De Bruyne,BEL,MF,Manchester City,31,"24,336,000",Premier League
+3,David de Gea,ESP,GK,Manchester Utd,31,"22,815,000",Premier League
+4,Erling Haaland,NOR,FW,Manchester City,22,"22,815,000",Premier League
+5,Casemiro,BRA,MF,Manchester Utd,30,"21,294,000",Premier League
+6,Jadon Sancho,ENG,"FW,MF",Manchester Utd,22,"21,294,000",Premier League
+7,Mohamed Salah,EGY,FW,Liverpool,30,"21,294,000",Premier League
+8,Raphaël Varane,FRA,DF,Manchester Utd,29,"20,685,600",Premier League
+9,Raheem Sterling,ENG,"FW,MF",Chelsea,27,"19,773,000",Premier League
+10,Jack Grealish,ENG,FW,Manchester City,26,"18,252,000",Premier League
+11,Kalidou Koulibaly,SEN,DF,Chelsea,31,"17,947,800",Premier League
+12,N'Golo Kanté,FRA,MF,Chelsea,31,"17,643,600",Premier League
+13,Gabriel Jesus,BRA,FW,Arsenal,25,"16,122,600",Premier League
+14,Anthony Martial,FRA,FW,Manchester Utd,26,"15,210,000",Premier League
+15,Kai Havertz,GER,"FW,MF",Chelsea,23,"15,210,000",Premier League
+16,Reece James,ENG,"DF,MF",Chelsea,22,"15,210,000",Premier League
+17,João Cancelo,POR,DF,Manchester City,28,"15,210,000",Premier League
+18,John Stones,ENG,"DF,MF",Manchester City,28,"15,210,000",Premier League
+19,Bruno Fernandes,POR,"MF,FW",Manchester Utd,27,"14,601,600",Premier League
+20,Phil Foden,ENG,FW,Manchester City,22,"13,689,000",Premier League
+21,Virgil van Dijk,NED,DF,Liverpool,31,"13,384,800",Premier League
+22,Rodri,ESP,MF,Manchester City,26,"13,384,800",Premier League
+23,Marcel Sabitzer,AUT,MF,Manchester Utd,28,"12,776,400",Premier League
+24,Thomas Partey,GHA,MF,Arsenal,29,"12,168,000",Premier League
+25,Antony,BRA,FW,Manchester Utd,22,"12,168,000",Premier League
+26,Marcus Rashford,ENG,FW,Manchester Utd,24,"12,168,000",Premier League
+27,Harry Kane,ENG,FW,Tottenham,29,"12,168,000",Premier League
+28,Thiago Alcántara,ESP,MF,Liverpool,31,"12,168,000",Premier League
+29,Wesley Fofana,FRA,DF,Chelsea,21,"12,168,000",Premier League
+30,João Félix,POR,"FW,MF",Chelsea,22,"11,863,800",Premier League
+31,Harry Maguire,ENG,DF,Manchester Utd,29,"11,559,600",Premier League
+32,Son Heung-min,KOR,"MF,FW",Tottenham,30,"11,559,600",Premier League
+33,Ben Chilwell,ENG,"DF,MF",Chelsea,25,"11,559,600",Premier League
+34,Ivan Perišić,CRO,"DF,MF",Tottenham,33,"10,951,200",Premier League
+35,Fabinho,BRA,MF,Liverpool,28,"10,951,200",Premier League
+36,Roberto Firmino,BRA,"FW,MF",Liverpool,30,"10,951,200",Premier League
+37,Trent Alexander-Arnold,ENG,DF,Liverpool,23,"10,951,200",Premier League
+38,César Azpilicueta,ESP,DF,Chelsea,32,"10,951,200",Premier League
+39,Enzo Fernández,ARG,MF,Chelsea,21,"10,951,200",Premier League
+40,Manuel Akanji,SUI,DF,Manchester City,27,"10,951,200",Premier League
+41,Rúben Dias,POR,DF,Manchester City,25,"10,951,200",Premier League
+42,Marc Cucurella,ESP,DF,Chelsea,24,"10,647,000",Premier League
+43,Cristian Romero,ARG,DF,Tottenham,24,"10,038,600",Premier League
+44,Lucas Digne,FRA,DF,Aston Villa,29,"9,734,400",Premier League
+45,Pierre-Emerick Aubameyang,GAB,FW,Chelsea,33,"9,734,400",Premier League
+46,Kyle Walker,ENG,DF,Manchester City,32,"9,734,400",Premier League
+47,Riyad Mahrez,ALG,"FW,MF",Manchester City,31,"9,734,400",Premier League
+48,Oleksandr Zinchenko,UKR,DF,Arsenal,25,"9,126,000",Premier League
+49,Christian Eriksen,DEN,MF,Manchester Utd,30,"9,126,000",Premier League
+50,Luke Shaw,ENG,DF,Manchester Utd,27,"9,126,000",Premier League
+51,Lucas Paquetá,BRA,MF,West Ham,24,"9,126,000",Premier League
+52,Alisson,BRA,GK,Liverpool,29,"9,126,000",Premier League
+53,Boubacar Kamara,FRA,MF,Aston Villa,22,"9,126,000",Premier League
+54,Christian Pulisic,USA,"FW,DF",Chelsea,23,"9,126,000",Premier League
+55,Kepa Arrizabalaga,ESP,GK,Chelsea,27,"9,126,000",Premier League
+56,Bernardo Silva,POR,"MF,FW",Manchester City,27,"9,126,000",Premier League
+57,Kalvin Phillips,ENG,MF,Manchester City,26,"9,126,000",Premier League
+58,Clément Lenglet,FRA,DF,Tottenham,27,"8,821,800",Premier League
+59,Darwin Núñez,URU,FW,Liverpool,23,"8,517,600",Premier League
+60,Diogo Jota,POR,FW,Liverpool,25,"8,517,600",Premier League
+61,Jordan Henderson,ENG,MF,Liverpool,32,"8,517,600",Premier League
+62,Jamie Vardy,ENG,FW,Leicester City,35,"8,517,600",Premier League
+63,İlkay Gündoğan,GER,MF,Manchester City,31,"8,517,600",Premier League
+64,Wilfried Zaha,CIV,"FW,MF",Crystal Palace,29,"7,909,200",Premier League
+65,Danny Ings,ENG,FW,West Ham,30,"7,605,000",Premier League
+66,Kurt Zouma,FRA,DF,West Ham,27,"7,605,000",Premier League
+67,Philippe Coutinho,BRA,"MF,FW",Aston Villa,30,"7,605,000",Premier League
+68,Ben White,ENG,DF,Arsenal,24,"7,300,800",Premier League
+69,Granit Xhaka,SUI,MF,Arsenal,29,"7,300,800",Premier League
+70,Donny van de Beek,NED,MF,Manchester Utd,25,"7,300,800",Premier League
+71,Fred,BRA,MF,Manchester Utd,29,"7,300,800",Premier League
+72,Lisandro Martínez,ARG,DF,Manchester Utd,24,"7,300,800",Premier League
+73,Victor Lindelöf,SWE,DF,Manchester Utd,28,"7,300,800",Premier League
+74,Alphonse Areola,FRA,GK,West Ham,29,"7,300,800",Premier League
+75,Alex Oxlade-Chamberlain,ENG,"FW,MF",Liverpool,28,"7,300,800",Premier League
+76,Cody Gakpo,NED,"FW,MF",Liverpool,23,"7,300,800",Premier League
+77,Naby Keïta,GUI,MF,Liverpool,27,"7,300,800",Premier League
+78,Emiliano Martínez,ARG,GK,Aston Villa,29,"7,300,800",Premier League
+79,Alexander Isak,SWE,FW,Newcastle Utd,22,"7,300,800",Premier League
+80,Bruno Guimarães,BRA,MF,Newcastle Utd,24,"7,300,800",Premier League
+81,Ruben Loftus-Cheek,ENG,"MF,DF",Chelsea,26,"7,300,800",Premier League
+82,Abdoulaye Doucouré,MLI,MF,Everton,29,"7,300,800",Premier League
+83,Alex Iwobi,NGA,"MF,FW",Everton,26,"7,300,800",Premier League
+84,Yerry Mina,COL,DF,Everton,27,"7,300,800",Premier League
+85,Aymeric Laporte,ESP,DF,Manchester City,28,"7,300,800",Premier League
+86,Martin Ødegaard,NOR,MF,Arsenal,23,"6,996,600",Premier League
+87,Jorginho,ITA,MF,Arsenal,30,"6,692,400",Premier League
+88,Kieran Tierney,SCO,DF,Arsenal,25,"6,692,400",Premier League
+89,Dejan Kulusevski,SWE,"MF,FW",Tottenham,22,"6,692,400",Premier League
+90,Arthur Melo,BRA,MF,Liverpool,25,"6,692,400",Premier League
+91,James Maddison,ENG,"MF,FW",Leicester City,25,"6,692,400",Premier League
+92,Thiago Silva,BRA,DF,Chelsea,37,"6,692,400",Premier League
+93,Eddie Nketiah,ENG,FW,Arsenal,23,"6,084,000",Premier League
+94,James Ward-Prowse,ENG,MF,Southampton,27,"6,084,000",Premier League
+95,Hugo Lloris,FRA,GK,Tottenham,35,"6,084,000",Premier League
+96,Pierre Højbjerg,DEN,MF,Tottenham,26,"6,084,000",Premier League
+97,Rodrigo,ESP,"FW,MF",Leeds United,31,"6,084,000",Premier League
+98,Andrew Robertson,SCO,DF,Liverpool,28,"6,084,000",Premier League
+99,Joël Matip,CMR,DF,Liverpool,30,"6,084,000",Premier League
+100,Diego Carlos,BRA,DF,Aston Villa,29,"6,084,000",Premier League
+101,Leon Bailey,JAM,"FW,MF",Aston Villa,24,"6,084,000",Premier League
+102,João Moutinho,POR,MF,Wolves,35,"6,084,000",Premier League
+103,Raúl Jiménez,MEX,FW,Wolves,31,"6,084,000",Premier League
+104,Jonny Evans,NIR,DF,Leicester City,34,"6,084,000",Premier League
+105,Kieran Trippier,ENG,DF,Newcastle Utd,31,"6,084,000",Premier League
+106,Matt Targett,ENG,DF,Newcastle Utd,26,"6,084,000",Premier League
+107,Carney Chukwuemeka,ENG,"MF,FW",Chelsea,18,"6,084,000",Premier League
+108,Hakim Ziyech,MAR,"FW,MF",Chelsea,29,"6,084,000",Premier League
+109,Mateo Kovačić,CRO,MF,Chelsea,28,"6,084,000",Premier League
+110,Mykhailo Mudryk,UKR,"FW,MF",Chelsea,21,"6,084,000",Premier League
+111,Amadou Onana,BEL,MF,Everton,20,"6,084,000",Premier League
+112,Dominic Calvert-Lewin,ENG,FW,Everton,25,"6,084,000",Premier League
+113,James Tarkowski,ENG,DF,Everton,29,"6,084,000",Premier League
+114,Jordan Pickford,ENG,GK,Everton,28,"6,084,000",Premier League
+115,Dean Henderson,ENG,GK,Nott'ham Forest,25,"6,084,000",Premier League
+116,Ederson,BRA,GK,Manchester City,28,"6,084,000",Premier League
+117,Emerson Palmieri,ITA,DF,West Ham,27,"5,779,800",Premier League
+118,Leandro Trossard,BEL,FW,Arsenal,27,"5,475,600",Premier League
+119,Aaron Wan-Bissaka,ENG,DF,Manchester Utd,24,"5,475,600",Premier League
+120,Lucas Moura,BRA,"MF,DF",Tottenham,29,"5,475,600",Premier League
+121,Richarlison,BRA,"MF,FW",Tottenham,25,"5,475,600",Premier League
+122,Odsonne Édouard,FRA,FW,Crystal Palace,24,"5,475,600",Premier League
+123,Gianluca Scamacca,ITA,FW,West Ham,23,"5,475,600",Premier League
+124,Leander Dendoncker,BEL,MF,Aston Villa,27,"5,475,600",Premier League
+125,Gonçalo Guedes,POR,"FW,MF",Wolves,25,"5,475,600",Premier League
+126,Pablo Sarabia,ESP,"FW,MF",Wolves,30,"5,475,600",Premier League
+127,Sven Botman,NED,DF,Newcastle Utd,22,"5,475,600",Premier League
+128,Benoît Badiashile,FRA,DF,Chelsea,21,"5,475,600",Premier League
+129,Denis Zakaria,SUI,MF,Chelsea,25,"5,475,600",Premier League
+130,Adam Lallana,ENG,"MF,FW",Brighton,34,"5,475,600",Premier League
+131,Keylor Navas,CRC,GK,Nott'ham Forest,35,"5,475,600",Premier League
+132,Bernd Leno,GER,GK,Fulham,30,"5,475,600",Premier League
+133,Layvin Kurzawa,FRA,DF,Fulham,29,"5,475,600",Premier League
+134,Benjamin Mendy,FRA,LB,Manchester City,28,"5,475,600",Premier League
+135,Nathan Aké,NED,DF,Manchester City,27,"5,475,600",Premier League
+136,Eric Dier,ENG,DF,Tottenham,28,"5,171,400",Premier League
+137,Pedro Porro,ESP,"DF,MF",Tottenham,22,"5,171,400",Premier League
+138,Michail Antonio,JAM,FW,West Ham,32,"5,171,400",Premier League
+139,Joe Gomez,ENG,DF,Liverpool,25,"5,171,400",Premier League
+140,Matheus Nunes,POR,MF,Wolves,23,"5,171,400",Premier League
+141,Joelinton,BRA,"MF,FW",Newcastle Utd,25,"5,171,400",Premier League
+142,Mislav Oršić,CRO,MF,Southampton,29,"4,867,200",Premier League
+143,Ben Davies,WAL,DF,Tottenham,29,"4,867,200",Premier League
+144,Joachim Andersen,DEN,DF,Crystal Palace,26,"4,867,200",Premier League
+145,Nathaniel Clyne,ENG,DF,Crystal Palace,31,"4,867,200",Premier League
+146,Thilo Kehrer,GER,DF,West Ham,25,"4,867,200",Premier League
+147,Matty Cash,POL,DF,Aston Villa,24,"4,867,200",Premier League
+148,Tyrone Mings,ENG,DF,Aston Villa,29,"4,867,200",Premier League
+149,Nélson Semedo,POR,DF,Wolves,28,"4,867,200",Premier League
+150,Boubakary Soumaré,FRA,MF,Leicester City,23,"4,867,200",Premier League
+151,Kelechi Iheanacho,NGA,"FW,MF",Leicester City,25,"4,867,200",Premier League
+152,Ricardo Pereira,POR,"DF,MF",Leicester City,28,"4,867,200",Premier League
+153,Ryan Bertrand,ENG,LB,Leicester City,33,"4,867,200",Premier League
+154,Chris Wood,NZL,FW,Newcastle Utd,30,"4,867,200",Premier League
+155,Joe Willock,ENG,MF,Newcastle Utd,22,"4,867,200",Premier League
+156,Mason Mount,ENG,"MF,FW",Chelsea,23,"4,867,200",Premier League
+157,Idrissa Gana Gueye,SEN,MF,Everton,32,"4,867,200",Premier League
+158,Michael Keane,ENG,DF,Everton,29,"4,867,200",Premier League
+159,Salomón Rondón,VEN,FW,Everton,32,"4,867,200",Premier League
+160,Felipe,BRA,DF,Nott'ham Forest,33,"4,867,200",Premier League
+161,Jesse Lingard,ENG,"FW,MF",Nott'ham Forest,29,"4,867,200",Premier League
+162,Morgan Gibbs-White,ENG,"MF,FW",Nott'ham Forest,22,"4,867,200",Premier League
+163,Aleksandar Mitrović,SRB,FW,Fulham,27,"4,867,200",Premier League
+164,Bertrand Traoré,BFA,"FW,MF",Aston Villa,26,"4,738,500",Premier League
+165,Cédric Soares,POR,DF,Arsenal,30,"4,563,000",Premier League
+166,Phil Jones,ENG,CB,Manchester Utd,30,"4,563,000",Premier League
+167,Tyrell Malacia,NED,DF,Manchester Utd,22,"4,563,000",Premier League
+168,Theo Walcott,ENG,"FW,MF",Southampton,33,"4,563,000",Premier League
+169,Fraser Forster,ENG,GK,Tottenham,34,"4,563,000",Premier League
+170,Rodrigo Bentancur,URU,MF,Tottenham,25,"4,563,000",Premier League
+171,Luka Milivojević,SRB,MF,Crystal Palace,31,"4,563,000",Premier League
+172,Vicente Guaita,ESP,GK,Crystal Palace,35,"4,563,000",Premier League
+173,Weston McKennie,USA,MF,Leeds United,23,"4,563,000",Premier League
+174,Douglas Luiz,BRA,MF,Aston Villa,24,"4,563,000",Premier League
+175,Emi Buendía,ARG,"MF,FW",Aston Villa,25,"4,563,000",Premier League
+176,Ollie Watkins,ENG,FW,Aston Villa,26,"4,563,000",Premier League
+177,Dennis Praet,BEL,"MF,FW",Leicester City,28,"4,563,000",Premier League
+178,Patson Daka,ZAM,FW,Leicester City,23,"4,563,000",Premier League
+179,Wilfred Ndidi,NGA,MF,Leicester City,25,"4,563,000",Premier League
+180,Lewis Dunk,ENG,DF,Brighton,30,"4,563,000",Premier League
+181,Ben Godfrey,ENG,DF,Everton,24,"4,563,000",Premier League
+182,Bukayo Saka,ENG,FW,Arsenal,20,"4,258,800",Premier League
+183,Gabriel Martinelli,BRA,FW,Arsenal,21,"4,258,800",Premier League
+184,Joe Aribo,NGA,"MF,FW",Southampton,26,"4,258,800",Premier League
+185,Georginio Rutter,FRA,"FW,MF",Leeds United,20,"4,258,800",Premier League
+186,Patrick Bamford,ENG,FW,Leeds United,28,"4,258,800",Premier League
+187,Angelo Ogbonna,ITA,DF,West Ham,34,"4,258,800",Premier League
+188,Manuel Lanzini,ARG,"MF,FW",West Ham,29,"4,258,800",Premier League
+189,Ibrahima Konaté,FRA,DF,Liverpool,23,"4,258,800",Premier League
+190,Jacob Ramsey,ENG,"MF,FW",Aston Villa,21,"4,258,800",Premier League
+191,Jannik Vestergaard,DEN,DF,Leicester City,29,"4,258,800",Premier League
+192,Allan Saint-Maximin,FRA,FW,Newcastle Utd,25,"4,258,800",Premier League
+193,Jonjo Shelvey,ENG,MF,Newcastle Utd,30,"4,258,800",Premier League
+194,Mason Holgate,ENG,DF,Everton,25,"4,258,800",Premier League
+195,Issa Diop,FRA,DF,Fulham,25,"4,258,800",Premier League
+196,Brandon Williams,ENG,DF,Manchester Utd,21,"3,954,600",Premier League
+197,Moussa Djenepo,MLI,"DF,FW",Southampton,24,"3,954,600",Premier League
+198,Stuart Armstrong,SCO,"MF,FW",Southampton,30,"3,954,600",Premier League
+199,Davinson Sánchez,COL,DF,Tottenham,26,"3,954,600",Premier League
+200,Matt Doherty,IRL,"DF,MF",Tottenham,30,"3,954,600",Premier League
+201,Luis Sinisterra,COL,FW,Leeds United,23,"3,954,600",Premier League
+202,Łukasz Fabiański,POL,GK,West Ham,37,"3,954,600",Premier League
+203,Maxwel Cornet,CIV,FW,West Ham,25,"3,954,600",Premier League
+204,Pablo Fornals,ESP,"FW,MF",West Ham,26,"3,954,600",Premier League
+205,Tomáš Souček,CZE,MF,West Ham,27,"3,954,600",Premier League
+206,Nathaniel Phillips,ENG,DF,Liverpool,25,"3,954,600",Premier League
+207,Timothy Castagne,BEL,DF,Leicester City,26,"3,954,600",Premier League
+208,Saša Lukić,SRB,MF,Fulham,25,"3,832,920",Premier League
+209,Aaron Ramsdale,ENG,GK,Arsenal,24,"3,650,400",Premier League
+210,Reiss Nelson,ENG,FW,Arsenal,22,"3,650,400",Premier League
+211,Scott McTominay,SCO,MF,Manchester Utd,25,"3,650,400",Premier League
+212,Jan Bednarek,POL,DF,Southampton,26,"3,650,400",Premier League
+213,Mohamed Elyounoussi,NOR,"MF,FW",Southampton,27,"3,650,400",Premier League
+214,Cheick Doucouré,MLI,MF,Crystal Palace,22,"3,650,400",Premier League
+215,Junior Firpo,DOM,DF,Leeds United,25,"3,650,400",Premier League
+216,Declan Rice,ENG,MF,West Ham,23,"3,650,400",Premier League
+217,Jarrod Bowen,ENG,"FW,MF",West Ham,25,"3,650,400",Premier League
+218,Adrián,ESP,GK,Liverpool,35,"3,650,400",Premier League
+219,James Milner,ENG,"MF,DF",Liverpool,36,"3,650,400",Premier League
+220,Daniel Podence,POR,"FW,MF",Wolves,26,"3,650,400",Premier League
+221,Matheus Cunha,BRA,FW,Wolves,23,"3,650,400",Premier League
+222,Anthony Gordon,ENG,"FW,MF",Newcastle Utd,21,"3,650,400",Premier League
+223,Nick Pope,ENG,GK,Newcastle Utd,30,"3,650,400",Premier League
+224,Pascal Groß,GER,"MF,DF",Brighton,31,"3,650,400",Premier League
+225,Renan Lodi,BRA,DF,Nott'ham Forest,24,"3,650,400",Premier League
+226,Jakub Kiwior,POL,DF,Arsenal,22,"3,528,720",Premier League
+227,Vitaliy Mykolenko,UKR,DF,Everton,23,"3,528,720",Premier League
+228,Mohamed Elneny,EGY,MF,Arsenal,30,"3,346,200",Premier League
+229,Takehiro Tomiyasu,JPN,DF,Arsenal,23,"3,346,200",Premier League
+230,Adam Armstrong,ENG,"FW,MF",Southampton,25,"3,346,200",Premier League
+231,Ibrahima Diallo,FRA,MF,Southampton,23,"3,346,200",Premier League
+232,Ryan Sessegnon,ENG,DF,Tottenham,22,"3,346,200",Premier League
+233,Yves Bissouma,MLI,MF,Tottenham,25,"3,346,200",Premier League
+234,Chris Richards,USA,DF,Crystal Palace,22,"3,346,200",Premier League
+235,Jaïro Riedewald,NED,"DF,MF",Crystal Palace,25,"3,346,200",Premier League
+236,James McArthur,SCO,MF,Crystal Palace,34,"3,346,200",Premier League
+237,Jefferson Lerma,COL,MF,Bournemouth,27,"3,346,200",Premier League
+238,Tyler Adams,USA,MF,Leeds United,23,"3,346,200",Premier League
+239,Saïd Benrahma,ALG,"FW,MF",West Ham,26,"3,346,200",Premier League
+240,Luis Díaz,COL,FW,Liverpool,25,"3,346,200",Premier League
+241,John McGinn,SCO,"MF,FW",Aston Villa,27,"3,346,200",Premier League
+242,Adama Traoré,ESP,"FW,MF",Wolves,26,"3,346,200",Premier League
+243,Boubacar Traoré,MLI,MF,Wolves,20,"3,346,200",Premier League
+244,Nampalys Mendy,SEN,MF,Leicester City,30,"3,346,200",Premier League
+245,Emil Krafth,SWE,DF,Newcastle Utd,27,"3,346,200",Premier League
+246,Ben Mee,ENG,DF,Brentford,32,"3,346,200",Premier League
+247,Edouard Mendy,SEN,GK,Chelsea,30,"3,346,200",Premier League
+248,Adam Webster,ENG,DF,Brighton,27,"3,346,200",Premier League
+249,Danny Welbeck,ENG,FW,Brighton,31,"3,346,200",Premier League
+250,Conor Coady,ENG,DF,Everton,29,"3,346,200",Premier League
+251,Séamus Coleman,IRL,DF,Everton,33,"3,346,200",Premier League
+252,Stefan Ortega,GER,GK,Manchester City,29,"3,346,200",Premier League
+253,Albert Sambi Lokonga,BEL,MF,Arsenal,22,"3,042,000",Premier League
+254,Gabriel Magalhães,BRA,DF,Arsenal,24,"3,042,000",Premier League
+255,Axel Tuanzebe,ENG,CB,Manchester Utd,24,"3,042,000",Premier League
+256,Alex McCarthy,ENG,GK,Southampton,32,"3,042,000",Premier League
+257,James Tomkins,ENG,DF,Crystal Palace,33,"3,042,000",Premier League
+258,Jean-Philippe Mateta,FRA,FW,Crystal Palace,25,"3,042,000",Premier League
+259,Jeffrey Schlupp,GHA,"MF,FW",Crystal Palace,29,"3,042,000",Premier League
+260,Marc Guéhi,ENG,DF,Crystal Palace,22,"3,042,000",Premier League
+261,David Brooks,WAL,"FW,MF",Bournemouth,25,"3,042,000",Premier League
+262,Dominic Solanke,ENG,"FW,MF",Bournemouth,24,"3,042,000",Premier League
+263,Marcos Senesi,ARG,DF,Bournemouth,25,"3,042,000",Premier League
+264,Neto,BRA,GK,Bournemouth,33,"3,042,000",Premier League
+265,Jack Harrison,ENG,"FW,MF",Leeds United,25,"3,042,000",Premier League
+266,Marc Roca,ESP,MF,Leeds United,25,"3,042,000",Premier League
+267,Pascal Struijk,NED,DF,Leeds United,22,"3,042,000",Premier League
+268,Aaron Cresswell,ENG,DF,West Ham,32,"3,042,000",Premier League
+269,Nayef Aguerd,MAR,DF,West Ham,26,"3,042,000",Premier League
+270,Kostas Tsimikas,GRE,DF,Liverpool,26,"3,042,000",Premier League
+271,Ashley Young,ENG,DF,Aston Villa,37,"3,042,000",Premier League
+272,Calum Chambers,ENG,"DF,MF",Aston Villa,27,"3,042,000",Premier League
+273,Robin Olsen,SWE,GK,Aston Villa,32,"3,042,000",Premier League
+274,Diego Costa,ESP,FW,Wolves,33,"3,042,000",Premier League
+275,Pedro Neto,POR,"FW,MF",Wolves,22,"3,042,000",Premier League
+276,Rúben Neves,POR,MF,Wolves,25,"3,042,000",Premier League
+277,Tetê,BRA,FW,Leicester City,22,"3,042,000",Premier League
+278,Wout Faes,BEL,DF,Leicester City,24,"3,042,000",Premier League
+279,Sean Longstaff,ENG,MF,Newcastle Utd,24,"3,042,000",Premier League
+280,Conor Gallagher,ENG,MF,Chelsea,22,"3,042,000",Premier League
+281,Noni Madueke,,RW,Chelsea,20,"3,042,000",Premier League
+282,Trevoh Chalobah,ENG,DF,Chelsea,23,"3,042,000",Premier League
+283,Alexis Mac Allister,ARG,MF,Brighton,23,"3,042,000",Premier League
+284,Pervis Estupiñán,ECU,DF,Brighton,24,"3,042,000",Premier League
+285,Neal Maupay,FRA,FW,Everton,25,"3,042,000",Premier League
+286,Neco Williams,WAL,DF,Nott'ham Forest,21,"3,042,000",Premier League
+287,Taiwo Awoniyi,NGA,FW,Nott'ham Forest,24,"3,042,000",Premier League
+288,Andreas Pereira,BRA,MF,Fulham,26,"3,042,000",Premier League
+289,Daniel James,WAL,FW,Fulham,24,"3,042,000",Premier League
+290,João Palhinha,POR,MF,Fulham,27,"3,042,000",Premier League
+291,Kenny Tete,NED,DF,Fulham,26,"3,042,000",Premier League
+292,Julián Álvarez,ARG,"FW,MF",Manchester City,22,"3,042,000",Premier League
+293,Sergio Gómez,ESP,"DF,MF",Manchester City,21,"3,042,000",Premier League
+294,Callum Wilson,ENG,FW,Newcastle Utd,30,"2,798,640",Premier League
+295,Fabio Vieira,POR,"MF,FW",Arsenal,22,"2,737,800",Premier League
+296,Tom Heaton,ENG,GK,Manchester Utd,36,"2,737,800",Premier League
+297,Arnaut Danjuma,NED,"FW,MF",Tottenham,25,"2,737,800",Premier League
+298,Michael Olise,FRA,"FW,MF",Crystal Palace,20,"2,737,800",Premier League
+299,Hamed Junior Traorè,CIV,"FW,MF",Bournemouth,22,"2,737,800",Premier League
+300,Jack Stephens,ENG,DF,Bournemouth,28,"2,737,800",Premier League
+301,Brenden Aaronson,USA,"MF,FW",Leeds United,21,"2,737,800",Premier League
+302,Diego Llorente,ESP,DF,Leeds United,28,"2,737,800",Premier League
+303,Stuart Dallas,NIR,RB,Leeds United,31,"2,737,800",Premier League
+304,Craig Dawson,ENG,DF,West Ham,32,"2,737,800",Premier League
+305,Keinan Davis,ENG,CF,Aston Villa,24,"2,737,800",Premier League
+306,Morgan Sanson,FRA,MF,Aston Villa,27,"2,737,800",Premier League
+307,Mario Lemina,GAB,MF,Wolves,28,"2,737,800",Premier League
+308,Ayoze Pérez,ESP,"MF,FW",Leicester City,29,"2,737,800",Premier League
+309,Çağlar Söyüncü,TUR,DF,Leicester City,26,"2,737,800",Premier League
+310,Marc Albrighton,ENG,"FW,MF",Leicester City,32,"2,737,800",Premier League
+311,Matt Ritchie,SCO,"FW,MF",Newcastle Utd,32,"2,737,800",Premier League
+312,Bryan Mbeumo,CMR,FW,Brentford,22,"2,737,800",Premier League
+313,Asmir Begović,BIH,GK,Everton,35,"2,737,800",Premier League
+314,André Ayew,GHA,"FW,MF",Nott'ham Forest,32,"2,737,800",Premier League
+315,Cheikhou Kouyaté,SEN,MF,Nott'ham Forest,32,"2,737,800",Premier League
+316,Moussa Niakhate,SEN,DF,Nott'ham Forest,26,"2,737,800",Premier League
+317,Miguel Almirón,PAR,FW,Newcastle Utd,28,"2,555,280",Premier League
+318,Ryan Fraser,SCO,FW,Newcastle Utd,28,"2,555,280",Premier League
+319,Emile Smith Rowe,ENG,"MF,FW",Arsenal,22,"2,433,600",Premier League
+320,Rob Holding,ENG,DF,Arsenal,26,"2,433,600",Premier League
+321,William Saliba,FRA,DF,Arsenal,21,"2,433,600",Premier League
+322,Martin Dúbravka,SVK,GK,Manchester Utd,33,"2,433,600",Premier League
+323,Duje Ćaleta-Car,CRO,DF,Southampton,25,"2,433,600",Premier League
+324,Kamaldeen Sulemana,GHA,"FW,MF",Southampton,20,"2,433,600",Premier League
+325,Bryan Gil,ESP,"MF,FW",Tottenham,21,"2,433,600",Premier League
+326,Emerson,BRA,DF,Tottenham,23,"2,433,600",Premier League
+327,Oliver Skipp,ENG,MF,Tottenham,21,"2,433,600",Premier League
+328,Sam Johnstone,ENG,GK,Crystal Palace,29,"2,433,600",Premier League
+329,Tyrick Mitchell,ENG,DF,Crystal Palace,22,"2,433,600",Premier League
+330,Lewis Cook,ENG,MF,Bournemouth,25,"2,433,600",Premier League
+331,Philip Billing,DEN,"MF,FW",Bournemouth,26,"2,433,600",Premier League
+332,Rasmus Kristensen,DEN,DF,Leeds United,25,"2,433,600",Premier League
+333,Robin Koch,GER,DF,Leeds United,26,"2,433,600",Premier League
+334,Fabio Carvalho,POR,"MF,FW",Liverpool,19,"2,433,600",Premier League
+335,Harvey Elliott,ENG,"MF,FW",Liverpool,19,"2,433,600",Premier League
+336,Stefan Bajcetic,,DM,Liverpool,18,"2,433,600",Premier League
+337,Frederic Guilbert,FRA,RB,Aston Villa,27,"2,433,600",Premier League
+338,Danny Ward,WAL,GK,Leicester City,29,"2,433,600",Premier League
+339,Harry Souttar,AUS,DF,Leicester City,23,"2,433,600",Premier League
+340,Harvey Barnes,ENG,"FW,MF",Leicester City,24,"2,433,600",Premier League
+341,Fabian Schär,SUI,DF,Newcastle Utd,30,"2,433,600",Premier League
+342,Jamaal Lascelles,ENG,DF,Newcastle Utd,28,"2,433,600",Premier League
+343,Armando Broja,ALB,FW,Chelsea,20,"2,433,600",Premier League
+344,Gaga Slonina,USA,GK,Chelsea,18,"2,433,600",Premier League
+345,Joël Veltman,NED,DF,Brighton,30,"2,433,600",Premier League
+346,Solly March,ENG,"FW,DF",Brighton,28,"2,433,600",Premier League
+347,Andros Townsend,ENG,RW,Everton,31,"2,433,600",Premier League
+348,Emmanuel Dennis,NGA,"FW,MF",Nott'ham Forest,24,"2,433,600",Premier League
+349,Remo Freuler,SUI,MF,Nott'ham Forest,30,"2,433,600",Premier League
+350,Willy Boly,CIV,DF,Nott'ham Forest,31,"2,433,600",Premier League
+351,Carlos Vinícius,BRA,FW,Fulham,27,"2,433,600",Premier League
+352,Kevin Mbabu,SUI,"DF,FW",Fulham,27,"2,433,600",Premier League
+353,Shane Duffy,IRL,"DF,FW",Fulham,30,"2,433,600",Premier League
+354,Tosin Adarabioyo,ENG,DF,Fulham,24,"2,433,600",Premier League
+355,Willian,BRA,FW,Fulham,33,"2,433,600",Premier League
+356,Matías Viña,URU,DF,Bournemouth,24,"2,311,920",Premier League
+357,Jamal Lewis,NIR,"DF,FW",Newcastle Utd,24,"2,311,920",Premier League
+358,Alex Telles,BRA,,Manchester Utd,30,"2,281,500",Premier League
+359,Matt Turner,USA,GK,Arsenal,28,"2,129,400",Premier League
+360,Jack Butland,ENG,GK,Manchester Utd,29,"2,129,400",Premier League
+361,Wout Weghorst,NED,"FW,MF",Manchester Utd,29,"2,129,400",Premier League
+362,Ainsley Maitland-Niles,ENG,"DF,MF",Southampton,24,"2,129,400",Premier League
+363,Lyanco,BRA,DF,Southampton,25,"2,129,400",Premier League
+364,Joel Ward,ENG,DF,Crystal Palace,32,"2,129,400",Premier League
+365,Jordan Ayew,GHA,"FW,MF",Crystal Palace,30,"2,129,400",Premier League
+366,Will Hughes,ENG,MF,Crystal Palace,27,"2,129,400",Premier League
+367,Adam Smith,ENG,DF,Bournemouth,31,"2,129,400",Premier League
+368,Chris Mepham,WAL,DF,Bournemouth,24,"2,129,400",Premier League
+369,Dango Ouattara,BFA,"MF,FW",Bournemouth,20,"2,129,400",Premier League
+370,Junior Stanislas,ENG,MF,Bournemouth,32,"2,129,400",Premier League
+371,Ryan Fredericks,ENG,DF,Bournemouth,29,"2,129,400",Premier League
+372,Maximilian Wöber,AUT,DF,Leeds United,24,"2,129,400",Premier League
+373,Vladimír Coufal,CZE,DF,West Ham,29,"2,129,400",Premier League
+374,Álex Moreno,ESP,DF,Aston Villa,29,"2,129,400",Premier League
+375,Jonny Castro,ESP,DF,Wolves,28,"2,129,400",Premier League
+376,Sasa Kalajdzic,AUT,FW,Wolves,25,"2,129,400",Premier League
+377,Youri Tielemans,BEL,MF,Leicester City,25,"2,129,400",Premier League
+378,Dan Burn,ENG,DF,Newcastle Utd,30,"2,129,400",Premier League
+379,Jacob Murphy,ENG,FW,Newcastle Utd,27,"2,129,400",Premier League
+380,Javier Manquillo,ESP,DF,Newcastle Utd,28,"2,129,400",Premier League
+381,Paul Dummett,WAL,DF,Newcastle Utd,30,"2,129,400",Premier League
+382,Christian Nørgaard,DEN,MF,Brentford,28,"2,129,400",Premier League
+383,Keane Lewis-Potter,ENG,"FW,MF",Brentford,21,"2,129,400",Premier League
+384,Kristoffer Ajer,NOR,DF,Brentford,24,"2,129,400",Premier League
+385,Rico Henry,ENG,DF,Brentford,25,"2,129,400",Premier League
+386,Marcus Bettinelli,ENG,GK,Chelsea,30,"2,129,400",Premier League
+387,Tariq Lamptey,GHA,DF,Brighton,21,"2,129,400",Premier League
+388,Serge Aurier,CIV,DF,Nott'ham Forest,29,"2,129,400",Premier League
+389,Bobby Reid,JAM,"FW,DF",Fulham,29,"2,129,400",Premier League
+390,Harry Wilson,WAL,FW,Fulham,25,"2,129,400",Premier League
+391,Nathaniel Chalobah,ENG,MF,Fulham,27,"2,129,400",Premier League
+392,Marquinhos,BRA,MF,Arsenal,19,"1,825,200",Premier League
+393,Che Adams,SCO,FW,Southampton,26,"1,825,200",Premier League
+394,Paul Onuachu,NGA,FW,Southampton,28,"1,825,200",Premier League
+395,Romain Perraud,FRA,DF,Southampton,24,"1,825,200",Premier League
+396,Eberechi Eze,ENG,"MF,FW",Crystal Palace,24,"1,825,200",Premier League
+397,Jack Stacey,ENG,DF,Bournemouth,26,"1,825,200",Premier League
+398,Lloyd Kelly,ENG,DF,Bournemouth,23,"1,825,200",Premier League
+399,Ryan Christie,SCO,"MF,FW",Bournemouth,27,"1,825,200",Premier League
+400,Illan Meslier,FRA,GK,Leeds United,22,"1,825,200",Premier League
+401,Sam Greenwood,ENG,"MF,FW",Leeds United,20,"1,825,200",Premier League
+402,Ezri Konsa,ENG,DF,Aston Villa,24,"1,825,200",Premier League
+403,Jhon Durán,COL,"FW,MF",Aston Villa,18,"1,825,200",Premier League
+404,Marvelous Nakamba,ZIM,MF,Aston Villa,28,"1,825,200",Premier League
+405,Hwang Hee-chan,KOR,"FW,MF",Wolves,26,"1,825,200",Premier League
+406,João Gomes,BRA,MF,Wolves,21,"1,825,200",Premier League
+407,Alex Smithies,ENG,GK,Leicester City,32,"1,825,200",Premier League
+408,James Justin,ENG,DF,Leicester City,24,"1,825,200",Premier League
+409,Elliot Anderson,SCO,"MF,FW",Newcastle Utd,19,"1,825,200",Premier League
+410,Karl Darlow,ENG,GK,Newcastle Utd,31,"1,825,200",Premier League
+411,Aaron Hickey,SCO,DF,Brentford,20,"1,825,200",Premier League
+412,Mikkel Damsgaard,DEN,"MF,FW",Brentford,22,"1,825,200",Premier League
+413,Vitaly Janelt,GER,"MF,DF",Brentford,24,"1,825,200",Premier League
+414,David Datro Fofana,,CF,Chelsea,20,"1,825,200",Premier League
+415,James Garner,ENG,"MF,DF",Everton,21,"1,825,200",Premier League
+416,Brennan Johnson,WAL,"FW,MF",Nott'ham Forest,21,"1,825,200",Premier League
+417,Danilo,BRA,MF,Nott'ham Forest,21,"1,825,200",Premier League
+418,Gustavo Scarpa,BRA,"MF,FW",Nott'ham Forest,28,"1,825,200",Premier League
+419,Omar Richards,ENG,LB,Nott'ham Forest,24,"1,825,200",Premier League
+420,Orel Mangala,BEL,MF,Nott'ham Forest,24,"1,825,200",Premier League
+421,Steve Cook,ENG,DF,Nott'ham Forest,31,"1,825,200",Premier League
+422,Harrison Reed,ENG,MF,Fulham,27,"1,825,200",Premier League
+423,Josh Onomah,ENG,MF,Fulham,25,"1,825,200",Premier League
+424,Neeskens Kebano,COD,FW,Fulham,30,"1,825,200",Premier League
+425,Tim Ream,USA,DF,Fulham,34,"1,825,200",Premier League
+426,Tom Cairney,SCO,MF,Fulham,31,"1,825,200",Premier League
+427,Máximo Perrone,,DM,Manchester City,20,"1,825,200",Premier League
+428,Scott Carson,ENG,GK,Manchester City,36,"1,825,200",Premier League
+429,Nathan Patterson,SCO,"DF,MF",Everton,20,"1,703,520",Premier League
+430,Diogo Dalot,POR,DF,Manchester Utd,23,"1,521,000",Premier League
+431,Carlos Alcaraz,ARG,"MF,FW",Southampton,19,"1,521,000",Premier League
+432,Mohammed Salisu,GHA,DF,Southampton,23,"1,521,000",Premier League
+433,Roméo Lavia,,DM,Southampton,19,"1,521,000",Premier League
+434,Sekou Mara,FRA,"FW,MF",Southampton,20,"1,521,000",Premier League
+435,Djed Spence,ENG,"FW,DF",Tottenham,21,"1,521,000",Premier League
+436,Japhet Tanganga,ENG,DF,Tottenham,23,"1,521,000",Premier League
+437,Nathan Ferguson,ENG,CB,Crystal Palace,22,"1,521,000",Premier League
+438,Darren Randolph,IRL,GK,Bournemouth,35,"1,521,000",Premier League
+439,Ilya Zabarnyi,,CB,Bournemouth,20,"1,521,000",Premier League
+440,Liam Cooper,SCO,DF,Leeds United,30,"1,521,000",Premier League
+441,Mateusz Klich,POL,"MF,FW",Leeds United,32,"1,521,000",Premier League
+442,Flynn Downes,ENG,MF,West Ham,23,"1,521,000",Premier League
+443,José Sá,POR,GK,Wolves,29,"1,521,000",Premier League
+444,Victor Kristiansen,,LB,Leicester City,20,"1,521,000",Premier League
+445,David Raya,ESP,GK,Brentford,26,"1,521,000",Premier League
+446,Frank Onyeka,NGA,MF,Brentford,24,"1,521,000",Premier League
+447,Pontus Jansson,SWE,DF,Brentford,31,"1,521,000",Premier League
+448,Sergi Canós,ESP,"FW,DF",Brentford,25,"1,521,000",Premier League
+449,Thomas Strakosha,ALB,GK,Brentford,27,"1,521,000",Premier League
+450,Robert Sánchez,ESP,GK,Brighton,24,"1,521,000",Premier League
+451,Demarai Gray,JAM,"FW,MF",Everton,26,"1,521,000",Premier League
+452,Dwight McNeil,ENG,"FW,MF",Everton,22,"1,521,000",Premier League
+453,Rúben Vinagre,POR,"DF,MF",Everton,23,"1,521,000",Premier League
+454,Tom Davies,ENG,MF,Everton,24,"1,521,000",Premier League
+455,Loïc Bade,FRA,DF,Nott'ham Forest,22,"1,521,000",Premier League
+456,Ryan Yates,ENG,MF,Nott'ham Forest,24,"1,521,000",Premier League
+457,Antonee Robinson,USA,DF,Fulham,24,"1,521,000",Premier League
+458,Facundo Pellistri,URU,"FW,MF",Manchester Utd,20,"1,216,800",Premier League
+459,Gavin Bazunu,IRL,GK,Southampton,20,"1,216,800",Premier League
+460,Kyle Walker-Peters,ENG,DF,Southampton,25,"1,216,800",Premier League
+461,Willy Caballero,ARG,GK,Southampton,40,"1,216,800",Premier League
+462,Naouirou Ahamada,FRA,"MF,FW",Crystal Palace,20,"1,216,800",Premier League
+463,Antoine Semenyo,GHA,"FW,MF",Bournemouth,22,"1,216,800",Premier League
+464,Marcus Tavernier,ENG,"MF,FW",Bournemouth,23,"1,216,800",Premier League
+465,Mark Travers,IRL,GK,Bournemouth,23,"1,216,800",Premier League
+466,Adam Forshaw,ENG,MF,Leeds United,30,"1,216,800",Premier League
+467,Joel Robles,ESP,GK,Leeds United,32,"1,216,800",Premier League
+468,Luke Ayling,ENG,DF,Leeds United,30,"1,216,800",Premier League
+469,Wilfried Gnonto,ITA,"FW,MF",Leeds United,18,"1,216,800",Premier League
+470,Ben Johnson,ENG,DF,West Ham,22,"1,216,800",Premier League
+471,Cameron Archer,ENG,"FW,MF",Aston Villa,21,"1,216,800",Premier League
+472,Jed Steer,ENG,GK,Aston Villa,30,"1,216,800",Premier League
+473,Ludwig Augustinsson,SWE,DF,Aston Villa,28,"1,216,800",Premier League
+474,Léo Bonatini,BRA,CF,Wolves,28,"1,216,800",Premier League
+475,Nathan Collins,IRL,DF,Wolves,21,"1,216,800",Premier League
+476,Daniel Amartey,GHA,DF,Leicester City,27,"1,216,800",Premier League
+477,Daniel Iversen,DEN,GK,Leicester City,25,"1,216,800",Premier League
+478,Kiernan Dewsbury-Hall,ENG,MF,Leicester City,23,"1,216,800",Premier League
+479,Ivan Toney,ENG,FW,Brentford,26,"1,216,800",Premier League
+480,Josh Dasilva,ENG,MF,Brentford,23,"1,216,800",Premier League
+481,Mathias Jensen,DEN,MF,Brentford,26,"1,216,800",Premier League
+482,Yoane Wissa,COD,FW,Brentford,25,"1,216,800",Premier League
+483,Mathias Jørgensen,DEN,DF,Brentford,32,"1,216,800",Premier League
+484,Billy Gilmour,SCO,MF,Brighton,21,"1,216,800",Premier League
+485,Deniz Undav,GER,"FW,MF",Brighton,26,"1,216,800",Premier League
+486,Giulian Biancone,FRA,DF,Nott'ham Forest,22,"1,216,800",Premier League
+487,Harry Arter,IRL,CM,Nott'ham Forest,32,"1,216,800",Premier League
+488,Lyle Taylor,MSR,FW,Nott'ham Forest,32,"1,216,800",Premier League
+489,Scott McKenna,SCO,DF,Nott'ham Forest,25,"1,216,800",Premier League
+490,Manor Solomon,ISR,FW,Fulham,23,"1,216,800",Premier League
+491,Cole Palmer,ENG,"MF,FW",Manchester City,20,"1,216,800",Premier League
+492,Pape Matar Sarr,SEN,"MF,FW",Tottenham,19,"1,216,800",Premier League
+493,Armel Bella Kotchap,GER,DF,Southampton,20,"912,600",Premier League
+494,Juan Larios,,LB,Southampton,19,"912,600",Premier League
+495,Samuel Edozie,,LW,Southampton,20,"912,600",Premier League
+496,Emiliano Marcondes,DEN,MF,Bournemouth,27,"912,600",Premier League
+497,Kieffer Moore,WAL,FW,Bournemouth,29,"912,600",Premier League
+498,Crysencio Summerville,NED,FW,Leeds United,20,"912,600",Premier League
+499,Joe Gelhardt,ENG,FW,Leeds United,20,"912,600",Premier League
+500,Calvin Ramsay,SCO,DF,Liverpool,19,"912,600",Premier League
+501,Curtis Jones,ENG,MF,Liverpool,21,"912,600",Premier League
+502,Max Kilman,ENG,DF,Wolves,25,"912,600",Premier League
+503,Ethan Pinnock,JAM,DF,Brentford,29,"912,600",Premier League
+504,Saman Ghoddos,IRN,"MF,FW",Brentford,28,"912,600",Premier League
+505,Shandon Baptiste,GRN,MF,Brentford,24,"912,600",Premier League
+506,Facundo Buonanotte,,AM,Brighton,18,"912,600",Premier League
+507,Jason Steele,ENG,GK,Brighton,31,"912,600",Premier League
+508,Moisés Caicedo,ECU,MF,Brighton,20,"912,600",Premier League
+509,Harry Toffolo,ENG,DF,Nott'ham Forest,26,"912,600",Premier League
+510,Jack Colback,ENG,MF,Nott'ham Forest,32,"912,600",Premier League
+511,Joe Worrall,ENG,DF,Nott'ham Forest,25,"912,600",Premier League
+512,Lewis O'Brien,ENG,MF,Nott'ham Forest,23,"912,600",Premier League
+513,Sam Surridge,ENG,FW,Nott'ham Forest,24,"912,600",Premier League
+514,Wayne Hennessey,WAL,GK,Nott'ham Forest,35,"912,600",Premier League
+515,Marek Rodák,SVK,GK,Fulham,25,"912,600",Premier League
+516,Jamal Lowe,JAM,"MF,FW",Bournemouth,28,"730,080",Premier League
+517,Rhys Williams,ENG,DF,Liverpool,21,"608,400",Premier League
+518,James Bree,ENG,DF,Southampton,24,"608,400",Premier League
+519,Malcolm Ebiowei,ENG,"MF,FW",Crystal Palace,18,"608,400",Premier League
+520,Jaidon Anthony,ENG,"MF,FW",Bournemouth,22,"608,400",Premier League
+521,Kristoffer Klaesson,NOR,GK,Leeds United,21,"608,400",Premier League
+522,Caoimhín Kelleher,IRL,GK,Liverpool,23,"608,400",Premier League
+523,Chiquinho,POR,LW,Wolves,22,"608,400",Premier League
+524,Daniel Bentley,ENG,GK,Wolves,29,"608,400",Premier League
+525,Matija Šarkić,MNE,GK,Wolves,25,"608,400",Premier League
+526,Rayan Aït-Nouri,ALG,DF,Wolves,21,"608,400",Premier League
+527,Luke Thomas,ENG,DF,Leicester City,21,"608,400",Premier League
+528,Harrison Ashby,,RB,Newcastle Utd,21,"608,400",Premier League
+529,Loris Karius,GER,GK,Newcastle Utd,29,"608,400",Premier League
+530,Mark Gillespie,ENG,GK,Newcastle Utd,30,"608,400",Premier League
+531,Kevin Schade,GER,FW,Brentford,20,"608,400",Premier League
+532,Mads Roerslev,DEN,DF,Brentford,23,"608,400",Premier League
+533,Jakub Moder,POL,CM,Brighton,23,"608,400",Premier League
+534,Jeremy Sarmiento,ECU,MF,Brighton,20,"608,400",Premier League
+535,Julio Enciso,PAR,"FW,MF",Brighton,18,"608,400",Premier League
+536,Kaoru Mitoma,JPN,"FW,MF",Brighton,25,"608,400",Premier League
+537,Tom McGill,,GK,Brighton,23,"608,400",Premier League
+538,Andy Lonergan,IRL,GK,Everton,38,"608,400",Premier League
+539,Cafú,POR,MF,Nott'ham Forest,29,"608,400",Premier League
+540,Loïc Mbe Soh,FRA,DF,Nott'ham Forest,21,"608,400",Premier League
+541,Valentino Livramento,ENG,"DF,FW",Southampton,19,"486,720",Premier League
+542,Ben Pearson,ENG,MF,Bournemouth,27,"486,720",Premier League
+543,Joe Rothwell,ENG,MF,Bournemouth,27,"486,720",Premier League
+544,Jordan Zemura,ZIM,DF,Bournemouth,22,"486,720",Premier League
+545,Siriki Dembélé,CIV,"FW,MF",Bournemouth,25,"486,720",Premier League
+546,Yerson Mosquera,COL,DF,Wolves,21,"486,720",Premier League
+547,Charlie Goode,ENG,DF,Brentford,26,"486,720",Premier League
+548,Yasin Ayari,,CM,Brighton,19,"486,720",Premier League
+549,Matthew Longstaff,ENG,CM,Newcastle Utd,22,"456,300",Premier League
+550,Alfie Whiteman,ENG,GK,Tottenham,24,"456,300",Premier League
+551,Brandon Austin,ENG,GK,Tottenham,23,"456,300",Premier League
+552,Alejandro Garnacho,,LW,Manchester Utd,18,"425,880",Premier League
+553,Lewis Hall,,LB,Chelsea,18,"425,880",Premier League
+554,Ellis Simms,ENG,FW,Everton,21,"425,880",Premier League
+555,Finley Stevens,WAL,DF,Brentford,19,"327,600",Premier League
+556,Anthony Elanga,SWE,FW,Manchester Utd,20,"304,200",Premier League
+557,Shola Shoretire,ENG,MF,Manchester Utd,18,"304,200",Premier League
+558,Teden Mengi,ENG,CB,Manchester Utd,20,"304,200",Premier League
+559,Conor Coventry,IRL,"MF,FW",West Ham,22,"304,200",Premier League
+560,Hugo Bueno,,LB,Wolves,20,"304,200",Premier League
+561,Joe Hodge,,DM,Wolves,20,"304,200",Premier League
+562,Toti Gomes,POR,DF,Wolves,23,"304,200",Premier League
+563,Jan Paul van Hecke,NED,DF,Brighton,22,"304,200",Premier League
+564,Levi Colwill,ENG,DF,Brighton,19,"304,200",Premier League
+565,Eldin Jakupović,SUI,GK,Everton,37,"304,200",Premier League
+566,Rico Lewis,,RB,Manchester City,18,"304,200",Premier League
+567,Alex Mighten,ENG,FW,Nott'ham Forest,20,"210,600",Premier League
+568,James Hill,ENG,DF,Bournemouth,20,"182,520",Premier League
+569,Connor Ronan,IRL,MF,Wolves,24,"182,520",Premier League
+570,Evan Ferguson,IRL,FW,Brighton,17,"182,520",Premier League
+571,Cody Drameh,ENG,DF,Leeds United,20,"152,100",Premier League
+572,Chem Campbell,WAL,"FW,MF",Wolves,19,"152,100",Premier League
+573,Jordan Smith,ENG,GK,Nott'ham Forest,27,"152,100",Premier League
+574,Will Dennis,ENG,GK,Bournemouth,22,"121,680",Premier League
+575,Leo Fuhr Hjelde,NOR,DF,Leeds United,18,"121,680",Premier League
+576,Tyrese Francois,AUS,FW,Fulham,22,"58,500",Premier League
