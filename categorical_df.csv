@@ -1,0 +1,2714 @@
+,player,country_of_origin,team,league,position,age_category
+0,Sadio Mané,SEN,Bayern Munich,Bundes Liga,Forward,middle_age
+1,Manuel Neuer,GER,Bayern Munich,Bundes Liga,Goalkeeper,seniors
+2,Thomas Müller,GER,Bayern Munich,Bundes Liga,Forward,seniors
+3,Leroy Sané,GER,Bayern Munich,Bundes Liga,Midfield,middle_age
+4,Joshua Kimmich,GER,Bayern Munich,Bundes Liga,Midfield,middle_age
+5,Niklas Süle,GER,Dortmund,Bundes Liga,Defence,middle_age
+6,Serge Gnabry,GER,Bayern Munich,Bundes Liga,Forward,middle_age
+7,Leon Goretzka,GER,Bayern Munich,Bundes Liga,Midfield,middle_age
+8,Kingsley Coman,FRA,Bayern Munich,Bundes Liga,Forward,middle_age
+9,Matthijs de Ligt,NED,Bayern Munich,Bundes Liga,Defence,young
+10,João Cancelo,POR,Bayern Munich,Bundes Liga,Defence,middle_age
+11,João Cancelo,POR,Bayern Munich,Bundes Liga,Defence,middle_age
+12,João Cancelo,POR,Bayern Munich,Bundes Liga,Defence,middle_age
+13,João Cancelo,POR,Bayern Munich,Bundes Liga,Defence,middle_age
+14,João Cancelo,POR,Manchester City,Premier League,Defence,middle_age
+15,João Cancelo,POR,Manchester City,Premier League,Defence,middle_age
+16,João Cancelo,POR,Manchester City,Premier League,Defence,middle_age
+17,João Cancelo,POR,Manchester City,Premier League,Defence,middle_age
+18,Lucas Hernández,FRA,Bayern Munich,Bundes Liga,Defence,middle_age
+19,Marcel Sabitzer,AUT,Bayern Munich,Bundes Liga,Midfield,middle_age
+20,Marcel Sabitzer,AUT,Bayern Munich,Bundes Liga,Midfield,middle_age
+21,Marcel Sabitzer,AUT,Bayern Munich,Bundes Liga,Midfield,middle_age
+22,Marcel Sabitzer,AUT,Bayern Munich,Bundes Liga,Midfield,middle_age
+23,Marcel Sabitzer,AUT,Manchester Utd,Premier League,Midfield,middle_age
+24,Marcel Sabitzer,AUT,Manchester Utd,Premier League,Midfield,middle_age
+25,Marcel Sabitzer,AUT,Manchester Utd,Premier League,Midfield,middle_age
+26,Marcel Sabitzer,AUT,Manchester Utd,Premier League,Midfield,middle_age
+27,Alphonso Davies,CAN,Bayern Munich,Bundes Liga,Defence,young
+28,Marco Reus,GER,Dortmund,Bundes Liga,Midfield,seniors
+29,Sébastien Haller,CIV,Dortmund,Bundes Liga,Forward,middle_age
+30,Christopher Nkunku,FRA,RB Leipzig,Bundes Liga,Forward,young
+31,Timo Werner,GER,RB Leipzig,Bundes Liga,Forward,middle_age
+32,Mats Hummels,GER,Dortmund,Bundes Liga,Defence,seniors
+33,Thomas Meunier,BEL,Dortmund,Bundes Liga,Defence,middle_age
+34,Dayot Upamecano,FRA,Bayern Munich,Bundes Liga,Defence,young
+35,Ryan Gravenberch,NED,Bayern Munich,Bundes Liga,Midfield,young
+36,Emre Can,GER,Dortmund,Bundes Liga,Midfield,middle_age
+37,Noussair Mazraoui,MAR,Bayern Munich,Bundes Liga,Defence,young
+38,Matthias Ginter,GER,Freiburg,Bundes Liga,Defence,middle_age
+39,David Raum,GER,RB Leipzig,Bundes Liga,Defence,young
+40,Julian Brandt,GER,Dortmund,Bundes Liga,Midfield,middle_age
+41,Emil Forsberg,SWE,RB Leipzig,Bundes Liga,Midfield,middle_age
+42,Anthony Modeste,FRA,Dortmund,Bundes Liga,Forward,seniors
+43,Patrik Schick,CZE,Leverkusen,Bundes Liga,Forward,middle_age
+44,Péter Gulácsi,HUN,RB Leipzig,Bundes Liga,Goalkeeper,seniors
+45,Maximilian Arnold,GER,Wolfsburg,Bundes Liga,Midfield,middle_age
+46,Abdou Diallo,SEN,RB Leipzig,Bundes Liga,Defence,middle_age
+47,Lukas Klostermann,GER,RB Leipzig,Bundes Liga,Defence,middle_age
+48,André Silva,POR,RB Leipzig,Bundes Liga,Forward,middle_age
+49,Karim Adeyemi,GER,Dortmund,Bundes Liga,Forward,young
+50,Benjamin Pavard,FRA,Bayern Munich,Bundes Liga,Defence,middle_age
+51,Jamal Musiala,GER,Bayern Munich,Bundes Liga,Midfield,young
+52,Karim Bellarabi,GER,Leverkusen,Bundes Liga,Forward,seniors
+53,Alassane Pléa,FRA,Gladbach,Bundes Liga,Forward,middle_age
+54,Nico Schlotterbeck,GER,Dortmund,Bundes Liga,Defence,young
+55,Angeliño,ESP,Hoffenheim,Bundes Liga,Defence,young
+56,Dominick Drexler,GER,Schalke 04,Bundes Liga,Midfield,seniors
+57,Donyell Malen,NED,Dortmund,Bundes Liga,Forward,young
+58,Sebastian Rudy,GER,Hoffenheim,Bundes Liga,Midfield,seniors
+59,Dani Olmo,ESP,RB Leipzig,Bundes Liga,Midfield,young
+60,Dominik Szoboszlai,HUN,RB Leipzig,Bundes Liga,Midfield,young
+61,Willi Orban,HUN,RB Leipzig,Bundes Liga,Defence,middle_age
+62,Yann Sommer,SUI,Gladbach,Bundes Liga,Goalkeeper,seniors
+63,Yann Sommer,SUI,Gladbach,Bundes Liga,Goalkeeper,seniors
+64,Yann Sommer,SUI,Gladbach,Bundes Liga,Goalkeeper,seniors
+65,Yann Sommer,SUI,Gladbach,Bundes Liga,Goalkeeper,seniors
+66,Xaver Schlager,AUT,RB Leipzig,Bundes Liga,Midfield,young
+67,Yussuf Poulsen,DEN,RB Leipzig,Bundes Liga,Forward,middle_age
+68,Mahmoud Dahoud,GER,Dortmund,Bundes Liga,Midfield,middle_age
+69,Callum Hudson-Odoi,ENG,Leverkusen,Bundes Liga,Forward,young
+70,Mathys Tel,FRA,Bayern Munich,Bundes Liga,Forward,young
+71,Julian Weigl,GER,Gladbach,Bundes Liga,Midfield,middle_age
+72,Simon Terodde,GER,Schalke 04,Bundes Liga,Forward,seniors
+73,Max Kruse,GER,Wolfsburg,Bundes Liga,Midfield,seniors
+74,Benjamin Henrichs,GER,RB Leipzig,Bundes Liga,Defence,young
+75,Salih Özcan,TUR,Dortmund,Bundes Liga,Midfield,young
+76,Charles Aránguiz,CHI,Leverkusen,Bundes Liga,Midfield,seniors
+77,Yannick Gerhardt,GER,Wolfsburg,Bundes Liga,Midfield,middle_age
+78,Christoph Kramer,GER,Gladbach,Bundes Liga,Midfield,middle_age
+79,Kevin Kampl,SVN,RB Leipzig,Bundes Liga,Midfield,middle_age
+80,Raphaël Guerreiro,POR,Dortmund,Bundes Liga,Defence,middle_age
+81,Kevin Trapp,GER,Eint Frankfurt,Bundes Liga,Goalkeeper,seniors
+82,Mario Götze,GER,Eint Frankfurt,Bundes Liga,Midfield,middle_age
+83,Eric Maxim Choupo-Moting,CMR,Bayern Munich,Bundes Liga,Forward,seniors
+84,Thomas Delaney,DEN,Hoffenheim,Bundes Liga,Midfield,middle_age
+85,Thomas Delaney,DEN,Hoffenheim,Bundes Liga,Midfield,middle_age
+86,Thomas Delaney,DEN,Hoffenheim,Bundes Liga,Midfield,middle_age
+87,Thomas Delaney,DEN,Hoffenheim,Bundes Liga,Midfield,middle_age
+88,Thomas Delaney,DEN,Sevilla,La Liga,Midfield,middle_age
+89,Thomas Delaney,DEN,Sevilla,La Liga,Midfield,middle_age
+90,Thomas Delaney,DEN,Sevilla,La Liga,Midfield,middle_age
+91,Thomas Delaney,DEN,Sevilla,La Liga,Midfield,middle_age
+92,Koen Casteels,BEL,Wolfsburg,Bundes Liga,Goalkeeper,middle_age
+93,Marius Wolf,GER,Dortmund,Bundes Liga,Defence,middle_age
+94,Jonas Hector,GER,Köln,Bundes Liga,Defence,seniors
+95,John Brooks,USA,Hoffenheim,Bundes Liga,Defence,middle_age
+96,Marcus Thuram,FRA,Gladbach,Bundes Liga,Forward,young
+97,Kerem Demirbay,GER,Leverkusen,Bundes Liga,Midfield,middle_age
+98,Sardar Azmoun,IRN,Leverkusen,Bundes Liga,Forward,middle_age
+99,Oliver Baumann,GER,Hoffenheim,Bundes Liga,Goalkeeper,seniors
+100,Ozan Kabak,TUR,Hoffenheim,Bundes Liga,Defence,young
+101,Suat Serdar,GER,Hertha BSC,Bundes Liga,Midfield,young
+102,Kasper Dolberg,DEN,Hoffenheim,Bundes Liga,Forward,young
+103,Kasper Dolberg,DEN,Hoffenheim,Bundes Liga,Forward,young
+104,Kasper Dolberg,DEN,Hoffenheim,Bundes Liga,Forward,young
+105,Kasper Dolberg,DEN,Hoffenheim,Bundes Liga,Forward,young
+106,Kasper Dolberg,DEN,Sevilla,La Liga,Forward,young
+107,Kasper Dolberg,DEN,Sevilla,La Liga,Forward,young
+108,Kasper Dolberg,DEN,Sevilla,La Liga,Forward,young
+109,Kasper Dolberg,DEN,Sevilla,La Liga,Forward,young
+110,Marcel Halstenberg,GER,RB Leipzig,Bundes Liga,Defence,middle_age
+111,Andrej Kramarić,CRO,Hoffenheim,Bundes Liga,Midfield,middle_age
+112,Lars Stindl,GER,Gladbach,Bundes Liga,Forward,seniors
+113,Jérôme Roussillon,FRA,Wolfsburg,Bundes Liga,Midfield,middle_age
+114,Jérôme Roussillon,FRA,Wolfsburg,Bundes Liga,Midfield,middle_age
+115,Jérôme Roussillon,FRA,Wolfsburg,Bundes Liga,Midfield,middle_age
+116,Jérôme Roussillon,FRA,Wolfsburg,Bundes Liga,Midfield,middle_age
+117,Josuha Guilavogui,FRA,Wolfsburg,Bundes Liga,Defence,middle_age
+118,Mergim Berisha,GER,Augsburg,Bundes Liga,Forward,young
+119,Mattias Svanberg,SWE,Wolfsburg,Bundes Liga,Midfield,young
+120,Dan-Axel Zagadou,FRA,Stuttgart,Bundes Liga,Defence,young
+121,Jonathan Tah,GER,Leverkusen,Bundes Liga,Defence,middle_age
+122,Nadiem Amiri,GER,Leverkusen,Bundes Liga,Midfield,young
+123,Ralf Fährmann,GER,Schalke 04,Bundes Liga,Goalkeeper,seniors
+124,Danny Latza,GER,Schalke 04,Bundes Liga,Midfield,seniors
+125,Luca Netz,GER,Gladbach,Bundes Liga,Defence,young
+126,Lucas Tousart,FRA,Hertha BSC,Bundes Liga,Midfield,young
+127,Jiří Pavlenka,CZE,Werder Bremen,Bundes Liga,Goalkeeper,middle_age
+128,Lukáš Hrádecký,FIN,Leverkusen,Bundes Liga,Goalkeeper,seniors
+129,Kingsley Schindler,GHA,Köln,Bundes Liga,Defence,middle_age
+130,Davie Selke,GER,Hertha BSC,Bundes Liga,Forward,middle_age
+131,Davie Selke,GER,Hertha BSC,Bundes Liga,Forward,middle_age
+132,Davie Selke,GER,Hertha BSC,Bundes Liga,Forward,middle_age
+133,Davie Selke,GER,Hertha BSC,Bundes Liga,Forward,middle_age
+134,Dodi Lukebakio,BEL,Hertha BSC,Bundes Liga,Forward,young
+135,Jonas Hofmann,GER,Gladbach,Bundes Liga,Forward,middle_age
+136,Konrad Laimer,AUT,RB Leipzig,Bundes Liga,Midfield,young
+137,Timo Horn,GER,Köln,Bundes Liga,Goalkeeper,middle_age
+138,Florian Wirtz,GER,Leverkusen,Bundes Liga,Forward,young
+139,Lucas Alario,ARG,Eint Frankfurt,Bundes Liga,Forward,middle_age
+140,Rafael Borré,COL,Eint Frankfurt,Bundes Liga,Midfield,middle_age
+141,Marvin Ducksch,GER,Werder Bremen,Bundes Liga,Forward,middle_age
+142,Luca Pellegrini,ITA,Eint Frankfurt,Bundes Liga,Defence,young
+143,Luca Pellegrini,ITA,Eint Frankfurt,Bundes Liga,Defence,young
+144,Luca Pellegrini,ITA,Eint Frankfurt,Bundes Liga,Defence,young
+145,Luca Pellegrini,ITA,Eint Frankfurt,Bundes Liga,Defence,young
+146,Luca Pellegrini,ITA,Lazio,Serie A,Defence,young
+147,Luca Pellegrini,ITA,Lazio,Serie A,Defence,young
+148,Luca Pellegrini,ITA,Lazio,Serie A,Defence,young
+149,Luca Pellegrini,ITA,Lazio,Serie A,Defence,young
+150,Vladimír Darida,CZE,Hertha BSC,Bundes Liga,Midfield,middle_age
+151,Stefan Lainer,AUT,Gladbach,Bundes Liga,Defence,middle_age
+152,Niclas Füllkrug,GER,Werder Bremen,Bundes Liga,Forward,middle_age
+153,Anthony Jung,GER,Werder Bremen,Bundes Liga,Defence,middle_age
+154,Edmond Tapsoba,BFA,Leverkusen,Bundes Liga,Defence,young
+155,Moussa Diaby,FRA,Leverkusen,Bundes Liga,Forward,young
+156,Serhou Guirassy,GUI,Stuttgart,Bundes Liga,Forward,middle_age
+157,Daniel Caligiuri,ITA,Augsburg,Bundes Liga,Defence,seniors
+158,Maximilian Philipp,GER,Wolfsburg,Bundes Liga,Forward,middle_age
+159,Maximilian Philipp,GER,Wolfsburg,Bundes Liga,Forward,middle_age
+160,Maximilian Philipp,GER,Wolfsburg,Bundes Liga,Forward,middle_age
+161,Maximilian Philipp,GER,Wolfsburg,Bundes Liga,Forward,middle_age
+162,Sebastian Rode,GER,Eint Frankfurt,Bundes Liga,Midfield,middle_age
+163,Rune Jarstein,NOR,Hertha BSC,Bundes Liga,Goalkeeper,seniors
+164,Jonas Omlin,SUI,Gladbach,Bundes Liga,Goalkeeper,middle_age
+165,Djibril Sow,SUI,Eint Frankfurt,Bundes Liga,Midfield,young
+166,Jonas Wind,DEN,Wolfsburg,Bundes Liga,Forward,young
+167,Gregor Kobel,SUI,Dortmund,Bundes Liga,Goalkeeper,young
+168,Marius Bülter,GER,Schalke 04,Bundes Liga,Forward,middle_age
+169,Moanes Dabbur,ISR,Hoffenheim,Bundes Liga,Forward,middle_age
+170,Luca Waldschmidt,GER,Wolfsburg,Bundes Liga,Forward,middle_age
+171,Aarón Martín,ESP,Mainz 05,Bundes Liga,Defence,young
+172,Daichi Kamada,JPN,Eint Frankfurt,Bundes Liga,Midfield,young
+173,Daley Blind,NED,Bayern Munich,Bundes Liga,Defence,seniors
+174,Sven Ulreich,GER,Bayern Munich,Bundes Liga,Goalkeeper,seniors
+175,Philipp Max,GER,Eint Frankfurt,Bundes Liga,Defence,middle_age
+176,Patrick Wimmer,AUT,Wolfsburg,Bundes Liga,Forward,young
+177,Mitchell Weiser,GER,Werder Bremen,Bundes Liga,Defence,middle_age
+178,Angelo Fulgini,FRA,Mainz 05,Bundes Liga,Midfield,young
+179,Edimilson Fernandes,SUI,Mainz 05,Bundes Liga,Defence,middle_age
+180,Marcin Kamiński,POL,Schalke 04,Bundes Liga,Defence,middle_age
+181,Ramy Bensebaini,ALG,Gladbach,Bundes Liga,Defence,middle_age
+182,Bouna Sarr,SEN,Bayern Munich,Bundes Liga,Forward,middle_age
+183,Ko Itakura,JPN,Gladbach,Bundes Liga,Defence,young
+184,Josip Brekalo,CRO,Wolfsburg,Bundes Liga,Midfield,young
+185,Josip Brekalo,CRO,Wolfsburg,Bundes Liga,Midfield,young
+186,Josip Brekalo,CRO,Wolfsburg,Bundes Liga,Midfield,young
+187,Josip Brekalo,CRO,Wolfsburg,Bundes Liga,Midfield,young
+188,Josip Brekalo,CRO,Fiorentina,Serie A,Forward,young
+189,Josip Brekalo,CRO,Fiorentina,Serie A,Forward,young
+190,Josip Brekalo,CRO,Fiorentina,Serie A,Forward,young
+191,Josip Brekalo,CRO,Fiorentina,Serie A,Forward,young
+192,Josip Stanišić,CRO,Bayern Munich,Bundes Liga,Defence,young
+193,Adam Hložek,CZE,Leverkusen,Bundes Liga,Forward,young
+194,Sebastiaan Bornauw,BEL,Wolfsburg,Bundes Liga,Defence,young
+195,Nicolai Rapp,GER,Werder Bremen,Bundes Liga,Midfield,young
+196,Robert Skov,DEN,Hoffenheim,Bundes Liga,Defence,middle_age
+197,Stefan Bell,GER,Mainz 05,Bundes Liga,Defence,middle_age
+198,Alex Král,CZE,Schalke 04,Bundes Liga,Midfield,young
+199,Marvin Friedrich,GER,Gladbach,Bundes Liga,Defence,middle_age
+200,Jordan Pefok,USA,Union Berlin,Bundes Liga,Forward,middle_age
+201,Ihlas Bebou,TOG,Hoffenheim,Bundes Liga,Defence,middle_age
+202,Kevin Vogt,GER,Hoffenheim,Bundes Liga,Defence,middle_age
+203,Pavel Kadeřábek,CZE,Hoffenheim,Bundes Liga,Defence,middle_age
+204,Patrick Herrmann,GER,Gladbach,Bundes Liga,Forward,middle_age
+205,Tony Jantschke,GER,Gladbach,Bundes Liga,Defence,seniors
+206,Ludovic Ajorque,FRA,Mainz 05,Bundes Liga,Forward,middle_age
+207,Mohamed Simakan,FRA,RB Leipzig,Bundes Liga,Defence,young
+208,Ellyes Skhiri,TUN,Köln,Bundes Liga,Midfield,middle_age
+209,Maya Yoshida,JPN,Schalke 04,Bundes Liga,Defence,seniors
+210,Exequiel Palacios,ARG,Leverkusen,Bundes Liga,Midfield,young
+211,Almamy Touré,MLI,Eint Frankfurt,Bundes Liga,Defence,middle_age
+212,Anthony Caci,FRA,Mainz 05,Bundes Liga,Defence,young
+213,Rodrigo Zalazar,URU,Schalke 04,Bundes Liga,Midfield,young
+214,Jesper Lindstrøm,DEN,Eint Frankfurt,Bundes Liga,Midfield,young
+215,Odilon Kossonou,CIV,Leverkusen,Bundes Liga,Defence,young
+216,Chidera Ejuke,NGA,Hertha BSC,Bundes Liga,Forward,young
+217,Mitchel Bakker,NED,Leverkusen,Bundes Liga,Defence,young
+218,André Hahn,GER,Augsburg,Bundes Liga,Forward,middle_age
+219,Carlos Gruezo,ECU,Augsburg,Bundes Liga,Midfield,middle_age
+220,Florian Neuhaus,GER,Gladbach,Bundes Liga,Midfield,young
+221,Nico Elvedi,SUI,Gladbach,Bundes Liga,Defence,young
+222,Leonardo Bittencourt,GER,Werder Bremen,Bundes Liga,Midfield,middle_age
+223,Josip Juranović,CRO,Union Berlin,Bundes Liga,Defence,middle_age
+224,Jude Bellingham,ENG,Dortmund,Bundes Liga,Midfield,young
+225,Thorgan Hazard,BEL,Dortmund,Bundes Liga,Defence,middle_age
+226,Jordan Larsson,SWE,Schalke 04,Bundes Liga,Forward,young
+227,Robert Andrich,GER,Leverkusen,Bundes Liga,Midfield,middle_age
+228,Florent Mollet,FRA,Schalke 04,Bundes Liga,Midfield,middle_age
+229,Florian Niederlechner,GER,Augsburg,Bundes Liga,Forward,middle_age
+230,Florian Niederlechner,GER,Augsburg,Bundes Liga,Forward,middle_age
+231,Florian Niederlechner,GER,Augsburg,Bundes Liga,Forward,middle_age
+232,Florian Niederlechner,GER,Augsburg,Bundes Liga,Forward,middle_age
+233,Jeffrey Gouweleeuw,NED,Augsburg,Bundes Liga,Defence,middle_age
+234,Marvin Plattenhardt,GER,Hertha BSC,Bundes Liga,Defence,middle_age
+235,Genki Haraguchi,JPN,Stuttgart,Bundes Liga,Midfield,middle_age
+236,Genki Haraguchi,JPN,Stuttgart,Bundes Liga,Midfield,middle_age
+237,Genki Haraguchi,JPN,Stuttgart,Bundes Liga,Midfield,middle_age
+238,Genki Haraguchi,JPN,Stuttgart,Bundes Liga,Midfield,middle_age
+239,Robin Knoche,GER,Union Berlin,Bundes Liga,Defence,middle_age
+240,Randal Kolo Muani,FRA,Eint Frankfurt,Bundes Liga,Forward,young
+241,Timo Baumgartl,GER,Union Berlin,Bundes Liga,Defence,middle_age
+242,Niklas Stark,GER,Werder Bremen,Bundes Liga,Defence,middle_age
+243,Éder Álvarez Balanta,COL,Schalke 04,Bundes Liga,Midfield,middle_age
+244,Makoto Hasebe,JPN,Eint Frankfurt,Bundes Liga,Defence,seniors
+245,Timothy Chandler,USA,Eint Frankfurt,Bundes Liga,Defence,seniors
+246,Elvis Rexhbeçaj,GER,Augsburg,Bundes Liga,Midfield,young
+247,Jeremie Frimpong,NED,Leverkusen,Bundes Liga,Defence,young
+248,Stevan Jovetić,MNE,Hertha BSC,Bundes Liga,Forward,seniors
+249,Silvan Widmer,SUI,Mainz 05,Bundes Liga,Defence,middle_age
+250,Nico Schulz,GER,Dortmund,Bundes Liga,Defence,middle_age
+251,Paulinho,BRA,Leverkusen,Bundes Liga,Forward,young
+252,Julian Baumgartlinger,AUT,Augsburg,Bundes Liga,Midfield,seniors
+253,Andrey Lunyov,RUS,Leverkusen,Bundes Liga,Goalkeeper,middle_age
+254,Lys Mousset,FRA,Bochum,Bundes Liga,Forward,middle_age
+255,Manuel Riemann,GER,Bochum,Bundes Liga,Goalkeeper,seniors
+256,Daley Sinkgraven,NED,Leverkusen,Bundes Liga,Defence,middle_age
+257,Angelo Stiller,GER,Hoffenheim,Bundes Liga,Midfield,young
+258,Ermin Bičakčić,BIH,Hoffenheim,Bundes Liga,Defence,seniors
+259,Jonjoe Kenny,ENG,Hertha BSC,Bundes Liga,Defence,young
+260,Kevin-Prince Boateng,GHA,Hertha BSC,Bundes Liga,Midfield,seniors
+261,Dominique Heintz,GER,Bochum,Bundes Liga,Defence,middle_age
+262,Florian Kainz,AUT,Köln,Bundes Liga,Midfield,middle_age
+263,Obite N'Dicka,CIV,Eint Frankfurt,Bundes Liga,Defence,young
+264,Dominik Kohr,GER,Mainz 05,Bundes Liga,Midfield,middle_age
+265,Hiroki Ito,JPN,Stuttgart,Bundes Liga,Defence,young
+266,Stanley N'Soki,FRA,Hoffenheim,Bundes Liga,Defence,young
+267,Ermedin Demirović,BIH,Augsburg,Bundes Liga,Forward,young
+268,Agustín Rogel,URU,Hertha BSC,Bundes Liga,Defence,young
+269,Michael Gregoritsch,AUT,Freiburg,Bundes Liga,Forward,middle_age
+270,Mark Uth,GER,Köln,Bundes Liga,Midfield,middle_age
+271,Sebastian Polter,GER,Schalke 04,Bundes Liga,Forward,middle_age
+272,Amine Adli,MAR,Leverkusen,Bundes Liga,Forward,young
+273,Joško Gvardiol,CRO,RB Leipzig,Bundes Liga,Defence,young
+274,Ondrej Duda,SVK,Köln,Bundes Liga,Midfield,middle_age
+275,Ondrej Duda,SVK,Köln,Bundes Liga,Midfield,middle_age
+276,Ondrej Duda,SVK,Köln,Bundes Liga,Midfield,middle_age
+277,Ondrej Duda,SVK,Köln,Bundes Liga,Midfield,middle_age
+278,Ondrej Duda,SVK,Hellas Verona,Serie A,Midfield,middle_age
+279,Ondrej Duda,SVK,Hellas Verona,Serie A,Midfield,middle_age
+280,Ondrej Duda,SVK,Hellas Verona,Serie A,Midfield,middle_age
+281,Ondrej Duda,SVK,Hellas Verona,Serie A,Midfield,middle_age
+282,Marc-Oliver Kempf,GER,Hertha BSC,Bundes Liga,Defence,middle_age
+283,Janik Haberer,GER,Union Berlin,Bundes Liga,Midfield,middle_age
+284,Ivan Šunjić,CRO,Hertha BSC,Bundes Liga,Midfield,young
+285,Soumaïla Coulibaly,FRA,Dortmund,Bundes Liga,Defence,young
+286,Morten Thorsby,NOR,Union Berlin,Bundes Liga,Midfield,middle_age
+287,Ivan Ordets,UKR,Bochum,Bundes Liga,Defence,middle_age
+288,Wilfried Kanga,CIV,Hertha BSC,Bundes Liga,Forward,young
+289,Jakub Kamiński,POL,Wolfsburg,Bundes Liga,Defence,young
+290,Oliver Burke,SCO,Werder Bremen,Bundes Liga,Forward,young
+291,Jamie Leweling,GER,Union Berlin,Bundes Liga,Forward,young
+292,Cédric Brunner,SUI,Schalke 04,Bundes Liga,Defence,middle_age
+293,Arne Maier,GER,Augsburg,Bundes Liga,Midfield,young
+294,Iago,BRA,Augsburg,Bundes Liga,Defence,young
+295,Tobias Strobl,GER,Augsburg,Bundes Liga,Midfield,seniors
+296,Tomáš Koubek,CZE,Augsburg,Bundes Liga,Goalkeeper,middle_age
+297,Hannes Wolf,AUT,Gladbach,Bundes Liga,Forward,young
+298,Amadou Haidara,MLI,RB Leipzig,Bundes Liga,Midfield,young
+299,Dennis Geiger,GER,Hoffenheim,Bundes Liga,Midfield,young
+300,Maximilian Mittelstädt,GER,Hertha BSC,Bundes Liga,Defence,young
+301,Dejan Ljubicic,AUT,Köln,Bundes Liga,Midfield,young
+302,Grischa Prömel,GER,Hoffenheim,Bundes Liga,Midfield,middle_age
+303,Nathan N'Goumou,FRA,Gladbach,Bundes Liga,Forward,young
+304,Danny da Costa,GER,Mainz 05,Bundes Liga,Defence,middle_age
+305,Niklas Dorsch,GER,Augsburg,Bundes Liga,Midfield,young
+306,Vincenzo Grifo,ITA,Freiburg,Bundes Liga,Midfield,middle_age
+307,Ørjan Nyland,NOR,RB Leipzig,Bundes Liga,Goalkeeper,middle_age
+308,Timothée Kolodziejczak,FRA,Schalke 04,Bundes Liga,Defence,middle_age
+309,Filip Uremović,CRO,Hertha BSC,Bundes Liga,Defence,young
+310,Bartol Franjić,CRO,Wolfsburg,Bundes Liga,Midfield,young
+311,Kilian Fischer,GER,Wolfsburg,Bundes Liga,Defence,young
+312,Josha Vagnoman,GER,Stuttgart,Bundes Liga,Defence,young
+313,Maxim Leitsch,GER,Mainz 05,Bundes Liga,Defence,young
+314,Ritsu Doan,JPN,Freiburg,Bundes Liga,Midfield,young
+315,Tom Krauß,GER,Schalke 04,Bundes Liga,Midfield,young
+316,Miloš Veljković,SRB,Werder Bremen,Bundes Liga,Defence,middle_age
+317,Kevin Möhwald,GER,Union Berlin,Bundes Liga,Midfield,middle_age
+318,Anthony Losilla,FRA,Bochum,Bundes Liga,Midfield,seniors
+319,Anton Stach,GER,Mainz 05,Bundes Liga,Midfield,young
+320,Jean-Paul Boëtius,NED,Hertha BSC,Bundes Liga,Midfield,middle_age
+321,Kevin Paredes,USA,Wolfsburg,Bundes Liga,Forward,young
+322,András Schäfer,HUN,Union Berlin,Bundes Liga,Midfield,young
+323,Lennart Grill,GER,Union Berlin,Bundes Liga,Goalkeeper,young
+324,Nicolas Höfler,GER,Freiburg,Bundes Liga,Midfield,seniors
+325,Timothy Fosu-Mensah,NED,Leverkusen,Bundes Liga,Defence,young
+326,Felix Passlack,GER,Dortmund,Bundes Liga,Defence,young
+327,Sebastian Andersson,SWE,Köln,Bundes Liga,Forward,middle_age
+328,Benjamin Hübner,GER,Hoffenheim,Bundes Liga,Defence,seniors
+329,Lee Jae-sung,KOR,Mainz 05,Bundes Liga,Midfield,middle_age
+330,Alexander Schwolow,GER,Schalke 04,Bundes Liga,Goalkeeper,middle_age
+331,Kevin Akpoguma,NGA,Hoffenheim,Bundes Liga,Defence,middle_age
+332,Levin Öztunalı,GER,Union Berlin,Bundes Liga,Midfield,middle_age
+333,Ruben Vargas,SUI,Augsburg,Bundes Liga,Midfield,young
+334,Rani Khedira,GER,Union Berlin,Bundes Liga,Midfield,middle_age
+335,Piero Hincapié,ECU,Leverkusen,Bundes Liga,Defence,young
+336,Paul Seguin,GER,Union Berlin,Bundes Liga,Midfield,middle_age
+337,Andreas Hanche-Olsen,NOR,Mainz 05,Bundes Liga,Defence,young
+338,Aymen Barkok,MAR,Mainz 05,Bundes Liga,Midfield,young
+339,Philipp Förster,GER,Bochum,Bundes Liga,Midfield,middle_age
+340,Kristian Pedersen,DEN,Köln,Bundes Liga,Defence,middle_age
+341,Christian Günter,GER,Freiburg,Bundes Liga,Defence,middle_age
+342,Jonathan Schmid,FRA,Freiburg,Bundes Liga,Defence,seniors
+343,Ohis Felix Uduokhai,GER,Augsburg,Bundes Liga,Defence,young
+344,Reece Oxford,ENG,Augsburg,Bundes Liga,Defence,young
+345,Pavao Pervan,AUT,Wolfsburg,Bundes Liga,Goalkeeper,seniors
+346,Oscar Fraulo,DEN,Gladbach,Bundes Liga,Forward,young
+347,Kevin Stöger,AUT,Bochum,Bundes Liga,Midfield,middle_age
+348,Michael Esser,GER,Bochum,Bundes Liga,Goalkeeper,seniors
+349,Leo Greiml,AUT,Schalke 04,Bundes Liga,Defence,young
+350,Dion Beljo,Unknown,Augsburg,Bundes Liga,Forward,young
+351,Gil Bastião Dias,POR,Stuttgart,Bundes Liga,Forward,young
+352,Konstantinos Mavropanos,GRE,Stuttgart,Bundes Liga,Defence,young
+353,Kelvin Yeboah,ITA,Augsburg,Bundes Liga,Forward,young
+354,Rafał Gikiewicz,POL,Augsburg,Bundes Liga,Goalkeeper,seniors
+355,Nicolas Cozza,FRA,Wolfsburg,Bundes Liga,Defence,young
+356,Waldemar Anton,GER,Stuttgart,Bundes Liga,Defence,middle_age
+357,Amos Pieper,GER,Werder Bremen,Bundes Liga,Defence,young
+358,Nils Petersen,GER,Freiburg,Bundes Liga,Forward,seniors
+359,Thomas Ouwejan,NED,Schalke 04,Bundes Liga,Defence,young
+360,Tobias Mohr,GER,Schalke 04,Bundes Liga,Defence,middle_age
+361,Peter Pekarík,SVK,Hertha BSC,Bundes Liga,Defence,seniors
+362,Maximilian Eggestein,GER,Freiburg,Bundes Liga,Midfield,young
+363,Kostas Stafylidis,GRE,Bochum,Bundes Liga,Defence,middle_age
+364,Connor Noß,IRL,Gladbach,Bundes Liga,Midfield,young
+365,Ilia Gruev,BUL,Werder Bremen,Bundes Liga,Midfield,young
+366,Marcus Ingvartsen,DEN,Mainz 05,Bundes Liga,Forward,middle_age
+367,Mateu Morey,ESP,Dortmund,Bundes Liga,Defence,young
+368,Arthur,Unknown,Leverkusen,Bundes Liga,Defence,young
+369,Christopher Lenz,GER,Eint Frankfurt,Bundes Liga,Defence,middle_age
+370,Lee Dongjun,KOR,Hertha BSC,Bundes Liga,Midfield,young
+371,Pascal Stenzel,GER,Stuttgart,Bundes Liga,Defence,middle_age
+372,Noah Joel Sarenren Bazee,NGA,Augsburg,Bundes Liga,Midfield,young
+373,Frederik Rønnow,DEN,Union Berlin,Bundes Liga,Goalkeeper,middle_age
+374,Christopher Trimmel,AUT,Union Berlin,Bundes Liga,Defence,seniors
+375,Philipp Lienhart,AUT,Freiburg,Bundes Liga,Defence,middle_age
+376,Wataru Endo,JPN,Stuttgart,Bundes Liga,Midfield,middle_age
+377,Aïssa Laïdouni,TUN,Union Berlin,Bundes Liga,Midfield,young
+378,Steffen Tigges,GER,Köln,Bundes Liga,Forward,young
+379,Borna Sosa,CRO,Stuttgart,Bundes Liga,Defence,young
+380,Erhan Mašović,SRB,Bochum,Bundes Liga,Defence,young
+381,Marko Johansson,SWE,Bochum,Bundes Liga,Goalkeeper,young
+382,Lukas Nmecha,GER,Wolfsburg,Bundes Liga,Forward,young
+383,Nikolas Nartey,DEN,Stuttgart,Bundes Liga,Defence,young
+384,Georginio Rutter,FRA,Hoffenheim,Bundes Liga,Forward,young
+385,Georginio Rutter,FRA,Hoffenheim,Bundes Liga,Forward,young
+386,Georginio Rutter,FRA,Hoffenheim,Bundes Liga,Forward,young
+387,Georginio Rutter,FRA,Hoffenheim,Bundes Liga,Forward,young
+388,Georginio Rutter,FRA,Leeds United,Premier League,Forward,young
+389,Georginio Rutter,FRA,Leeds United,Premier League,Forward,young
+390,Georginio Rutter,FRA,Leeds United,Premier League,Forward,young
+391,Georginio Rutter,FRA,Leeds United,Premier League,Forward,young
+392,Deyovaisio Zeefuik,NED,Hertha BSC,Bundes Liga,Defence,young
+393,Deyovaisio Zeefuik,NED,Hellas Verona,Serie A,Defence,young
+394,Ridle Baku,GER,Wolfsburg,Bundes Liga,Defence,young
+395,Luca Pfeiffer,GER,Stuttgart,Bundes Liga,Forward,young
+396,Felix Agu,GER,Werder Bremen,Bundes Liga,Defence,young
+397,Jens Stage,DEN,Werder Bremen,Bundes Liga,Midfield,young
+398,Danilho Doekhi,NED,Union Berlin,Bundes Liga,Defence,young
+399,Niko Gießelmann,GER,Union Berlin,Bundes Liga,Defence,middle_age
+400,Pierre Kunde,CMR,Bochum,Bundes Liga,Midfield,middle_age
+401,Sargis Adamyan,ARM,Köln,Bundes Liga,Forward,middle_age
+402,Kenan Karaman,TUR,Schalke 04,Bundes Liga,Forward,middle_age
+403,Karim Onisiwo,AUT,Mainz 05,Bundes Liga,Forward,middle_age
+404,Marco Friedl,AUT,Werder Bremen,Bundes Liga,Defence,young
+405,Tymoteusz Puchacz,POL,Union Berlin,Bundes Liga,Defence,young
+406,Benno Schmitz,GER,Köln,Bundes Liga,Defence,middle_age
+407,Raphael Framberger,GER,Augsburg,Bundes Liga,Defence,middle_age
+408,Alexander Meyer,GER,Dortmund,Bundes Liga,Goalkeeper,middle_age
+409,Mehmet Aydin,GER,Schalke 04,Bundes Liga,Defence,young
+410,Irvin Cardona,FRA,Augsburg,Bundes Liga,Midfield,young
+411,Nathanael Mbuku,FRA,Augsburg,Bundes Liga,Midfield,young
+412,Derry Scherhant,GER,Hertha BSC,Bundes Liga,Forward,young
+413,Tolga Ciğerci,TUR,Hertha BSC,Bundes Liga,Midfield,middle_age
+414,Silas Katompa,COD,Stuttgart,Bundes Liga,Forward,young
+415,Roland Sallai,HUN,Freiburg,Bundes Liga,Midfield,young
+416,Alexander Hack,GER,Mainz 05,Bundes Liga,Defence,middle_age
+417,Sergio Córdova,VEN,Augsburg,Bundes Liga,Forward,young
+418,Julian Ryerson,NOR,Union Berlin,Bundes Liga,Defence,young
+419,Julian Ryerson,NOR,Union Berlin,Bundes Liga,Defence,young
+420,Julian Ryerson,NOR,Union Berlin,Bundes Liga,Defence,young
+421,Julian Ryerson,NOR,Union Berlin,Bundes Liga,Defence,young
+422,Niklas Tauer,GER,Mainz 05,Bundes Liga,Defence,young
+423,Jannes Horn,GER,Bochum,Bundes Liga,Defence,young
+424,Sepp van den Berg,NED,Schalke 04,Bundes Liga,Defence,young
+425,Jérôme Onguéné,CMR,Eint Frankfurt,Bundes Liga,Defence,young
+426,Sheraldo Becker,SUR,Union Berlin,Bundes Liga,Forward,middle_age
+427,Robin Zentner,GER,Mainz 05,Bundes Liga,Goalkeeper,middle_age
+428,Patrick Osterhage,GER,Bochum,Bundes Liga,Midfield,young
+429,Nassim Boujellab,MAR,Schalke 04,Bundes Liga,Midfield,young
+430,Fabian Bredlow,GER,Stuttgart,Bundes Liga,Goalkeeper,middle_age
+431,Manuel Gulde,GER,Freiburg,Bundes Liga,Defence,middle_age
+432,Muhammed Damar,Unknown,Hoffenheim,Bundes Liga,Midfield,young
+433,Paulo Otávio,BRA,Wolfsburg,Bundes Liga,Defence,middle_age
+434,Jere Uronen,FIN,Schalke 04,Bundes Liga,Defence,middle_age
+435,Soichiro Kozuki,Unknown,Schalke 04,Bundes Liga,Midfield,young
+436,Aurélio Buta,POR,Eint Frankfurt,Bundes Liga,Defence,young
+437,Atakan Karazor,GER,Stuttgart,Bundes Liga,Midfield,young
+438,Cristian Gamboa,CRC,Bochum,Bundes Liga,Defence,seniors
+439,Moritz Jenz,GER,Schalke 04,Bundes Liga,Defence,young
+440,Mads Pedersen,DEN,Augsburg,Bundes Liga,Defence,young
+441,Michael Langer,AUT,Schalke 04,Bundes Liga,Goalkeeper,seniors
+442,Fisnik Asllani,KVX,Hoffenheim,Bundes Liga,Forward,young
+443,Jacob Bruun Larsen,DEN,Hoffenheim,Bundes Liga,Forward,young
+444,Marco Richter,GER,Hertha BSC,Bundes Liga,Midfield,young
+445,Oliver Christensen,DEN,Hertha BSC,Bundes Liga,Goalkeeper,young
+446,Dzenan Pejcinovic,Unknown,Wolfsburg,Bundes Liga,Forward,young
+447,Gerrit Holtmann,PHI,Bochum,Bundes Liga,Forward,middle_age
+448,Tobias Sippel,GER,Gladbach,Bundes Liga,Goalkeeper,seniors
+449,Simon Zoller,GER,Bochum,Bundes Liga,Forward,middle_age
+450,Lucas Höler,GER,Freiburg,Bundes Liga,Forward,middle_age
+451,Danilo Soares,BRA,Bochum,Bundes Liga,Defence,middle_age
+452,Micky van de Ven,NED,Wolfsburg,Bundes Liga,Defence,young
+453,Jakob Busk,DEN,Union Berlin,Bundes Liga,Goalkeeper,middle_age
+454,Tim Skarke,GER,Union Berlin,Bundes Liga,Defence,young
+455,Tim Skarke,GER,Union Berlin,Bundes Liga,Defence,young
+456,Tim Skarke,GER,Union Berlin,Bundes Liga,Defence,young
+457,Tim Skarke,GER,Union Berlin,Bundes Liga,Defence,young
+458,Ben Bobzien,GER,Mainz 05,Bundes Liga,Forward,young
+459,Junior Dina Ebimbe,FRA,Eint Frankfurt,Bundes Liga,Defence,young
+460,Faride Alidou,GER,Eint Frankfurt,Bundes Liga,Defence,young
+461,Fredrik Jensen,FIN,Augsburg,Bundes Liga,Forward,young
+462,Sven Michel,GER,Union Berlin,Bundes Liga,Forward,seniors
+463,Vassilis Lambropoulos,GRE,Bochum,Bundes Liga,Defence,seniors
+464,Christoph Baumgartner,AUT,Hoffenheim,Bundes Liga,Midfield,young
+465,Rocco Reitz,GER,Gladbach,Bundes Liga,Midfield,young
+466,Juan José Perea,Unknown,Stuttgart,Bundes Liga,Forward,young
+467,Miloš Pantović,SRB,Union Berlin,Bundes Liga,Midfield,middle_age
+468,Jeong Woo-yeong,KOR,Freiburg,Bundes Liga,Midfield,young
+469,Jacek Góralski,POL,Bochum,Bundes Liga,Midfield,middle_age
+470,Jordi Osei-Tutu,ENG,Bochum,Bundes Liga,Defence,young
+471,Philipp Hofmann,GER,Bochum,Bundes Liga,Forward,middle_age
+472,Chris Führich,GER,Stuttgart,Bundes Liga,Forward,young
+473,Benjamin Uphoff,GER,Freiburg,Bundes Liga,Goalkeeper,middle_age
+474,Julian Chabot,GER,Köln,Bundes Liga,Defence,young
+475,Patrick Pentz,AUT,Leverkusen,Bundes Liga,Goalkeeper,young
+476,Janis Blaswich,GER,RB Leipzig,Bundes Liga,Goalkeeper,middle_age
+477,Dimitris Limnios,GRE,Köln,Bundes Liga,Forward,young
+478,Marvin Schwäbe,GER,Köln,Bundes Liga,Goalkeeper,middle_age
+479,Finn Ole Becker,GER,Hoffenheim,Bundes Liga,Midfield,young
+480,Jan Olschowsky,GER,Gladbach,Bundes Liga,Goalkeeper,young
+481,Yvandro Borges Sanches,LUX,Gladbach,Bundes Liga,Forward,young
+482,Laurin Ulrich,Unknown,Stuttgart,Bundes Liga,Midfield,young
+483,Nelson Weiper,GER,Mainz 05,Bundes Liga,Defence,young
+484,Daniel Kyereh,GHA,Freiburg,Bundes Liga,Midfield,middle_age
+485,Linton Maina,GER,Köln,Bundes Liga,Forward,young
+486,Manu Koné,FRA,Gladbach,Bundes Liga,Midfield,young
+487,Mark Flekken,NED,Freiburg,Bundes Liga,Goalkeeper,middle_age
+488,Jens Grahl,GER,Eint Frankfurt,Bundes Liga,Goalkeeper,seniors
+489,Diogo Leite,POR,Union Berlin,Bundes Liga,Defence,young
+490,Thomas Kastanaras,GRE,Stuttgart,Bundes Liga,Defence,young
+491,Andreas Ivan,ROU,Schalke 04,Bundes Liga,Midfield,middle_age
+492,Michael Frey,SUI,Schalke 04,Bundes Liga,Forward,middle_age
+493,Maximilian Bauer,GER,Augsburg,Bundes Liga,Defence,young
+494,Enzo Millot,FRA,Stuttgart,Bundes Liga,Midfield,young
+495,Paul Jaeckel,GER,Union Berlin,Bundes Liga,Defence,young
+496,Jamie Bynoe-Gittens,ENG,Dortmund,Bundes Liga,Forward,young
+497,Florian Dietz,GER,Köln,Bundes Liga,Forward,young
+498,Kristijan Jakić,CRO,Eint Frankfurt,Bundes Liga,Defence,young
+499,Marcel Wenig,GER,Eint Frankfurt,Bundes Liga,Midfield,young
+500,Christian Groß,GER,Werder Bremen,Bundes Liga,Midfield,seniors
+501,David Colina,Unknown,Augsburg,Bundes Liga,Defence,young
+502,Kevin Schade,GER,Freiburg,Bundes Liga,Forward,young
+503,Kevin Schade,GER,Freiburg,Bundes Liga,Forward,young
+504,Kevin Schade,GER,Freiburg,Bundes Liga,Forward,young
+505,Kevin Schade,GER,Freiburg,Bundes Liga,Forward,young
+506,Kevin Schade,GER,Brentford,Premier League,Forward,young
+507,Kevin Schade,GER,Brentford,Premier League,Forward,young
+508,Kevin Schade,GER,Brentford,Premier League,Forward,young
+509,Kevin Schade,GER,Brentford,Premier League,Forward,young
+510,Julien Duranville,Unknown,Dortmund,Bundes Liga,Midfield,young
+511,Noah Mbamba,BEL,Leverkusen,Bundes Liga,Midfield,young
+512,Florian Müller,GER,Stuttgart,Bundes Liga,Goalkeeper,young
+513,Lee Buchanan,ENG,Werder Bremen,Bundes Liga,Defence,young
+514,Hugo Novoa,ESP,RB Leipzig,Bundes Liga,Defence,young
+515,Tim Oermann,GER,Bochum,Bundes Liga,Defence,young
+516,Eric Martel,GER,Köln,Bundes Liga,Midfield,young
+517,Henning Matriciani,GER,Schalke 04,Bundes Liga,Defence,young
+518,Niklas Lomb,GER,Leverkusen,Bundes Liga,Goalkeeper,middle_age
+519,Paxten Aaronson,USA,Eint Frankfurt,Bundes Liga,Midfield,young
+520,Eduardo Quaresma,POR,Hoffenheim,Bundes Liga,Defence,young
+521,Robert Gumny,POL,Augsburg,Bundes Liga,Defence,young
+522,Delano Burgzorg,NED,Mainz 05,Bundes Liga,Forward,young
+523,Lukas Kübler,GER,Freiburg,Bundes Liga,Defence,middle_age
+524,Saidy Janko,GAM,Bochum,Bundes Liga,Defence,middle_age
+525,Florian Flick,GER,Schalke 04,Bundes Liga,Midfield,young
+526,Youssoufa Moukoko,GER,Dortmund,Bundes Liga,Forward,young
+527,Denis Huseinbasic,GER,Köln,Bundes Liga,Midfield,young
+528,Ibrahima Cissé,MLI,Schalke 04,Bundes Liga,Defence,young
+529,Justin Heekeren,GER,Schalke 04,Bundes Liga,Goalkeeper,young
+530,Omar Marmoush,EGY,Wolfsburg,Bundes Liga,Forward,young
+531,Silvère Ganvoula M'Boussy,CGO,Bochum,Bundes Liga,Forward,middle_age
+532,Alou Kuol,AUS,Stuttgart,Bundes Liga,Forward,young
+533,Eduardo Dos Santos Haesler,GER,Werder Bremen,Bundes Liga,Goalkeeper,young
+534,Romano Schmid,AUT,Werder Bremen,Bundes Liga,Midfield,young
+535,Tuta,BRA,Eint Frankfurt,Bundes Liga,Defence,young
+536,Tanguy Coulibaly,FRA,Stuttgart,Bundes Liga,Defence,young
+537,Eren Dinkçi,GER,Werder Bremen,Bundes Liga,Forward,young
+538,Tarsis Bonga,GER,Bochum,Bundes Liga,Forward,young
+539,Timo Hübers,GER,Köln,Bundes Liga,Defence,middle_age
+540,Diant Ramaj,GER,Eint Frankfurt,Bundes Liga,Goalkeeper,young
+541,Johannes Schenk,Unknown,Bayern Munich,Bundes Liga,Goalkeeper,young
+542,Torben Müsel,GER,Gladbach,Bundes Liga,Forward,young
+543,Maxence Lacroix,FRA,Wolfsburg,Bundes Liga,Defence,young
+544,Kevin Behrens,GER,Union Berlin,Bundes Liga,Forward,middle_age
+545,Tim Maciejewski,GER,Union Berlin,Bundes Liga,Midfield,young
+546,Jonathan Burkardt,GER,Mainz 05,Bundes Liga,Midfield,young
+547,Marlon Mustapha,AUT,Mainz 05,Bundes Liga,Forward,young
+548,Kelian Nsona Wa Saka,FRA,Hertha BSC,Bundes Liga,Midfield,young
+549,Mamadou Doucouré,FRA,Gladbach,Bundes Liga,Defence,young
+550,Caden Clark,USA,RB Leipzig,Bundes Liga,Midfield,young
+551,Nikola Soldo,Unknown,Köln,Bundes Liga,Defence,young
+552,Arijon Ibrahimovic,Unknown,Bayern Munich,Bundes Liga,Midfield,young
+553,Paul Grave,GER,Bochum,Bundes Liga,Goalkeeper,young
+554,Philipp Pentke,GER,Hoffenheim,Bundes Liga,Goalkeeper,seniors
+555,Renato Veiga,Unknown,Augsburg,Bundes Liga,Midfield,young
+556,Ansgar Knauff,GER,Eint Frankfurt,Bundes Liga,Defence,young
+557,Paul Wanner,GER,Bayern Munich,Bundes Liga,Midfield,young
+558,Jessic Ngankam,GER,Hertha BSC,Bundes Liga,Forward,young
+559,Myziane Maolida,COM,Hertha BSC,Bundes Liga,Forward,young
+560,Joe Scally,USA,Gladbach,Bundes Liga,Defence,young
+561,Michael Zetterer,GER,Werder Bremen,Bundes Liga,Goalkeeper,middle_age
+562,Eniss Shabani,ALB,Mainz 05,Bundes Liga,Midfield,young
+563,Philipp Schulz,GER,Mainz 05,Bundes Liga,Midfield,young
+564,Hugo Siquet,BEL,Freiburg,Bundes Liga,Defence,young
+565,Abdoulaye Kamara,GUI,Dortmund,Bundes Liga,Midfield,young
+566,Antonios Papadopoulos,Unknown,Dortmund,Bundes Liga,Defence,young
+567,Luca Kilian,GER,Köln,Bundes Liga,Defence,young
+568,Zidan Sertdemir,DEN,Leverkusen,Bundes Liga,Midfield,young
+569,Hrvoje Smolčić,CRO,Eint Frankfurt,Bundes Liga,Defence,young
+570,Ömer Faruk Beyaz,TUR,Stuttgart,Bundes Liga,Midfield,young
+571,Niklas Schmidt,GER,Werder Bremen,Bundes Liga,Midfield,young
+572,Leandro Barreiro Martins,LUX,Mainz 05,Bundes Liga,Midfield,young
+573,Gio Reyna,USA,Dortmund,Bundes Liga,Forward,young
+574,Jan Thielmann,GER,Köln,Bundes Liga,Forward,young
+575,Antonis Aidonis,GER,Stuttgart,Bundes Liga,Defence,young
+576,Tiago Tomás,POR,Stuttgart,Bundes Liga,Forward,young
+577,Robert Wagner,GER,Freiburg,Bundes Liga,Midfield,young
+578,Marcel Lotka,POL,Dortmund,Bundes Liga,Goalkeeper,young
+579,Georg Strauch,GER,Köln,Bundes Liga,Defence,young
+580,Rijad Smajic,Unknown,Köln,Bundes Liga,Defence,young
+581,Mehdi Loune,MAR,Eint Frankfurt,Bundes Liga,Midfield,young
+582,Felix Nmecha,GER,Wolfsburg,Bundes Liga,Midfield,young
+583,Benjamin Goller,GER,Werder Bremen,Bundes Liga,Forward,young
+584,Jean-Manuel Mbom,GER,Werder Bremen,Bundes Liga,Midfield,young
+585,Kiliann Sildillia,FRA,Freiburg,Bundes Liga,Defence,young
+586,Kimberly Ezekwem,GER,Freiburg,Bundes Liga,Defence,young
+587,Arne Engels,Unknown,Augsburg,Bundes Liga,Midfield,young
+588,Benjamin Leneis,GER,Augsburg,Bundes Liga,Goalkeeper,young
+589,Lukas Petkov,BUL,Augsburg,Bundes Liga,Midfield,young
+590,Fabio Schneider,GER,Union Berlin,Bundes Liga,Midfield,young
+591,Noah Weißhaupt,GER,Freiburg,Bundes Liga,Midfield,young
+592,Jonas Nickisch,Unknown,RB Leipzig,Bundes Liga,Goalkeeper,young
+593,Matteo Bignetti,AUT,Eint Frankfurt,Bundes Liga,Goalkeeper,young
+594,Tom Bischof,GER,Hoffenheim,Bundes Liga,Midfield,young
+595,Frederik Winther,DEN,Augsburg,Bundes Liga,Defence,young
+596,Tom Rothe,GER,Dortmund,Bundes Liga,Defence,young
+597,Ayman Azhil,MAR,Leverkusen,Bundes Liga,Midfield,young
+598,Joshua Chima Eze,GER,Leverkusen,Bundes Liga,Midfield,young
+599,Simon Simoni,Unknown,Eint Frankfurt,Bundes Liga,Goalkeeper,young
+600,Justin Che,USA,Hoffenheim,Bundes Liga,Defence,young
+601,Márton Dárdai,HUN,Hertha BSC,Bundes Liga,Defence,young
+602,Fabio Chiarodia,ITA,Werder Bremen,Bundes Liga,Defence,young
+603,Brajan Gruda,Unknown,Mainz 05,Bundes Liga,Midfield,young
+604,Finn Dahmen,GER,Mainz 05,Bundes Liga,Goalkeeper,young
+605,Kenneth Schmidt,Unknown,Freiburg,Bundes Liga,Defence,young
+606,Yannik Keitel,GER,Freiburg,Bundes Liga,Midfield,young
+607,Umut Tohumcu,Unknown,Hoffenheim,Bundes Liga,Midfield,young
+608,Julian Eitschberger,Unknown,Hertha BSC,Bundes Liga,Defence,young
+609,Lukas Ullrich,Unknown,Hertha BSC,Bundes Liga,Defence,young
+610,Tjark Ernst,GER,Hertha BSC,Bundes Liga,Goalkeeper,young
+611,Niklas Klinger,GER,Wolfsburg,Bundes Liga,Goalkeeper,middle_age
+612,Dikeni-Rafid Salifou,TOG,Werder Bremen,Bundes Liga,Midfield,young
+613,Louis Lord,Unknown,Werder Bremen,Bundes Liga,Goalkeeper,young
+614,Lasse Rieß,GER,Mainz 05,Bundes Liga,Goalkeeper,young
+615,Keven Schlotterbeck,GER,Freiburg,Bundes Liga,Defence,young
+616,Keven Schlotterbeck,GER,Freiburg,Bundes Liga,Defence,young
+617,Keven Schlotterbeck,GER,Freiburg,Bundes Liga,Defence,young
+618,Keven Schlotterbeck,GER,Freiburg,Bundes Liga,Defence,young
+619,Merlin Röhl,GER,Freiburg,Bundes Liga,Midfield,young
+620,Noah Atubolu,GER,Freiburg,Bundes Liga,Goalkeeper,young
+621,Oskar Preil,Unknown,RB Leipzig,Bundes Liga,Goalkeeper,young
+622,Sanoussy Ba,GER,RB Leipzig,Bundes Liga,Defence,young
+623,Timo Schlieck,Unknown,RB Leipzig,Bundes Liga,Goalkeeper,young
+624,Göktan Gürpüz,GER,Dortmund,Bundes Liga,Midfield,young
+625,Moritz Broschinski,Unknown,Bochum,Bundes Liga,Forward,young
+626,Julian Roloff,Unknown,Köln,Bundes Liga,Goalkeeper,young
+627,Justin Diehl,Unknown,Köln,Bundes Liga,Forward,young
+628,Aaron Zehnter,GER,Augsburg,Bundes Liga,Defence,young
+629,Simon Walde,Unknown,Gladbach,Bundes Liga,Defence,young
+630,Philipp Schulze,GER,Wolfsburg,Bundes Liga,Goalkeeper,young
+631,Mio Backhaus,GER,Werder Bremen,Bundes Liga,Goalkeeper,young
+632,Luca Unbehaun,GER,Dortmund,Bundes Liga,Goalkeeper,young
+633,Mohammed Tolba,Unknown,Bochum,Bundes Liga,Defence,young
+634,Takuma Asano,JPN,Bochum,Bundes Liga,Forward,middle_age
+635,Joshua Schwirten,Unknown,Köln,Bundes Liga,Midfield,young
+636,Maximilian Schmid,Unknown,Köln,Bundes Liga,Forward,young
+637,Nacho Ferri,Unknown,Eint Frankfurt,Bundes Liga,Forward,young
+638,Luca Philipp,GER,Hoffenheim,Bundes Liga,Goalkeeper,young
+639,Nahuel Noll,GER,Hoffenheim,Bundes Liga,Goalkeeper,young
+640,Jonas Urbig,GER,Köln,Bundes Liga,Goalkeeper,young
+641,Tim Lemperle,GER,Köln,Bundes Liga,Forward,young
+642,Kerim Calhanoglu,GER,Schalke 04,Bundes Liga,Defence,young
+643,Jan Schröder,GER,Eint Frankfurt,Bundes Liga,Defence,young
+644,Florian Schock,GER,Stuttgart,Bundes Liga,Goalkeeper,young
+645,Lilian Egloff,GER,Stuttgart,Bundes Liga,Midfield,young
+646,Christopher Antwi-Adjei,GHA,Bochum,Bundes Liga,Forward,middle_age
+647,Mathias Olesen,LUX,Köln,Bundes Liga,Midfield,young
+648,Matthias Köbbing,GER,Köln,Bundes Liga,Goalkeeper,young
+649,Daniel Klein,GER,Augsburg,Bundes Liga,Goalkeeper,young
+650,Linus Gechter,GER,Hertha BSC,Bundes Liga,Defence,young
+651,Naouirou Ahamada,FRA,Stuttgart,Bundes Liga,Midfield,young
+652,Naouirou Ahamada,FRA,Stuttgart,Bundes Liga,Midfield,young
+653,Naouirou Ahamada,FRA,Stuttgart,Bundes Liga,Midfield,young
+654,Naouirou Ahamada,FRA,Stuttgart,Bundes Liga,Midfield,young
+655,Naouirou Ahamada,FRA,Crystal Palace,Premier League,Midfield,young
+656,Naouirou Ahamada,FRA,Crystal Palace,Premier League,Midfield,young
+657,Naouirou Ahamada,FRA,Crystal Palace,Premier League,Midfield,young
+658,Naouirou Ahamada,FRA,Crystal Palace,Premier League,Midfield,young
+659,Frenkie de Jong,NED,Barcelona,La Liga,Midfield,young
+660,Eden Hazard,BEL,Real Madrid,La Liga,Forward,middle_age
+661,Gerard Piqué,ESP,Barcelona,La Liga,Defence,seniors
+662,Toni Kroos,GER,Real Madrid,La Liga,Midfield,seniors
+663,Karim Benzema,FRA,Real Madrid,La Liga,Forward,seniors
+664,Sergio Busquets,ESP,Barcelona,La Liga,Midfield,seniors
+665,David Alaba,AUT,Real Madrid,La Liga,Defence,middle_age
+666,Luka Modrić,CRO,Real Madrid,La Liga,Midfield,seniors
+667,Vinicius Júnior,BRA,Real Madrid,La Liga,Forward,young
+668,Jan Oblak,SVN,Atlético Madrid,La Liga,Goalkeeper,middle_age
+669,Robert Lewandowski,POL,Barcelona,La Liga,Forward,seniors
+670,Koke,ESP,Atlético Madrid,La Liga,Midfield,middle_age
+671,Thibaut Courtois,BEL,Real Madrid,La Liga,Goalkeeper,middle_age
+672,Antonio Rüdiger,GER,Real Madrid,La Liga,Defence,middle_age
+673,João Félix,POR,Atlético Madrid,La Liga,Forward,young
+674,João Félix,POR,Atlético Madrid,La Liga,Forward,young
+675,João Félix,POR,Atlético Madrid,La Liga,Forward,young
+676,João Félix,POR,Atlético Madrid,La Liga,Forward,young
+677,João Félix,POR,Chelsea,Premier League,Forward,young
+678,João Félix,POR,Chelsea,Premier League,Forward,young
+679,João Félix,POR,Chelsea,Premier League,Forward,young
+680,João Félix,POR,Chelsea,Premier League,Forward,young
+681,Ansu Fati,ESP,Barcelona,La Liga,Forward,young
+682,Jules Koundé,FRA,Barcelona,La Liga,Defence,young
+683,Aurélien Tchouaméni,FRA,Real Madrid,La Liga,Midfield,young
+684,Antoine Griezmann,FRA,Atlético Madrid,La Liga,Forward,middle_age
+685,Raphinha,BRA,Barcelona,La Liga,Forward,young
+686,Saúl Ñíguez,ESP,Atlético Madrid,La Liga,Midfield,middle_age
+687,Ousmane Dembélé,FRA,Barcelona,La Liga,Forward,young
+688,Iñaki Williams,GHA,Athletic Club,La Liga,Forward,middle_age
+689,Jordi Alba,ESP,Barcelona,La Liga,Defence,seniors
+690,Dani Carvajal,ESP,Real Madrid,La Liga,Defence,middle_age
+691,Ferland Mendy,FRA,Real Madrid,La Liga,Defence,middle_age
+692,Ferrán Torres,ESP,Barcelona,La Liga,Forward,young
+693,Marco Asensio,ESP,Real Madrid,La Liga,Forward,middle_age
+694,Álvaro Morata,ESP,Atlético Madrid,La Liga,Forward,middle_age
+695,Lucas Vázquez,ESP,Real Madrid,La Liga,Defence,middle_age
+696,Pedri,ESP,Barcelona,La Liga,Midfield,young
+697,Andreas Christensen,DEN,Barcelona,La Liga,Defence,middle_age
+698,Franck Kessié,CIV,Barcelona,La Liga,Midfield,young
+699,Marc-André ter Stegen,GER,Barcelona,La Liga,Goalkeeper,middle_age
+700,Iñigo Martínez,ESP,Athletic Club,La Liga,Defence,middle_age
+701,Memphis,NED,Atlético Madrid,La Liga,Forward,middle_age
+702,Memphis,NED,Atlético Madrid,La Liga,Forward,middle_age
+703,Memphis,NED,Atlético Madrid,La Liga,Forward,middle_age
+704,Memphis,NED,Atlético Madrid,La Liga,Forward,middle_age
+705,Nacho,ESP,Real Madrid,La Liga,Defence,seniors
+706,Eduardo Camavinga,FRA,Real Madrid,La Liga,Midfield,young
+707,Mariano,DOM,Real Madrid,La Liga,Forward,middle_age
+708,Rodrygo,BRA,Real Madrid,La Liga,Forward,young
+709,Axel Witsel,BEL,Atlético Madrid,La Liga,Defence,seniors
+710,Federico Valverde,URU,Real Madrid,La Liga,Midfield,young
+711,Felipe,BRA,Atlético Madrid,La Liga,Defence,seniors
+712,Felipe,BRA,Atlético Madrid,La Liga,Defence,seniors
+713,Felipe,BRA,Atlético Madrid,La Liga,Defence,seniors
+714,Felipe,BRA,Atlético Madrid,La Liga,Defence,seniors
+715,Felipe,BRA,Nott'ham Forest,Premier League,Defence,seniors
+716,Felipe,BRA,Nott'ham Forest,Premier League,Defence,seniors
+717,Felipe,BRA,Nott'ham Forest,Premier League,Defence,seniors
+718,Felipe,BRA,Nott'ham Forest,Premier League,Defence,seniors
+719,Yannick Carrasco,BEL,Atlético Madrid,La Liga,Defence,middle_age
+720,Álvaro Odriozola,ESP,Real Madrid,La Liga,Defence,middle_age
+721,Éder Militão,BRA,Real Madrid,La Liga,Defence,young
+722,Ronald Araújo,URU,Barcelona,La Liga,Defence,young
+723,Geoffrey Kondogbia,CTA,Atlético Madrid,La Liga,Midfield,middle_age
+724,Nabil Fekir,FRA,Betis,La Liga,Midfield,middle_age
+725,Gavi,ESP,Barcelona,La Liga,Midfield,young
+726,Rodrigo De Paul,ARG,Atlético Madrid,La Liga,Midfield,middle_age
+727,Ivan Rakitić,CRO,Sevilla,La Liga,Midfield,seniors
+728,Marcos Alonso,ESP,Barcelona,La Liga,Defence,middle_age
+729,Eric García,ESP,Barcelona,La Liga,Defence,young
+730,José Luis Gayà,ESP,Valencia,La Liga,Defence,middle_age
+731,Raúl García,ESP,Athletic Club,La Liga,Forward,seniors
+732,Nemanja Gudelj,SRB,Sevilla,La Liga,Defence,middle_age
+733,Gerónimo Rulli,ARG,Villarreal,La Liga,Goalkeeper,middle_age
+734,Gabriel Paulista,BRA,Valencia,La Liga,Defence,middle_age
+735,David Silva,ESP,Real Sociedad,La Liga,Midfield,seniors
+736,Munir El Haddadi,MAR,Getafe,La Liga,Midfield,middle_age
+737,Sergi Roberto,ESP,Barcelona,La Liga,Defence,middle_age
+738,Borja Mayoral,ESP,Getafe,La Liga,Forward,young
+739,Vedat Muriqi,KVX,Mallorca,La Liga,Forward,middle_age
+740,Stefan Savić,MNE,Atlético Madrid,La Liga,Defence,middle_age
+741,Jesús Navas,ESP,Sevilla,La Liga,Defence,seniors
+742,Denis Suárez,ESP,Espanyol,La Liga,Midfield,middle_age
+743,Marcão,BRA,Sevilla,La Liga,Defence,middle_age
+744,Unai Simón,ESP,Athletic Club,La Liga,Goalkeeper,young
+745,Yuri Berchiche,ESP,Athletic Club,La Liga,Defence,seniors
+746,Matt Doherty,IRL,Atlético Madrid,La Liga,Defence,middle_age
+747,Matt Doherty,IRL,Atlético Madrid,La Liga,Defence,middle_age
+748,Matt Doherty,IRL,Atlético Madrid,La Liga,Defence,middle_age
+749,Matt Doherty,IRL,Atlético Madrid,La Liga,Defence,middle_age
+750,Matt Doherty,IRL,Tottenham,Premier League,Defence,middle_age
+751,Matt Doherty,IRL,Tottenham,Premier League,Defence,middle_age
+752,Matt Doherty,IRL,Tottenham,Premier League,Defence,middle_age
+753,Matt Doherty,IRL,Tottenham,Premier League,Defence,middle_age
+754,Tanguy Nianzou,FRA,Sevilla,La Liga,Defence,young
+755,Edinson Cavani,URU,Valencia,La Liga,Forward,seniors
+756,Carles Pérez,ESP,Celta Vigo,La Liga,Midfield,young
+757,Roque Mesa,ESP,Valladolid,La Liga,Midfield,seniors
+758,Giovani Lo Celso,ARG,Villarreal,La Liga,Midfield,middle_age
+759,José María Giménez,URU,Atlético Madrid,La Liga,Defence,middle_age
+760,Papu Gómez,ARG,Sevilla,La Liga,Forward,seniors
+761,Daniel Parejo,ESP,Villarreal,La Liga,Midfield,seniors
+762,Pau Torres,ESP,Villarreal,La Liga,Defence,young
+763,Justin Kluivert,NED,Valencia,La Liga,Forward,young
+764,Francis Coquelin,FRA,Villarreal,La Liga,Midfield,middle_age
+765,Gerard Moreno,ESP,Villarreal,La Liga,Forward,middle_age
+766,Joan Jordán,ESP,Sevilla,La Liga,Midfield,middle_age
+767,David López,ESP,Girona,La Liga,Defence,seniors
+768,Nico Williams,ESP,Athletic Club,La Liga,Forward,young
+769,Jesús Corona,MEX,Sevilla,La Liga,Forward,middle_age
+770,Ángel Correa,ARG,Atlético Madrid,La Liga,Forward,middle_age
+771,Érik Lamela,ARG,Sevilla,La Liga,Forward,middle_age
+772,Loïc Bade,FRA,Sevilla,La Liga,Defence,young
+773,Loïc Bade,FRA,Nott'ham Forest,Premier League,Defence,young
+774,Thomas Lemar,FRA,Atlético Madrid,La Liga,Midfield,middle_age
+775,Mikel Merino,ESP,Real Sociedad,La Liga,Midfield,middle_age
+776,Luiz Felipe,ITA,Betis,La Liga,Defence,young
+777,Sergio Reguilón,ESP,Atlético Madrid,La Liga,Defence,young
+778,Alexander Sørloth,NOR,Real Sociedad,La Liga,Forward,middle_age
+779,Alexander Sørloth,NOR,Real Sociedad,La Liga,Forward,middle_age
+780,Alexander Sørloth,NOR,Real Sociedad,La Liga,Forward,middle_age
+781,Alexander Sørloth,NOR,Real Sociedad,La Liga,Forward,middle_age
+782,Arnaut Danjuma,NED,Villarreal,La Liga,Forward,young
+783,Arnaut Danjuma,NED,Villarreal,La Liga,Forward,young
+784,Arnaut Danjuma,NED,Villarreal,La Liga,Forward,young
+785,Arnaut Danjuma,NED,Villarreal,La Liga,Forward,young
+786,Arnaut Danjuma,NED,Tottenham,Premier League,Forward,young
+787,Arnaut Danjuma,NED,Tottenham,Premier League,Forward,young
+788,Arnaut Danjuma,NED,Tottenham,Premier League,Forward,young
+789,Arnaut Danjuma,NED,Tottenham,Premier League,Forward,young
+790,Dani Ceballos,ESP,Real Madrid,La Liga,Midfield,young
+791,Martin Braithwaite,DEN,Espanyol,La Liga,Forward,middle_age
+792,Adnan Januzaj,BEL,Sevilla,La Liga,Forward,middle_age
+793,Raúl de Tomás,ESP,Rayo Vallecano,La Liga,Forward,middle_age
+794,Benjamin Lecomte,FRA,Espanyol,La Liga,Goalkeeper,middle_age
+795,Ander Herrera,ESP,Athletic Club,La Liga,Midfield,seniors
+796,Álex Collado,ESP,Elche,La Liga,Midfield,young
+797,Youssef En-Nesyri,MAR,Sevilla,La Liga,Forward,young
+798,Matheus Cunha,BRA,Atlético Madrid,La Liga,Forward,young
+799,Matheus Cunha,BRA,Atlético Madrid,La Liga,Forward,young
+800,Matheus Cunha,BRA,Atlético Madrid,La Liga,Forward,young
+801,Matheus Cunha,BRA,Atlético Madrid,La Liga,Forward,young
+802,Matheus Cunha,BRA,Wolves,Premier League,Forward,young
+803,Matheus Cunha,BRA,Wolves,Premier League,Forward,young
+804,Matheus Cunha,BRA,Wolves,Premier League,Forward,young
+805,Matheus Cunha,BRA,Wolves,Premier League,Forward,young
+806,Asier Illarramendi,ESP,Real Sociedad,La Liga,Midfield,seniors
+807,Martín Zubimendi,ESP,Real Sociedad,La Liga,Midfield,young
+808,Martín Zubimendi,ESP,Real Sociedad,La Liga,Midfield,young
+809,Martín Zubimendi,ESP,Real Sociedad,La Liga,Midfield,young
+810,Martín Zubimendi,ESP,Real Sociedad,La Liga,Midfield,young
+811,Martín Montoya,ESP,Betis,La Liga,Defence,middle_age
+812,Gonzalo Escalante,ARG,Cádiz,La Liga,Midfield,middle_age
+813,Gonzalo Escalante,ARG,Cádiz,La Liga,Midfield,middle_age
+814,Gonzalo Escalante,ARG,Cádiz,La Liga,Midfield,middle_age
+815,Gonzalo Escalante,ARG,Cádiz,La Liga,Midfield,middle_age
+816,Gonzalo Escalante,ARG,Cremonese,Serie A,Midfield,middle_age
+817,Gonzalo Escalante,ARG,Cremonese,Serie A,Midfield,middle_age
+818,Gonzalo Escalante,ARG,Cremonese,Serie A,Midfield,middle_age
+819,Gonzalo Escalante,ARG,Cremonese,Serie A,Midfield,middle_age
+820,Marcos Acuña,ARG,Sevilla,La Liga,Defence,middle_age
+821,Hugo Duro,ESP,Valencia,La Liga,Forward,young
+822,Raúl Albiol,ESP,Villarreal,La Liga,Defence,seniors
+823,Andriy Lunin,UKR,Real Madrid,La Liga,Goalkeeper,young
+824,Fernando,BRA,Sevilla,La Liga,Midfield,seniors
+825,Fernando,BRA,Sevilla,La Liga,Midfield,seniors
+826,Fernando,BRA,Sevilla,La Liga,Midfield,seniors
+827,Fernando,BRA,Sevilla,La Liga,Midfield,seniors
+828,Fernando,ESP,Almería,La Liga,Goalkeeper,seniors
+829,Fernando,ESP,Almería,La Liga,Goalkeeper,seniors
+830,Fernando,ESP,Almería,La Liga,Goalkeeper,seniors
+831,Fernando,ESP,Almería,La Liga,Goalkeeper,seniors
+832,Suso,ESP,Sevilla,La Liga,Midfield,middle_age
+833,Álex Remiro,ESP,Real Sociedad,La Liga,Goalkeeper,middle_age
+834,Robin Le Normand,ESP,Real Sociedad,La Liga,Defence,young
+835,Dani García,ESP,Athletic Club,La Liga,Midfield,seniors
+836,Yassine Bounou,MAR,Sevilla,La Liga,Goalkeeper,middle_age
+837,Oriol Romeu,ESP,Girona,La Liga,Midfield,middle_age
+838,Oriol Romeu,ESP,Girona,La Liga,Midfield,middle_age
+839,Oriol Romeu,ESP,Girona,La Liga,Midfield,middle_age
+840,Oriol Romeu,ESP,Girona,La Liga,Midfield,middle_age
+841,Iago Aspas,ESP,Celta Vigo,La Liga,Forward,seniors
+842,Hugo Mallo,ESP,Celta Vigo,La Liga,Defence,middle_age
+843,Pepe Reina,ESP,Villarreal,La Liga,Goalkeeper,seniors
+844,Gonzalo Villar,ESP,Getafe,La Liga,Midfield,young
+845,Gonzalo Villar,ESP,Getafe,La Liga,Midfield,young
+846,Gonzalo Villar,ESP,Getafe,La Liga,Midfield,young
+847,Gonzalo Villar,ESP,Getafe,La Liga,Midfield,young
+848,Gonzalo Villar,ESP,Sampdoria,Serie A,Midfield,young
+849,Gonzalo Villar,ESP,Sampdoria,Serie A,Midfield,young
+850,Gonzalo Villar,ESP,Sampdoria,Serie A,Midfield,young
+851,Gonzalo Villar,ESP,Sampdoria,Serie A,Midfield,young
+852,Joselu,ESP,Espanyol,La Liga,Forward,seniors
+853,Isco,ESP,Sevilla,La Liga,Midfield,middle_age
+854,Karim Rekik,NED,Sevilla,La Liga,Defence,middle_age
+855,Samu Castillejo,ESP,Valencia,La Liga,Forward,middle_age
+856,Franco Cervi,ARG,Celta Vigo,La Liga,Midfield,middle_age
+857,Germán Pezzella,ARG,Betis,La Liga,Defence,middle_age
+858,Héctor Bellerín,ESP,Barcelona,La Liga,Defence,middle_age
+859,Yeray Álvarez,ESP,Athletic Club,La Liga,Defence,middle_age
+860,Kiko Casilla,ESP,Getafe,La Liga,Goalkeeper,seniors
+861,Bryan Gil,ESP,Sevilla,La Liga,Defence,young
+862,Bryan Gil,ESP,Sevilla,La Liga,Defence,young
+863,Bryan Gil,ESP,Sevilla,La Liga,Defence,young
+864,Bryan Gil,ESP,Sevilla,La Liga,Defence,young
+865,Bryan Gil,ESP,Tottenham,Premier League,Midfield,young
+866,Bryan Gil,ESP,Tottenham,Premier League,Midfield,young
+867,Bryan Gil,ESP,Tottenham,Premier League,Midfield,young
+868,Bryan Gil,ESP,Tottenham,Premier League,Midfield,young
+869,William Carvalho,POR,Betis,La Liga,Midfield,middle_age
+870,Óliver Torres,ESP,Sevilla,La Liga,Midfield,middle_age
+871,Unai Núñez,ESP,Celta Vigo,La Liga,Defence,young
+872,Alfonso Pedraza,ESP,Villarreal,La Liga,Defence,middle_age
+873,Iker Muniain,ESP,Athletic Club,La Liga,Midfield,middle_age
+874,Djené,TOG,Getafe,La Liga,Defence,middle_age
+875,Brais Méndez,ESP,Real Sociedad,La Liga,Midfield,young
+876,Mikel Oyarzabal,ESP,Real Sociedad,La Liga,Forward,young
+877,Willian José,BRA,Betis,La Liga,Forward,middle_age
+878,Jaime Mata,ESP,Getafe,La Liga,Forward,seniors
+879,Portu,ESP,Getafe,La Liga,Midfield,middle_age
+880,Jaume Doménech,ESP,Valencia,La Liga,Goalkeeper,middle_age
+881,Marcos Llorente,ESP,Atlético Madrid,La Liga,Midfield,middle_age
+882,Mario Hermoso,ESP,Atlético Madrid,La Liga,Defence,middle_age
+883,Nemanja Maksimović,SRB,Getafe,La Liga,Midfield,middle_age
+884,Alex Baena,ESP,Villarreal,La Liga,Midfield,young
+885,Juan Foyth,ARG,Villarreal,La Liga,Defence,young
+886,Alex Telles,BRA,Sevilla,La Liga,Defence,middle_age
+887,Alex Telles,BRA,Manchester Utd,Premier League,Unknown,middle_age
+888,Marcos André,BRA,Valencia,La Liga,Forward,young
+889,Igor Zubeldia,ESP,Real Sociedad,La Liga,Defence,young
+890,Igor Zubeldia,ESP,Real Sociedad,La Liga,Defence,young
+891,Igor Zubeldia,ESP,Real Sociedad,La Liga,Defence,young
+892,Igor Zubeldia,ESP,Real Sociedad,La Liga,Defence,young
+893,Takefusa Kubo,JPN,Real Sociedad,La Liga,Forward,young
+894,Iñaki Peña,ESP,Barcelona,La Liga,Goalkeeper,young
+895,Joseph Aidoo,GHA,Celta Vigo,La Liga,Defence,middle_age
+896,Hugo Guillamón,ESP,Valencia,La Liga,Midfield,young
+897,Étienne Capoue,FRA,Villarreal,La Liga,Midfield,seniors
+898,Sergi Darder,ESP,Espanyol,La Liga,Midfield,middle_age
+899,Rafa Mir,ESP,Sevilla,La Liga,Forward,young
+900,Dimitri Foulquier,FRA,Valencia,La Liga,Defence,middle_age
+901,Aritz Elustondo,ESP,Real Sociedad,La Liga,Defence,middle_age
+902,Thierry Correia,POR,Valencia,La Liga,Defence,young
+903,Óscar de Marcos,ESP,Athletic Club,La Liga,Defence,seniors
+904,Jesús Vallejo,ESP,Real Madrid,La Liga,Defence,young
+905,Ezequiel Ponce,ARG,Elche,La Liga,Forward,young
+906,Gastón Álvarez,URU,Getafe,La Liga,Defence,young
+907,Asier Villalibre,ESP,Athletic Club,La Liga,Forward,young
+908,Toni Lato,ESP,Valencia,La Liga,Defence,young
+909,Álex Berenguer,ESP,Athletic Club,La Liga,Forward,middle_age
+910,Guido Rodríguez,ARG,Betis,La Liga,Midfield,middle_age
+911,Federico Fernández,ARG,Elche,La Liga,Defence,seniors
+912,Luis Javier Suárez,COL,Almería,La Liga,Forward,young
+913,Kenedy,BRA,Valladolid,La Liga,Defence,middle_age
+914,Ilaix Moriba,GUI,Valencia,La Liga,Midfield,young
+915,Aïssa Mandi,ALG,Villarreal,La Liga,Defence,middle_age
+916,Lucas Ocampos,ARG,Sevilla,La Liga,Forward,middle_age
+917,Borja Iglesias,ESP,Betis,La Liga,Forward,middle_age
+918,Claudio Bravo,CHI,Betis,La Liga,Goalkeeper,seniors
+919,Sergio Canales,ESP,Betis,La Liga,Forward,middle_age
+920,Lisandro Magallán,ARG,Elche,La Liga,Defence,middle_age
+921,Mauro Arambarri,URU,Getafe,La Liga,Midfield,middle_age
+922,David Soria,ESP,Getafe,La Liga,Goalkeeper,middle_age
+923,Aitor Fernández,ESP,Osasuna,La Liga,Goalkeeper,middle_age
+924,Ezequiel Ávila,ARG,Osasuna,La Liga,Forward,middle_age
+925,Anuar,MAR,Valladolid,La Liga,Midfield,middle_age
+926,José Luis Morales,ESP,Villarreal,La Liga,Forward,seniors
+927,Iñigo Lekue,ESP,Athletic Club,La Liga,Defence,middle_age
+928,Unai Vencedor Paris,ESP,Athletic Club,La Liga,Midfield,young
+929,Javier Pastore,ARG,Elche,La Liga,Midfield,seniors
+930,Pape Gueye,SEN,Sevilla,La Liga,Midfield,young
+931,Giorgi Mamardashvili,GEO,Valencia,La Liga,Goalkeeper,young
+932,Yunus Musah,USA,Valencia,La Liga,Midfield,young
+933,Haris Seferović,SUI,Celta Vigo,La Liga,Forward,middle_age
+934,Javi Galán,ESP,Celta Vigo,La Liga,Defence,middle_age
+935,Joaquín,ESP,Betis,La Liga,Midfield,seniors
+936,Víctor Ruiz,ESP,Betis,La Liga,Defence,seniors
+937,Darwin Machís,VEN,Valladolid,La Liga,Forward,middle_age
+938,Álvaro García,ESP,Rayo Vallecano,La Liga,Forward,middle_age
+939,Cristian,ESP,Valencia,La Liga,Goalkeeper,young
+940,Alberto Moreno,ESP,Villarreal,La Liga,Defence,middle_age
+941,Viktor Tsyhankov,UKR,Girona,La Liga,Midfield,young
+942,Florian Lejeune,FRA,Rayo Vallecano,La Liga,Defence,middle_age
+943,Andrés Guardado,MEX,Betis,La Liga,Midfield,seniors
+944,Gonzalo Montiel,ARG,Sevilla,La Liga,Defence,young
+945,Rubén García,ESP,Osasuna,La Liga,Forward,middle_age
+946,Yeremi Pino,ESP,Villarreal,La Liga,Forward,young
+947,Augusto Solari,ARG,Celta Vigo,La Liga,Midfield,middle_age
+948,Rodrigo Battaglia,ARG,Mallorca,La Liga,Midfield,middle_age
+949,Manu Morlanes,ESP,Villarreal,La Liga,Midfield,young
+950,Manu Morlanes,ESP,Villarreal,La Liga,Midfield,young
+951,Manu Morlanes,ESP,Villarreal,La Liga,Midfield,young
+952,Manu Morlanes,ESP,Villarreal,La Liga,Midfield,young
+953,Juan Miranda,ESP,Betis,La Liga,Defence,young
+954,Álvaro Negredo,ESP,Cádiz,La Liga,Forward,seniors
+955,Jeremías Ledesma,ARG,Cádiz,La Liga,Goalkeeper,middle_age
+956,Manu Sánchez,ESP,Osasuna,La Liga,Defence,young
+957,Marko Dmitrović,SRB,Sevilla,La Liga,Goalkeeper,middle_age
+958,Agustín Marchesín,ARG,Celta Vigo,La Liga,Goalkeeper,seniors
+959,Samuel Lino,Unknown,Valencia,La Liga,Midfield,young
+960,Ayoze Pérez,ESP,Betis,La Liga,Forward,middle_age
+961,Ayoze Pérez,ESP,Betis,La Liga,Forward,middle_age
+962,Ayoze Pérez,ESP,Betis,La Liga,Forward,middle_age
+963,Ayoze Pérez,ESP,Betis,La Liga,Forward,middle_age
+964,Ayoze Pérez,ESP,Leicester City,Premier League,Midfield,middle_age
+965,Ayoze Pérez,ESP,Leicester City,Premier League,Midfield,middle_age
+966,Ayoze Pérez,ESP,Leicester City,Premier League,Midfield,middle_age
+967,Ayoze Pérez,ESP,Leicester City,Premier League,Midfield,middle_age
+968,Manu Trigueros,ESP,Villarreal,La Liga,Midfield,middle_age
+969,Ander Capa,ESP,Athletic Club,La Liga,Defence,middle_age
+970,Omar Alderete,PAR,Getafe,La Liga,Defence,young
+971,Cristhian Stuani,URU,Girona,La Liga,Forward,seniors
+972,Radamel Falcao,COL,Rayo Vallecano,La Liga,Forward,seniors
+973,Edu Expósito,ESP,Espanyol,La Liga,Midfield,young
+974,Sergi Gómez,ESP,Espanyol,La Liga,Defence,middle_age
+975,Nahuel Molina,ARG,Atlético Madrid,La Liga,Defence,young
+976,Diego Rico,ESP,Real Sociedad,La Liga,Defence,middle_age
+977,Umar Sadiq,NGA,Real Sociedad,La Liga,Forward,young
+978,Umar Sadiq,NGA,Real Sociedad,La Liga,Forward,young
+979,Umar Sadiq,NGA,Real Sociedad,La Liga,Forward,young
+980,Umar Sadiq,NGA,Real Sociedad,La Liga,Forward,young
+981,Jorge Meré,ESP,Cádiz,La Liga,Defence,young
+982,Theo Bongonda,COD,Cádiz,La Liga,Midfield,middle_age
+983,Édgar González,ESP,Betis,La Liga,Defence,young
+984,Juanmi,ESP,Betis,La Liga,Forward,middle_age
+985,Moi Gómez,ESP,Osasuna,La Liga,Midfield,middle_age
+986,Pablo Barrios,Unknown,Atlético Madrid,La Liga,Midfield,young
+987,Óscar Rodríguez Arnaiz,ESP,Celta Vigo,La Liga,Midfield,young
+988,Manu Vallejo,ESP,Girona,La Liga,Forward,young
+989,Óscar Mingueza,ESP,Celta Vigo,La Liga,Defence,young
+990,Johan Mojica,COL,Villarreal,La Liga,Defence,middle_age
+991,Johan Mojica,COL,Villarreal,La Liga,Defence,middle_age
+992,Johan Mojica,COL,Villarreal,La Liga,Defence,middle_age
+993,Johan Mojica,COL,Villarreal,La Liga,Defence,middle_age
+994,Samuel Chukwueze,NGA,Villarreal,La Liga,Forward,young
+995,Daniel Vivian,ESP,Athletic Club,La Liga,Defence,young
+996,Yangel Herrera,VEN,Girona,La Liga,Midfield,young
+997,Eray Cömert,SUI,Valencia,La Liga,Defence,young
+998,Cala,ESP,Cádiz,La Liga,Defence,seniors
+999,Iván Sánchez,ESP,Valladolid,La Liga,Midfield,middle_age
+1000,Tino Kadewere,ZIM,Mallorca,La Liga,Forward,middle_age
+1001,Carlos Clerc,ESP,Elche,La Liga,Defence,middle_age
+1002,Domingos Duarte,POR,Getafe,La Liga,Defence,middle_age
+1003,Lucas Pérez,ESP,Cádiz,La Liga,Forward,seniors
+1004,Ludwig Augustinsson,SWE,Mallorca,La Liga,Defence,middle_age
+1005,Ludwig Augustinsson,SWE,Mallorca,La Liga,Defence,middle_age
+1006,Ludwig Augustinsson,SWE,Mallorca,La Liga,Defence,middle_age
+1007,Ludwig Augustinsson,SWE,Mallorca,La Liga,Defence,middle_age
+1008,Ludwig Augustinsson,SWE,Aston Villa,Premier League,Defence,middle_age
+1009,Ludwig Augustinsson,SWE,Aston Villa,Premier League,Defence,middle_age
+1010,Ludwig Augustinsson,SWE,Aston Villa,Premier League,Defence,middle_age
+1011,Ludwig Augustinsson,SWE,Aston Villa,Premier League,Defence,middle_age
+1012,Jorge Cuenca,ESP,Villarreal,La Liga,Defence,young
+1013,Sergio Asenjo,ESP,Valladolid,La Liga,Goalkeeper,seniors
+1014,Dyego Sousa,POR,Almería,La Liga,Forward,seniors
+1015,Roger Martí,ESP,Elche,La Liga,Forward,middle_age
+1016,Roger Martí,ESP,Elche,La Liga,Forward,middle_age
+1017,Roger Martí,ESP,Elche,La Liga,Forward,middle_age
+1018,Roger Martí,ESP,Elche,La Liga,Forward,middle_age
+1019,Jordan Amavi,FRA,Getafe,La Liga,Defence,middle_age
+1020,Luis Hernández,ESP,Cádiz,La Liga,Defence,seniors
+1021,Nacho Vidal,ESP,Osasuna,La Liga,Defence,middle_age
+1022,Lucas Olaza,URU,Valladolid,La Liga,Defence,middle_age
+1023,Sergio León,ESP,Valladolid,La Liga,Forward,seniors
+1024,Kiko Femenía,ESP,Villarreal,La Liga,Defence,middle_age
+1025,Mikel Vesga,ESP,Athletic Club,La Liga,Midfield,middle_age
+1026,Pol Lirola,ESP,Elche,La Liga,Defence,young
+1027,Aleix Vidal,ESP,Espanyol,La Liga,Midfield,seniors
+1028,Carlos Fernández,ESP,Real Sociedad,La Liga,Forward,middle_age
+1029,Abner,BRA,Betis,La Liga,Defence,young
+1030,Iván Villar,ESP,Celta Vigo,La Liga,Goalkeeper,young
+1031,Pablo Maffeo,ESP,Mallorca,La Liga,Defence,young
+1032,Juan Brandáriz,ESP,Almería,La Liga,Defence,young
+1033,Adri Embarba,ESP,Almería,La Liga,Forward,middle_age
+1034,Adri Embarba,ESP,Almería,La Liga,Forward,middle_age
+1035,Adri Embarba,ESP,Almería,La Liga,Forward,middle_age
+1036,Adri Embarba,ESP,Almería,La Liga,Forward,middle_age
+1037,Kevin Vázquez,ESP,Celta Vigo,La Liga,Defence,middle_age
+1038,Sergio Herrera,ESP,Osasuna,La Liga,Goalkeeper,middle_age
+1039,Lucas Robertone,ARG,Almería,La Liga,Midfield,young
+1040,Martin Hongla,CMR,Valladolid,La Liga,Defence,young
+1041,Martin Hongla,CMR,Valladolid,La Liga,Defence,young
+1042,Martin Hongla,CMR,Valladolid,La Liga,Defence,young
+1043,Martin Hongla,CMR,Valladolid,La Liga,Defence,young
+1044,Martin Hongla,CMR,Hellas Verona,Serie A,Midfield,young
+1045,Martin Hongla,CMR,Hellas Verona,Serie A,Midfield,young
+1046,Martin Hongla,CMR,Hellas Verona,Serie A,Midfield,young
+1047,Martin Hongla,CMR,Hellas Verona,Serie A,Midfield,young
+1048,Valentín Castellanos,ARG,Girona,La Liga,Forward,young
+1049,Mikel Balenziaga,ESP,Athletic Club,La Liga,Defence,seniors
+1050,Ronaël Pierre-Gabriel,FRA,Espanyol,La Liga,Defence,young
+1051,Andoni Gorosabel,ESP,Real Sociedad,La Liga,Defence,young
+1052,Joseba Zaldúa,ESP,Cádiz,La Liga,Defence,middle_age
+1053,Fran Beltrán,ESP,Celta Vigo,La Liga,Midfield,young
+1054,Rui Silva,POR,Betis,La Liga,Goalkeeper,middle_age
+1055,Víctor Camarasa,ESP,Betis,La Liga,Midfield,middle_age
+1056,Ander Guevara,ESP,Real Sociedad,La Liga,Midfield,young
+1057,Enes Ünal,TUR,Getafe,La Liga,Forward,young
+1058,Paulo Gazzaniga,ARG,Girona,La Liga,Goalkeeper,middle_age
+1059,Ivo Grbić,CRO,Atlético Madrid,La Liga,Goalkeeper,middle_age
+1060,Aihen Muñoz,ESP,Real Sociedad,La Liga,Defence,young
+1061,Fernando Pacheco,ESP,Almería,La Liga,Goalkeeper,middle_age
+1062,Fernando Pacheco,ESP,Almería,La Liga,Goalkeeper,middle_age
+1063,Fernando Pacheco,ESP,Almería,La Liga,Goalkeeper,middle_age
+1064,Fernando Pacheco,ESP,Almería,La Liga,Goalkeeper,middle_age
+1065,Francisco Portillo,ESP,Almería,La Liga,Midfield,seniors
+1066,Youssouf Sabaly,SEN,Betis,La Liga,Defence,middle_age
+1067,Predrag Rajković,SRB,Mallorca,La Liga,Goalkeeper,middle_age
+1068,Leandro Cabrera,URU,Espanyol,La Liga,Defence,middle_age
+1069,Tomás Alarcón,CHI,Cádiz,La Liga,Midfield,young
+1070,Iddrisu Baba,GHA,Mallorca,La Liga,Midfield,middle_age
+1071,Omar Mascarell,ESP,Elche,La Liga,Midfield,middle_age
+1072,Loren Morón,ESP,Betis,La Liga,Forward,middle_age
+1073,Giovanni González,URU,Mallorca,La Liga,Defence,middle_age
+1074,Jon Morcillo,ESP,Athletic Club,La Liga,Forward,young
+1075,Álex Centelles,ESP,Almería,La Liga,Defence,young
+1076,Reinildo Mandava,MOZ,Atlético Madrid,La Liga,Defence,middle_age
+1077,Mouctar Diakhaby,GUI,Valencia,La Liga,Defence,young
+1078,Luiz Henrique,BRA,Betis,La Liga,Forward,young
+1079,Sergio Escudero,ESP,Valladolid,La Liga,Defence,seniors
+1080,Antonio Raillo,ESP,Mallorca,La Liga,Defence,middle_age
+1081,Dennis Hadzikadunic,BIH,Mallorca,La Liga,Defence,young
+1082,Luis Milla,ESP,Getafe,La Liga,Midfield,middle_age
+1083,Gonçalo Paciência,POR,Celta Vigo,La Liga,Forward,middle_age
+1084,Darko Brašanac,SRB,Osasuna,La Liga,Midfield,middle_age
+1085,Rubén Alcaraz,ESP,Cádiz,La Liga,Midfield,middle_age
+1086,Alexander Callens,PER,Girona,La Liga,Defence,middle_age
+1087,Rubén Peña,ESP,Osasuna,La Liga,Defence,middle_age
+1088,Alejandro Pozo Pozo,ESP,Almería,La Liga,Defence,young
+1089,Fede San Emeterio,ESP,Cádiz,La Liga,Midfield,young
+1090,Roberto Torres,ESP,Osasuna,La Liga,Forward,seniors
+1091,Martin Valjent,SVK,Mallorca,La Liga,Defence,middle_age
+1092,Álvaro Fernández,ESP,Espanyol,La Liga,Goalkeeper,young
+1093,Rubén Sobrino,ESP,Cádiz,La Liga,Midfield,middle_age
+1094,Unai García,ESP,Osasuna,La Liga,Defence,middle_age
+1095,César Montes,MEX,Espanyol,La Liga,Defence,young
+1096,Álex Moreno,ESP,Betis,La Liga,Defence,middle_age
+1097,Álex Moreno,ESP,Betis,La Liga,Defence,middle_age
+1098,Álex Moreno,ESP,Betis,La Liga,Defence,middle_age
+1099,Álex Moreno,ESP,Betis,La Liga,Defence,middle_age
+1100,Álex Moreno,ESP,Aston Villa,Premier League,Defence,middle_age
+1101,Álex Moreno,ESP,Aston Villa,Premier League,Defence,middle_age
+1102,Álex Moreno,ESP,Aston Villa,Premier League,Defence,middle_age
+1103,Álex Moreno,ESP,Aston Villa,Premier League,Defence,middle_age
+1104,Jawad El Yamiq,MAR,Valladolid,La Liga,Defence,middle_age
+1105,Javi Sánchez,ESP,Valladolid,La Liga,Defence,young
+1106,Iñigo Ruiz de Galarreta,ESP,Mallorca,La Liga,Midfield,middle_age
+1107,Stole Dimitrievski,MKD,Rayo Vallecano,La Liga,Goalkeeper,middle_age
+1108,Juan Pérez,ESP,Osasuna,La Liga,Goalkeeper,middle_age
+1109,Franco Russo,ARG,Mallorca,La Liga,Defence,middle_age
+1110,Édgar Badía,ESP,Elche,La Liga,Goalkeeper,middle_age
+1111,Ander Barrenetxea,ESP,Real Sociedad,La Liga,Defence,young
+1112,Kiké,ESP,Osasuna,La Liga,Forward,seniors
+1113,Ante Budimir,CRO,Osasuna,La Liga,Forward,middle_age
+1114,Carles Aleñá,ESP,Getafe,La Liga,Midfield,young
+1115,David García,ESP,Osasuna,La Liga,Defence,middle_age
+1116,Juan Cruz Armada,ESP,Osasuna,La Liga,Defence,middle_age
+1117,Fidel,ESP,Elche,La Liga,Midfield,seniors
+1118,Damián Suárez,URU,Getafe,La Liga,Defence,seniors
+1119,Íñigo Eguaras,ESP,Almería,La Liga,Midfield,middle_age
+1120,Anthony Lozano,HON,Cádiz,La Liga,Forward,middle_age
+1121,Aridane Hernández,ESP,Osasuna,La Liga,Defence,seniors
+1122,Mickael Malsa,MTQ,Valladolid,La Liga,Midfield,middle_age
+1123,Filip Jørgensen,DEN,Villarreal,La Liga,Goalkeeper,young
+1124,Oihan Sancet,ESP,Athletic Club,La Liga,Midfield,young
+1125,Fabrizio Angileri,ARG,Getafe,La Liga,Defence,middle_age
+1126,Léo Baptistão,BRA,Almería,La Liga,Forward,middle_age
+1127,Rodrigo Ely,BRA,Almería,La Liga,Defence,middle_age
+1128,Reinier,BRA,Girona,La Liga,Midfield,young
+1129,Domingos André Ribeiro Almeida,POR,Valencia,La Liga,Midfield,young
+1130,Nicolás González,ESP,Valencia,La Liga,Midfield,young
+1131,Nicolás González,ESP,Valencia,La Liga,Midfield,young
+1132,Nicolás González,ESP,Valencia,La Liga,Midfield,young
+1133,Nicolás González,ESP,Valencia,La Liga,Midfield,young
+1134,Nicolás González,ARG,Fiorentina,Serie A,Forward,young
+1135,Nicolás González,ARG,Fiorentina,Serie A,Forward,young
+1136,Nicolás González,ARG,Fiorentina,Serie A,Forward,young
+1137,Nicolás González,ARG,Fiorentina,Serie A,Forward,young
+1138,Jon Pacheco,ESP,Real Sociedad,La Liga,Defence,young
+1139,Aitor Ruibal,ESP,Betis,La Liga,Defence,middle_age
+1140,Cenk Özkacar,TUR,Valencia,La Liga,Defence,young
+1141,Martín Merquelanz,ESP,Real Sociedad,La Liga,Midfield,middle_age
+1142,Mario Suárez,ESP,Rayo Vallecano,La Liga,Midfield,seniors
+1143,Dani Gómez,ESP,Espanyol,La Liga,Midfield,young
+1144,Clément Grenier,FRA,Mallorca,La Liga,Midfield,middle_age
+1145,José Ángel Carmona,Unknown,Elche,La Liga,Defence,young
+1146,Jaime Seoane,ESP,Getafe,La Liga,Midfield,young
+1147,Gonzalo Melero,ESP,Almería,La Liga,Midfield,middle_age
+1148,Kaiky,BRA,Almería,La Liga,Defence,young
+1149,Unai López,ESP,Rayo Vallecano,La Liga,Midfield,middle_age
+1150,Brian Oliván,ESP,Espanyol,La Liga,Defence,middle_age
+1151,Brian Ocampo,Unknown,Cádiz,La Liga,Midfield,young
+1152,Luis Pérez,ESP,Valladolid,La Liga,Defence,middle_age
+1153,Nicolas Jackson,SEN,Villarreal,La Liga,Forward,young
+1154,Domingos Quina,POR,Elche,La Liga,Midfield,young
+1155,Santi Comesaña,ESP,Rayo Vallecano,La Liga,Midfield,young
+1156,Fernando Calero,ESP,Espanyol,La Liga,Defence,middle_age
+1157,Óscar Gil,ESP,Espanyol,La Liga,Defence,young
+1158,Youba Diarra,MLI,Cádiz,La Liga,Midfield,young
+1159,Óscar Trejo,ARG,Rayo Vallecano,La Liga,Midfield,seniors
+1160,Jon Moncayola,ESP,Osasuna,La Liga,Midfield,young
+1161,Braian Cufré,ARG,Mallorca,La Liga,Defence,young
+1162,Juanjo Nieto,ESP,Almería,La Liga,Defence,middle_age
+1163,Diego López,ESP,Rayo Vallecano,La Liga,Goalkeeper,seniors
+1164,Diego López,ESP,Rayo Vallecano,La Liga,Goalkeeper,seniors
+1165,Diego López,ESP,Rayo Vallecano,La Liga,Goalkeeper,seniors
+1166,Diego López,ESP,Rayo Vallecano,La Liga,Goalkeeper,seniors
+1167,Isaac Palazón Camacho,ESP,Rayo Vallecano,La Liga,Forward,middle_age
+1168,Adrià Pedrosa,ESP,Espanyol,La Liga,Defence,young
+1169,Beñat Turrientes,ESP,Real Sociedad,La Liga,Midfield,young
+1170,Alfonso Espino,URU,Cádiz,La Liga,Defence,middle_age
+1171,Fali,ESP,Cádiz,La Liga,Defence,middle_age
+1172,Rodri,ESP,Betis,La Liga,Forward,young
+1173,Rodri,ESP,Betis,La Liga,Forward,young
+1174,Rodri,ESP,Betis,La Liga,Forward,young
+1175,Rodri,ESP,Betis,La Liga,Forward,young
+1176,Rodri,ESP,Manchester City,Premier League,Midfield,middle_age
+1177,Rodri,ESP,Manchester City,Premier League,Midfield,middle_age
+1178,Rodri,ESP,Manchester City,Premier League,Midfield,middle_age
+1179,Rodri,ESP,Manchester City,Premier League,Midfield,middle_age
+1180,Óscar Plano,ESP,Valladolid,La Liga,Forward,middle_age
+1181,Álex Fernández,ESP,Cádiz,La Liga,Midfield,middle_age
+1182,Gonzalo Plata,ECU,Valladolid,La Liga,Forward,young
+1183,Jordi Masip,ESP,Valladolid,La Liga,Goalkeeper,seniors
+1184,Bernardo Espinosa,COL,Girona,La Liga,Defence,seniors
+1185,José Gragera,Unknown,Espanyol,La Liga,Midfield,young
+1186,Jesus Vazquez,ESP,Valencia,La Liga,Defence,young
+1187,Isaac Carcelen,ESP,Cádiz,La Liga,Defence,middle_age
+1188,Raúl Guti,ESP,Elche,La Liga,Midfield,young
+1189,Toni Villa,ESP,Girona,La Liga,Midfield,middle_age
+1190,Toni Villa,ESP,Girona,La Liga,Midfield,middle_age
+1191,Toni Villa,ESP,Girona,La Liga,Midfield,middle_age
+1192,Toni Villa,ESP,Girona,La Liga,Midfield,middle_age
+1193,Iván Alejo,ESP,Cádiz,La Liga,Midfield,middle_age
+1194,Kike Barja,ESP,Osasuna,La Liga,Forward,young
+1195,Selim Amallah,MAR,Valladolid,La Liga,Midfield,young
+1196,Sergio Camello,ESP,Rayo Vallecano,La Liga,Forward,young
+1197,Lucas Torró,ESP,Osasuna,La Liga,Midfield,middle_age
+1198,Lago Junior,CIV,Mallorca,La Liga,Forward,middle_age
+1199,Iván Balliu,ALB,Rayo Vallecano,La Liga,Defence,middle_age
+1200,Jørgen Strand Larsen,NOR,Celta Vigo,La Liga,Forward,young
+1201,Paul Akouokou,CIV,Betis,La Liga,Midfield,young
+1202,Dani Rodríguez,ESP,Mallorca,La Liga,Midfield,seniors
+1203,Juanpe,ESP,Girona,La Liga,Defence,middle_age
+1204,Cyle Larin,CAN,Valladolid,La Liga,Forward,middle_age
+1205,Kike Pérez,ESP,Valladolid,La Liga,Midfield,young
+1206,Zouhair Feddal,MAR,Valladolid,La Liga,Defence,seniors
+1207,Amath,SEN,Mallorca,La Liga,Midfield,middle_age
+1208,Julen Agirrezabala,ESP,Athletic Club,La Liga,Goalkeeper,young
+1209,Aleix García,ESP,Girona,La Liga,Midfield,young
+1210,Roberto Navarro,ESP,Real Sociedad,La Liga,Midfield,young
+1211,Álvaro Giménez,ESP,Cádiz,La Liga,Forward,middle_age
+1212,José Mari,ESP,Cádiz,La Liga,Midfield,seniors
+1213,Arnau Martinez,ESP,Girona,La Liga,Defence,young
+1214,Óscar Valentín,ESP,Rayo Vallecano,La Liga,Midfield,middle_age
+1215,Keidi Bare,ALB,Espanyol,La Liga,Midfield,young
+1216,Iago Herrerín,ESP,Valencia,La Liga,Goalkeeper,seniors
+1217,Juan Cruz,ESP,Betis,La Liga,Forward,young
+1218,Juanjo Narváez,COL,Valladolid,La Liga,Midfield,middle_age
+1219,Sergi Guardiola,ESP,Valladolid,La Liga,Forward,middle_age
+1220,Sergi Guardiola,ESP,Valladolid,La Liga,Forward,middle_age
+1221,Sergi Guardiola,ESP,Valladolid,La Liga,Forward,middle_age
+1222,Sergi Guardiola,ESP,Valladolid,La Liga,Forward,middle_age
+1223,Antonio Sánchez,ESP,Mallorca,La Liga,Midfield,young
+1224,Iván Martos,ESP,Almería,La Liga,Defence,young
+1225,Awer Mabil,AUS,Cádiz,La Liga,Midfield,middle_age
+1226,Jon Ander Garrido,ESP,Cádiz,La Liga,Midfield,seniors
+1227,Lautaro Blanco,ARG,Elche,La Liga,Defence,young
+1228,César de la Hoz,ESP,Almería,La Liga,Midfield,middle_age
+1229,Diego Mariño,ESP,Almería,La Liga,Goalkeeper,seniors
+1230,Javi Puado,ESP,Espanyol,La Liga,Forward,young
+1231,Juan Carlos,ESP,Girona,La Liga,Goalkeeper,seniors
+1232,Aimar Oroz,Unknown,Osasuna,La Liga,Midfield,young
+1233,Matija Nastasić,SRB,Mallorca,La Liga,Defence,middle_age
+1234,Lázaro,BRA,Almería,La Liga,Forward,young
+1235,Rodrigo Riquelme,ESP,Girona,La Liga,Midfield,young
+1236,Catena,ESP,Rayo Vallecano,La Liga,Defence,middle_age
+1237,Antonio Blanco,Unknown,Cádiz,La Liga,Midfield,young
+1238,Arnau Tenas,ESP,Barcelona,La Liga,Goalkeeper,young
+1239,Iván Martín,ESP,Girona,La Liga,Midfield,young
+1240,Abdul Mumin,GHA,Rayo Vallecano,La Liga,Defence,young
+1241,Pep Chavarría,ESP,Rayo Vallecano,La Liga,Forward,young
+1242,Mohamed Ali Cho,FRA,Real Sociedad,La Liga,Forward,young
+1243,Daniel Martín,ESP,Betis,La Liga,Goalkeeper,young
+1244,Ángel Rodríguez,ESP,Mallorca,La Liga,Forward,seniors
+1245,Pere Milla,ESP,Elche,La Liga,Forward,middle_age
+1246,José Pozo,ESP,Rayo Vallecano,La Liga,Midfield,middle_age
+1247,Pathé Ciss,SEN,Rayo Vallecano,La Liga,Midfield,middle_age
+1248,Jaume Costa,ESP,Mallorca,La Liga,Defence,seniors
+1249,Miguel Gutiérrez,ESP,Girona,La Liga,Defence,young
+1250,Esteban Saveljich,MNE,Rayo Vallecano,La Liga,Forward,middle_age
+1251,David Gil,ESP,Cádiz,La Liga,Goalkeeper,middle_age
+1252,Lucas Boyé,ARG,Elche,La Liga,Forward,middle_age
+1253,José Carlos Lazo,ESP,Espanyol,La Liga,Midfield,middle_age
+1254,José Carlos Lazo,ESP,Espanyol,La Liga,Midfield,middle_age
+1255,José Carlos Lazo,ESP,Espanyol,La Liga,Midfield,middle_age
+1256,José Carlos Lazo,ESP,Espanyol,La Liga,Midfield,middle_age
+1257,Chris Ramos,ESP,Cádiz,La Liga,Forward,young
+1258,Joaquín Fernández,ESP,Valladolid,La Liga,Defence,middle_age
+1259,Monchu,ESP,Valladolid,La Liga,Midfield,young
+1260,Dominik Greif,SVK,Mallorca,La Liga,Goalkeeper,young
+1261,El Bilal Touré,MLI,Almería,La Liga,Forward,young
+1262,Houboulang Mendes,GNB,Almería,La Liga,Defence,young
+1263,Borja García,ESP,Girona,La Liga,Midfield,middle_age
+1264,Salvi,ESP,Rayo Vallecano,La Liga,Forward,middle_age
+1265,Carlos Dominguez,ESP,Celta Vigo,La Liga,Defence,young
+1266,Shon Weissman,ISR,Valladolid,La Liga,Forward,middle_age
+1267,Tete Morente,ESP,Elche,La Liga,Midfield,young
+1268,Bebé,CPV,Rayo Vallecano,La Liga,Forward,seniors
+1269,Vinicius Souza,BRA,Espanyol,La Liga,Midfield,young
+1270,Leonardo Román,ESP,Mallorca,La Liga,Goalkeeper,young
+1271,Luca de la Torre,USA,Celta Vigo,La Liga,Midfield,young
+1272,Yan Couto,BRA,Girona,La Liga,Defence,young
+1273,Renato Tapia,PER,Celta Vigo,La Liga,Midfield,middle_age
+1274,Lee Kang-in,KOR,Mallorca,La Liga,Midfield,young
+1275,Gorka Guruzeta,ESP,Athletic Club,La Liga,Forward,young
+1276,Stefan Mitrović,SRB,Getafe,La Liga,Defence,seniors
+1277,Nicolás Fernández Mercau,Unknown,Elche,La Liga,Defence,young
+1278,Alex Sola,ESP,Real Sociedad,La Liga,Defence,young
+1279,Andoni Zubiaurre,ESP,Real Sociedad,La Liga,Goalkeeper,young
+1280,Víctor Chust,ESP,Cádiz,La Liga,Defence,young
+1281,Williot Swedberg,SWE,Celta Vigo,La Liga,Midfield,young
+1282,Abdón Prats,ESP,Mallorca,La Liga,Forward,middle_age
+1283,Randy Ntekja,FRA,Elche,La Liga,Forward,young
+1284,Randy Ntekja,FRA,Elche,La Liga,Forward,young
+1285,Randy Ntekja,FRA,Elche,La Liga,Forward,young
+1286,Randy Ntekja,FRA,Elche,La Liga,Forward,young
+1287,Copete,ESP,Mallorca,La Liga,Defence,young
+1288,Axel Werner,ARG,Elche,La Liga,Goalkeeper,middle_age
+1289,Gerard Gumbau,ESP,Elche,La Liga,Midfield,middle_age
+1290,Pedro Bigas,ESP,Elche,La Liga,Defence,middle_age
+1291,Juanmi Latasa,Unknown,Getafe,La Liga,Forward,young
+1292,Nico Ribaudo,ESP,Espanyol,La Liga,Midfield,young
+1293,Momo Mbaye,Unknown,Cádiz,La Liga,Defence,young
+1294,Pablo Torre,Unknown,Barcelona,La Liga,Midfield,young
+1295,Ramón Terrats,ESP,Villarreal,La Liga,Midfield,young
+1296,Ramón Terrats,ESP,Villarreal,La Liga,Midfield,young
+1297,Ramón Terrats,ESP,Villarreal,La Liga,Midfield,young
+1298,Ramón Terrats,ESP,Villarreal,La Liga,Midfield,young
+1299,Ander Iru,Unknown,Athletic Club,La Liga,Goalkeeper,young
+1300,Oier Zarraga,ESP,Athletic Club,La Liga,Midfield,young
+1301,Fran Garcia,ESP,Rayo Vallecano,La Liga,Defence,young
+1302,Santiago Arzamendia,PAR,Cádiz,La Liga,Defence,young
+1303,Javi Hernández,ESP,Girona,La Liga,Defence,young
+1304,Abde Ezzalzouli,Unknown,Osasuna,La Liga,Midfield,young
+1305,Pablo Ibáñez,ESP,Osasuna,La Liga,Midfield,young
+1306,Ángel Algobia,ESP,Getafe,La Liga,Midfield,young
+1307,Iglesias,ESP,Getafe,La Liga,Defence,young
+1308,Samu Costa,POR,Almería,La Liga,Midfield,young
+1309,Ibrahima Kebe,MLI,Girona,La Liga,Midfield,young
+1310,Pol Lozano,ESP,Espanyol,La Liga,Midfield,young
+1311,Gabriel Veiga,ESP,Celta Vigo,La Liga,Midfield,young
+1312,Sergio Akieme,ESP,Almería,La Liga,Defence,young
+1313,Iván Fresneda,Unknown,Valladolid,La Liga,Defence,young
+1314,John Nwankwo,Unknown,Elche,La Liga,Defence,young
+1315,Diego Fuoli,ESP,Almería,La Liga,Goalkeeper,young
+1316,Gui Guedes,POR,Almería,La Liga,Midfield,young
+1317,Marko Milovanovic,Unknown,Almería,La Liga,Forward,young
+1318,Martin Svidersky,Unknown,Almería,La Liga,Midfield,young
+1319,Valery Fernández,ESP,Girona,La Liga,Midfield,young
+1320,Andrés Martín,ESP,Rayo Vallecano,La Liga,Forward,young
+1321,Mario Hernández,ESP,Rayo Vallecano,La Liga,Defence,young
+1322,Cristhian Mosquera,COL,Valencia,La Liga,Defence,young
+1323,Alejandro Balde,ESP,Barcelona,La Liga,Defence,young
+1324,Kike Saverio,ESP,Osasuna,La Liga,Midfield,young
+1325,Álvaro Aguado,ESP,Valladolid,La Liga,Midfield,middle_age
+1326,Diego González,ESP,Elche,La Liga,Defence,middle_age
+1327,Diego González,Unknown,Lazio,Serie A,Midfield,young
+1328,Enzo Roco,CHI,Elche,La Liga,Defence,middle_age
+1329,Gonzalo Verdú,ESP,Elche,La Liga,Defence,seniors
+1330,Helibelton Palacios,COL,Elche,La Liga,Defence,middle_age
+1331,Josan,ESP,Elche,La Liga,Defence,seniors
+1332,Diego Conde,ESP,Getafe,La Liga,Goalkeeper,young
+1333,Arnau Puigmal,ESP,Almería,La Liga,Midfield,young
+1334,Largie Ramazani,BEL,Almería,La Liga,Forward,young
+1335,Srđan Babić,SRB,Almería,La Liga,Defence,middle_age
+1336,Samuel Sáiz,ESP,Girona,La Liga,Midfield,middle_age
+1337,Aitor Paredes,Unknown,Athletic Club,La Liga,Defence,young
+1338,Santiago Bueno,URU,Girona,La Liga,Defence,young
+1339,Toni Fuidias,Unknown,Girona,La Liga,Goalkeeper,young
+1340,Morro,ESP,Rayo Vallecano,La Liga,Goalkeeper,young
+1341,Joan García,ESP,Espanyol,La Liga,Goalkeeper,young
+1342,Lucas Rosa,Unknown,Valladolid,La Liga,Defence,young
+1343,Rubén Sánchez,Unknown,Espanyol,La Liga,Defence,young
+1344,Omar El Hilali,Unknown,Espanyol,La Liga,Defence,young
+1345,Simo Keddari,Unknown,Espanyol,La Liga,Defence,young
+1346,Dušan Vlahović,SRB,Juventus,Serie A,Forward,young
+1347,Leonardo Bonucci,ITA,Juventus,Serie A,Defence,seniors
+1348,Wojciech Szczęsny,POL,Juventus,Serie A,Goalkeeper,seniors
+1349,Lautaro Martínez,ARG,Inter,Serie A,Forward,young
+1350,Marcelo Brozović,CRO,Inter,Serie A,Midfield,middle_age
+1351,Alex Sandro,BRA,Juventus,Serie A,Defence,middle_age
+1352,Romelu Lukaku,BEL,Inter,Serie A,Forward,middle_age
+1353,Paul Pogba,FRA,Juventus,Serie A,Midfield,middle_age
+1354,Edin Džeko,BIH,Inter,Serie A,Forward,seniors
+1355,Hakan Çalhanoğlu,TUR,Inter,Serie A,Midfield,middle_age
+1356,Nicolò Barella,ITA,Inter,Serie A,Midfield,young
+1357,Gleison Bremer,BRA,Juventus,Serie A,Defence,young
+1358,Federico Chiesa,ITA,Juventus,Serie A,Defence,young
+1359,Juan Cuadrado,COL,Juventus,Serie A,Defence,seniors
+1360,Adrien Rabiot,FRA,Juventus,Serie A,Midfield,middle_age
+1361,Leandro Paredes,ARG,Juventus,Serie A,Midfield,middle_age
+1362,Ángel Di María,ARG,Juventus,Serie A,Forward,seniors
+1363,Ciro Immobile,ITA,Lazio,Serie A,Forward,seniors
+1364,Paulo Dybala,ARG,Roma,Serie A,Midfield,middle_age
+1365,Stefan de Vrij,NED,Inter,Serie A,Defence,middle_age
+1366,Gianluca Mancini,ITA,Roma,Serie A,Defence,middle_age
+1367,Lorenzo Pellegrini,ITA,Roma,Serie A,Midfield,middle_age
+1368,Stephan El Shaarawy,ITA,Roma,Serie A,Defence,middle_age
+1369,Joaquín Correa,ARG,Inter,Serie A,Forward,middle_age
+1370,Daniele Rugani,ITA,Juventus,Serie A,Defence,middle_age
+1371,Piotr Zieliński,POL,Napoli,Serie A,Midfield,middle_age
+1372,Georginio Wijnaldum,NED,Roma,Serie A,Midfield,middle_age
+1373,Sergiño Dest,USA,Milan,Serie A,Defence,young
+1374,Sergej Milinković-Savić,SRB,Lazio,Serie A,Midfield,middle_age
+1375,Tammy Abraham,ENG,Roma,Serie A,Forward,young
+1376,Alexis Sánchez,CHI,Inter,Serie A,Forward,seniors
+1377,Nikola Milenković,SRB,Fiorentina,Serie A,Defence,young
+1378,Alessio Romagnoli,ITA,Lazio,Serie A,Defence,middle_age
+1379,Leonardo Spinazzola,ITA,Roma,Serie A,Defence,middle_age
+1380,Milan Škriniar,SVK,Inter,Serie A,Defence,middle_age
+1381,Manuel Locatelli,ITA,Juventus,Serie A,Midfield,young
+1382,Domenico Berardi,ITA,Sassuolo,Serie A,Forward,middle_age
+1383,Victor Osimhen,NGA,Napoli,Serie A,Forward,young
+1384,Pablo Marí,ESP,Monza,Serie A,Defence,middle_age
+1385,Alessandro Bastoni,ITA,Inter,Serie A,Defence,young
+1386,Nemanja Matić,SRB,Roma,Serie A,Midfield,seniors
+1387,Divock Origi,BEL,Milan,Serie A,Forward,middle_age
+1388,Theo Hernández,FRA,Milan,Serie A,Defence,young
+1389,Danilo,BRA,Juventus,Serie A,Defence,middle_age
+1390,Danilo,BRA,Juventus,Serie A,Defence,middle_age
+1391,Danilo,BRA,Juventus,Serie A,Defence,middle_age
+1392,Danilo,BRA,Juventus,Serie A,Defence,middle_age
+1393,Danilo,BRA,Nott'ham Forest,Premier League,Midfield,young
+1394,Danilo,BRA,Nott'ham Forest,Premier League,Midfield,young
+1395,Danilo,BRA,Nott'ham Forest,Premier League,Midfield,young
+1396,Danilo,BRA,Nott'ham Forest,Premier League,Midfield,young
+1397,Hirving Lozano,MEX,Napoli,Serie A,Forward,middle_age
+1398,Chris Smalling,ENG,Roma,Serie A,Defence,seniors
+1399,Henrikh Mkhitaryan,ARM,Inter,Serie A,Midfield,seniors
+1400,Luis Alberto,ESP,Lazio,Serie A,Midfield,middle_age
+1401,Federico Fazio,ARG,Salernitana,Serie A,Defence,seniors
+1402,Nicolò Zaniolo,ITA,Roma,Serie A,Midfield,young
+1403,Robin Gosens,GER,Inter,Serie A,Defence,middle_age
+1404,Samir Handanović,SVN,Inter,Serie A,Goalkeeper,seniors
+1405,Sandro Tonali,ITA,Milan,Serie A,Midfield,young
+1406,Tiemoué Bakayoko,FRA,Milan,Serie A,Midfield,middle_age
+1407,Giacomo Raspadori,ITA,Napoli,Serie A,Forward,young
+1408,Giacomo Raspadori,ITA,Napoli,Serie A,Forward,young
+1409,Giacomo Raspadori,ITA,Napoli,Serie A,Forward,young
+1410,Giacomo Raspadori,ITA,Napoli,Serie A,Forward,young
+1411,Kim Min-jae,KOR,Napoli,Serie A,Defence,young
+1412,Ante Rebić,CRO,Milan,Serie A,Forward,middle_age
+1413,Fikayo Tomori,ENG,Milan,Serie A,Defence,young
+1414,Olivier Giroud,FRA,Milan,Serie A,Forward,seniors
+1415,Arkadiusz Milik,POL,Juventus,Serie A,Forward,middle_age
+1416,Andrea Belotti,ITA,Roma,Serie A,Forward,middle_age
+1417,Andrea Pinamonti,ITA,Sassuolo,Serie A,Forward,young
+1418,Giovanni Di Lorenzo,ITA,Napoli,Serie A,Defence,middle_age
+1419,Matteo Darmian,ITA,Inter,Serie A,Defence,seniors
+1420,Rick Karsdorp,NED,Roma,Serie A,Defence,middle_age
+1421,Matteo Politano,ITA,Napoli,Serie A,Forward,middle_age
+1422,Mário Rui,POR,Napoli,Serie A,Defence,middle_age
+1423,Krzysztof Piątek,POL,Salernitana,Serie A,Forward,middle_age
+1424,Rui Patrício,POR,Roma,Serie A,Goalkeeper,seniors
+1425,André Onana,CMR,Inter,Serie A,Goalkeeper,middle_age
+1426,Aaron Ramsey,WAL,Juventus,Serie A,Midfield,middle_age
+1427,Moise Kean,ITA,Juventus,Serie A,Forward,young
+1428,Stefano Sensi,ITA,Monza,Serie A,Midfield,middle_age
+1429,Viktor Kovalenko,UKR,Spezia,Serie A,Midfield,middle_age
+1430,Elseid Hysaj,ALB,Lazio,Serie A,Defence,middle_age
+1431,Mattia Zaccagni,ITA,Lazio,Serie A,Forward,middle_age
+1432,Andrea Conti,ITA,Sampdoria,Serie A,Defence,middle_age
+1433,Merih Demiral,TUR,Atalanta,Serie A,Defence,young
+1434,Danilo D'Ambrosio,ITA,Inter,Serie A,Defence,seniors
+1435,Alessandro Florenzi,ITA,Milan,Serie A,Defence,middle_age
+1436,Davide Calabria,ITA,Milan,Serie A,Defence,young
+1437,Mike Maignan,FRA,Milan,Serie A,Goalkeeper,middle_age
+1438,Matías Vecino,URU,Lazio,Serie A,Midfield,middle_age
+1439,Marko Arnautović,AUT,Bologna,Serie A,Forward,seniors
+1440,Andre-Frank Zambo Anguissa,CMR,Napoli,Serie A,Midfield,middle_age
+1441,Andrea Petagna,ITA,Monza,Serie A,Forward,middle_age
+1442,Duván Zapata,COL,Atalanta,Serie A,Forward,middle_age
+1443,Bryan Cristante,ITA,Roma,Serie A,Midfield,middle_age
+1444,Marash Kumbulla,ALB,Roma,Serie A,Defence,young
+1445,Giovanni Simeone,ARG,Napoli,Serie A,Forward,middle_age
+1446,Nikola Vlašić,CRO,Torino,Serie A,Midfield,young
+1447,Luka Jović,SRB,Fiorentina,Serie A,Forward,young
+1448,Pedro,ESP,Lazio,Serie A,Forward,seniors
+1449,Denzel Dumfries,NED,Inter,Serie A,Defence,middle_age
+1450,Arthur Melo,BRA,Juventus,Serie A,Midfield,middle_age
+1451,Arthur Melo,BRA,Liverpool,Premier League,Midfield,young
+1452,Filip Kostić,SRB,Juventus,Serie A,Defence,middle_age
+1453,Filip Kostić,SRB,Juventus,Serie A,Defence,middle_age
+1454,Filip Kostić,SRB,Juventus,Serie A,Defence,middle_age
+1455,Filip Kostić,SRB,Juventus,Serie A,Defence,middle_age
+1456,Weston McKennie,USA,Juventus,Serie A,Midfield,young
+1457,Weston McKennie,USA,Juventus,Serie A,Midfield,young
+1458,Weston McKennie,USA,Juventus,Serie A,Midfield,young
+1459,Weston McKennie,USA,Juventus,Serie A,Midfield,young
+1460,Weston McKennie,USA,Leeds United,Premier League,Midfield,young
+1461,Weston McKennie,USA,Leeds United,Premier League,Midfield,young
+1462,Weston McKennie,USA,Leeds United,Premier League,Midfield,young
+1463,Weston McKennie,USA,Leeds United,Premier League,Midfield,young
+1464,Diego Demme,GER,Napoli,Serie A,Midfield,middle_age
+1465,Tanguy Ndombele,FRA,Napoli,Serie A,Midfield,young
+1466,Simone Verdi,ITA,Hellas Verona,Serie A,Midfield,middle_age
+1467,Armando Izzo,ITA,Monza,Serie A,Defence,middle_age
+1468,Manuel Lazzari,ITA,Lazio,Serie A,Defence,middle_age
+1469,Antonio Sanabria,PAR,Torino,Serie A,Forward,middle_age
+1470,Rolando Mandragora,ITA,Fiorentina,Serie A,Midfield,young
+1471,Juan Musso,ARG,Atalanta,Serie A,Goalkeeper,middle_age
+1472,Federico Dimarco,ITA,Inter,Serie A,Defence,young
+1473,Felipe Anderson,BRA,Lazio,Serie A,Forward,middle_age
+1474,Charles De Ketelaere,BEL,Milan,Serie A,Midfield,young
+1475,Aleksei Miranchuk,RUS,Torino,Serie A,Midfield,middle_age
+1476,Ricardo Rodríguez,SUI,Torino,Serie A,Defence,middle_age
+1477,Antonín Barák,CZE,Fiorentina,Serie A,Midfield,middle_age
+1478,Antonín Barák,CZE,Fiorentina,Serie A,Midfield,middle_age
+1479,Antonín Barák,CZE,Fiorentina,Serie A,Midfield,middle_age
+1480,Antonín Barák,CZE,Fiorentina,Serie A,Midfield,middle_age
+1481,Giacomo Bonaventura,ITA,Fiorentina,Serie A,Midfield,seniors
+1482,Jeremie Boga,CIV,Atalanta,Serie A,Midfield,young
+1483,Mattia Destro,ITA,Empoli,Serie A,Forward,middle_age
+1484,Francesco Acerbi,ITA,Inter,Serie A,Defence,seniors
+1485,Roberto Gagliardini,ITA,Inter,Serie A,Midfield,middle_age
+1486,Ismaël Bennacer,ALG,Milan,Serie A,Midfield,young
+1487,Rade Krunić,BIH,Milan,Serie A,Midfield,middle_age
+1488,Mattia De Sciglio,ITA,Juventus,Serie A,Defence,middle_age
+1489,Mattia Perin,ITA,Juventus,Serie A,Goalkeeper,middle_age
+1490,Alex Meret,ITA,Napoli,Serie A,Goalkeeper,young
+1491,Karol Linetty,POL,Torino,Serie A,Midfield,middle_age
+1492,Gaetano Castrovilli,ITA,Fiorentina,Serie A,Midfield,young
+1493,Danilo Cataldi,ITA,Lazio,Serie A,Midfield,middle_age
+1494,Marlon,BRA,Monza,Serie A,Defence,middle_age
+1495,Éderson,BRA,Atalanta,Serie A,Midfield,young
+1496,Zeki Çelik,TUR,Roma,Serie A,Defence,young
+1497,Pierre Kalulu,FRA,Milan,Serie A,Defence,young
+1498,Marin Pongračić,CRO,Lecce,Serie A,Defence,young
+1499,Alfred Duncan,GHA,Fiorentina,Serie A,Midfield,middle_age
+1500,Marco Benassi,ITA,Fiorentina,Serie A,Defence,middle_age
+1501,Marco Benassi,ITA,Fiorentina,Serie A,Defence,middle_age
+1502,Marco Benassi,ITA,Fiorentina,Serie A,Defence,middle_age
+1503,Marco Benassi,ITA,Fiorentina,Serie A,Defence,middle_age
+1504,Sebastiano Luperto,ITA,Empoli,Serie A,Defence,young
+1505,Antonio Candreva,ITA,Salernitana,Serie A,Midfield,seniors
+1506,Florian Thauvin,FRA,Udinese,Serie A,Forward,middle_age
+1507,Ademola Lookman,NGA,Atalanta,Serie A,Forward,young
+1508,Luis Muriel,COL,Atalanta,Serie A,Forward,middle_age
+1509,Amir Rrahmani,KVX,Napoli,Serie A,Defence,middle_age
+1510,Christian Kouamé,CIV,Fiorentina,Serie A,Forward,young
+1511,Cristiano Biraghi,ITA,Fiorentina,Serie A,Defence,middle_age
+1512,Mohamed Fares,ALG,Lazio,Serie A,Defence,middle_age
+1513,Patric,ESP,Lazio,Serie A,Defence,middle_age
+1514,Ștefan Radu,ROU,Lazio,Serie A,Forward,seniors
+1515,Federico Bonazzoli,ITA,Salernitana,Serie A,Forward,young
+1516,Dalbert Henrique,BRA,Inter,Serie A,Defence,middle_age
+1517,Juan Jesus,BRA,Napoli,Serie A,Defence,middle_age
+1518,Arthur Cabral,BRA,Fiorentina,Serie A,Forward,young
+1519,Jonathan Ikone,FRA,Fiorentina,Serie A,Forward,young
+1520,Nicola Sansone,ITA,Bologna,Serie A,Forward,middle_age
+1521,Roberto Soriano,ITA,Bologna,Serie A,Forward,middle_age
+1522,Stanislav Lobotka,SVK,Napoli,Serie A,Midfield,middle_age
+1523,Riccardo Orsolini,ITA,Bologna,Serie A,Forward,young
+1524,Soualiho Meïté,FRA,Cremonese,Serie A,Midfield,middle_age
+1525,Valentino Lazaro,AUT,Torino,Serie A,Defence,middle_age
+1526,Gary Medel,CHI,Bologna,Serie A,Midfield,seniors
+1527,Dodô,BRA,Fiorentina,Serie A,Defence,young
+1528,Sofyan Amrabat,MAR,Fiorentina,Serie A,Midfield,young
+1529,Eldor Shomurodov,UZB,Spezia,Serie A,Forward,middle_age
+1530,Eldor Shomurodov,UZB,Spezia,Serie A,Forward,middle_age
+1531,Eldor Shomurodov,UZB,Spezia,Serie A,Forward,middle_age
+1532,Eldor Shomurodov,UZB,Spezia,Serie A,Forward,middle_age
+1533,Teun Koopmeiners,NED,Atalanta,Serie A,Midfield,young
+1534,Junior Sambia,FRA,Salernitana,Serie A,Defence,young
+1535,Roger Ibanez,BRA,Roma,Serie A,Defence,young
+1536,Aster Vranckx,BEL,Milan,Serie A,Midfield,young
+1537,Aster Vranckx,BEL,Milan,Serie A,Midfield,young
+1538,Aster Vranckx,BEL,Milan,Serie A,Midfield,young
+1539,Aster Vranckx,BEL,Milan,Serie A,Midfield,young
+1540,Brahim Díaz,MAR,Milan,Serie A,Midfield,young
+1541,Simon Kjær,DEN,Milan,Serie A,Defence,seniors
+1542,Zlatan Ibrahimović,SWE,Milan,Serie A,Forward,seniors
+1543,Elif Elmas,MKD,Napoli,Serie A,Forward,young
+1544,Mathías Olivera,URU,Napoli,Serie A,Defence,young
+1545,Marco Silvestri,ITA,Udinese,Serie A,Goalkeeper,middle_age
+1546,Etrit Berisha,ALB,Torino,Serie A,Goalkeeper,seniors
+1547,Ola Aina,NGA,Torino,Serie A,Defence,young
+1548,Samuele Ricci,ITA,Torino,Serie A,Midfield,young
+1549,Yann Karamoh,FRA,Torino,Serie A,Midfield,young
+1550,Andrea Cambiaso,ITA,Bologna,Serie A,Defence,young
+1551,Kevin Bonifazi,ITA,Bologna,Serie A,Defence,middle_age
+1552,Alessio Cragno,ITA,Monza,Serie A,Goalkeeper,middle_age
+1553,Nicolò Rovella,ITA,Monza,Serie A,Midfield,young
+1554,Nicolò Rovella,ITA,Monza,Serie A,Midfield,young
+1555,Nicolò Rovella,ITA,Monza,Serie A,Midfield,young
+1556,Nicolò Rovella,ITA,Monza,Serie A,Midfield,young
+1557,Ivan Provedel,ITA,Lazio,Serie A,Goalkeeper,middle_age
+1558,Matteo Cancellieri,ITA,Lazio,Serie A,Forward,young
+1559,Nicolò Casale,ITA,Lazio,Serie A,Defence,young
+1560,Mario Pašalić,CRO,Atalanta,Serie A,Midfield,middle_age
+1561,Marten de Roon,NED,Atalanta,Serie A,Midfield,middle_age
+1562,Rafael Tolói,ITA,Atalanta,Serie A,Defence,middle_age
+1563,Ionuț Radu,ROU,Cremonese,Serie A,Goalkeeper,young
+1564,Lorenzo Tonelli,ITA,Empoli,Serie A,Defence,seniors
+1565,Giulio Maggiore,ITA,Salernitana,Serie A,Midfield,young
+1566,Junior Messias,BRA,Milan,Serie A,Defence,middle_age
+1567,Tommaso Pobega,ITA,Milan,Serie A,Midfield,young
+1568,Federico Gatti,ITA,Juventus,Serie A,Defence,young
+1569,Nicolò Fagioli,ITA,Juventus,Serie A,Midfield,young
+1570,Andrea Consigli,ITA,Sassuolo,Serie A,Goalkeeper,seniors
+1571,Perr Schuurs,NED,Torino,Serie A,Defence,young
+1572,Toma Bašić,CRO,Lazio,Serie A,Midfield,young
+1573,Boulaye Dia,SEN,Salernitana,Serie A,Forward,young
+1574,Rafael Leão,POR,Milan,Serie A,Forward,young
+1575,Omar Colley,GAM,Sampdoria,Serie A,Defence,middle_age
+1576,Lorenzo De Silvestri,ITA,Bologna,Serie A,Defence,seniors
+1577,Łukasz Skorupski,POL,Bologna,Serie A,Goalkeeper,middle_age
+1578,Gianluca Caprari,ITA,Monza,Serie A,Midfield,middle_age
+1579,Dimitris Nikolaou,GRE,Spezia,Serie A,Defence,young
+1580,Adam Marušić,MNE,Lazio,Serie A,Defence,middle_age
+1581,Davide Zappacosta,ITA,Atalanta,Serie A,Defence,middle_age
+1582,Alberto Grassi,ITA,Empoli,Serie A,Midfield,middle_age
+1583,Ardian Ismajli,ALB,Empoli,Serie A,Defence,young
+1584,Nicolas Haas,SUI,Empoli,Serie A,Midfield,middle_age
+1585,Luigi Sepe,ITA,Salernitana,Serie A,Goalkeeper,middle_age
+1586,Raoul Bellanova,ITA,Inter,Serie A,Defence,young
+1587,Diego Llorente,ESP,Roma,Serie A,Defence,middle_age
+1588,Diego Llorente,ESP,Roma,Serie A,Defence,middle_age
+1589,Diego Llorente,ESP,Roma,Serie A,Defence,middle_age
+1590,Diego Llorente,ESP,Roma,Serie A,Defence,middle_age
+1591,Diego Llorente,ESP,Leeds United,Premier League,Defence,middle_age
+1592,Diego Llorente,ESP,Leeds United,Premier League,Defence,middle_age
+1593,Diego Llorente,ESP,Leeds United,Premier League,Defence,middle_age
+1594,Diego Llorente,ESP,Leeds United,Premier League,Defence,middle_age
+1595,Santiago Ascacíbar,ARG,Cremonese,Serie A,Midfield,young
+1596,William Troost-Ekong,NGA,Salernitana,Serie A,Defence,middle_age
+1597,Grégoire Defrel,MTQ,Sassuolo,Serie A,Forward,middle_age
+1598,Nedim Bajrami,ALB,Empoli,Serie A,Midfield,young
+1599,Nedim Bajrami,ALB,Empoli,Serie A,Midfield,young
+1600,Nedim Bajrami,ALB,Empoli,Serie A,Midfield,young
+1601,Nedim Bajrami,ALB,Empoli,Serie A,Midfield,young
+1602,Ante Ćorić,CRO,Roma,Serie A,Midfield,young
+1603,Mady Camara,Unknown,Roma,Serie A,Midfield,young
+1604,Matías Viña,URU,Roma,Serie A,Defence,young
+1605,Matías Viña,URU,Roma,Serie A,Defence,young
+1606,Matías Viña,URU,Roma,Serie A,Defence,young
+1607,Matías Viña,URU,Roma,Serie A,Defence,young
+1608,Matías Viña,URU,Bournemouth,Premier League,Defence,young
+1609,Matías Viña,URU,Bournemouth,Premier League,Defence,young
+1610,Matías Viña,URU,Bournemouth,Premier League,Defence,young
+1611,Matías Viña,URU,Bournemouth,Premier League,Defence,young
+1612,Kristjan Asllani,ALB,Inter,Serie A,Midfield,young
+1613,Ciprian Tătărușanu,ROU,Milan,Serie A,Goalkeeper,seniors
+1614,Kaio Jorge,BRA,Juventus,Serie A,Forward,young
+1615,Khvicha Kvaratskhelia,GEO,Napoli,Serie A,Forward,young
+1616,Leo Skiri Østigård,NOR,Napoli,Serie A,Defence,young
+1617,Musa Barrow,GAM,Bologna,Serie A,Forward,young
+1618,Matteo Pessina,ITA,Monza,Serie A,Midfield,young
+1619,Pierluigi Gollini,ITA,Fiorentina,Serie A,Goalkeeper,middle_age
+1620,Pierluigi Gollini,ITA,Fiorentina,Serie A,Goalkeeper,middle_age
+1621,Pierluigi Gollini,ITA,Fiorentina,Serie A,Goalkeeper,middle_age
+1622,Pierluigi Gollini,ITA,Fiorentina,Serie A,Goalkeeper,middle_age
+1623,Pietro Terracciano,ITA,Fiorentina,Serie A,Goalkeeper,seniors
+1624,Albin Ekdal,SWE,Spezia,Serie A,Midfield,seniors
+1625,Emil Audero,ITA,Sampdoria,Serie A,Goalkeeper,young
+1626,Filip Đuričić,SRB,Sampdoria,Serie A,Midfield,middle_age
+1627,Francesco Caputo,ITA,Sampdoria,Serie A,Forward,seniors
+1628,Francesco Caputo,ITA,Sampdoria,Serie A,Forward,seniors
+1629,Francesco Caputo,ITA,Sampdoria,Serie A,Forward,seniors
+1630,Francesco Caputo,ITA,Sampdoria,Serie A,Forward,seniors
+1631,Berat Djimsiti,ALB,Atalanta,Serie A,Defence,middle_age
+1632,Hans Hateboer,NED,Atalanta,Serie A,Defence,middle_age
+1633,José Luis Palomino,ARG,Atalanta,Serie A,Defence,seniors
+1634,Liam Henderson,SCO,Empoli,Serie A,Midfield,middle_age
+1635,Marko Pjaca,CRO,Empoli,Serie A,Midfield,middle_age
+1636,Guillermo Ochoa,MEX,Salernitana,Serie A,Goalkeeper,seniors
+1637,Matteo Gabbia,ITA,Milan,Serie A,Defence,young
+1638,Jeison Murillo,COL,Sampdoria,Serie A,Defence,middle_age
+1639,Manolo Gabbiadini,ITA,Sampdoria,Serie A,Forward,middle_age
+1640,Adama Soumaoro,FRA,Bologna,Serie A,Defence,middle_age
+1641,Federico Di Francesco,ITA,Lecce,Serie A,Forward,middle_age
+1642,Ilija Nestorovski,MKD,Udinese,Serie A,Forward,seniors
+1643,Mato Jajalo,BIH,Udinese,Serie A,Midfield,seniors
+1644,Kevin Lasagna,ITA,Hellas Verona,Serie A,Forward,middle_age
+1645,Saša Lukić,SRB,Torino,Serie A,Midfield,young
+1646,Saša Lukić,SRB,Torino,Serie A,Midfield,young
+1647,Saša Lukić,SRB,Torino,Serie A,Midfield,young
+1648,Saša Lukić,SRB,Torino,Serie A,Midfield,young
+1649,Saša Lukić,SRB,Fulham,Premier League,Midfield,young
+1650,Saša Lukić,SRB,Fulham,Premier League,Midfield,young
+1651,Saša Lukić,SRB,Fulham,Premier League,Midfield,young
+1652,Saša Lukić,SRB,Fulham,Premier League,Midfield,young
+1653,Francesco Bardi,ITA,Bologna,Serie A,Goalkeeper,middle_age
+1654,Salvatore Sirigu,ITA,Fiorentina,Serie A,Goalkeeper,seniors
+1655,Youssef Maleh,MAR,Fiorentina,Serie A,Midfield,young
+1656,Youssef Maleh,MAR,Fiorentina,Serie A,Midfield,young
+1657,Youssef Maleh,MAR,Fiorentina,Serie A,Midfield,young
+1658,Youssef Maleh,MAR,Fiorentina,Serie A,Midfield,young
+1659,Bartłomiej Drągowski,POL,Spezia,Serie A,Goalkeeper,young
+1660,Emmanuel Gyasi,GHA,Spezia,Serie A,Defence,middle_age
+1661,Nicola Murru,ITA,Sampdoria,Serie A,Defence,middle_age
+1662,Tomás Rincón,VEN,Sampdoria,Serie A,Midfield,seniors
+1663,Valerio Verre,ITA,Sampdoria,Serie A,Midfield,middle_age
+1664,Vlad Chiricheș,ROU,Cremonese,Serie A,Defence,seniors
+1665,Antonio Mirante,ITA,Milan,Serie A,Goalkeeper,seniors
+1666,Davide Frattesi,ITA,Sassuolo,Serie A,Midfield,young
+1667,Rogério,BRA,Sassuolo,Serie A,Defence,young
+1668,Gerard Deulofeu,ESP,Udinese,Serie A,Forward,middle_age
+1669,Roberto Pereyra,ARG,Udinese,Serie A,Defence,middle_age
+1670,Pietro Pellegri,ITA,Torino,Serie A,Forward,young
+1671,Lucas Martínez Quarta,ARG,Fiorentina,Serie A,Defence,middle_age
+1672,Riccardo Saponara,ITA,Fiorentina,Serie A,Forward,middle_age
+1673,Jeroen Zoet,NED,Spezia,Serie A,Goalkeeper,middle_age
+1674,Luís Maximiano,POR,Lazio,Serie A,Goalkeeper,young
+1675,Joakim Mæhle,DEN,Atalanta,Serie A,Defence,young
+1676,Ruslan Malinovskyi,UKR,Atalanta,Serie A,Midfield,middle_age
+1677,Răzvan Marin,ROU,Empoli,Serie A,Midfield,middle_age
+1678,Domagoj Bradarić,CRO,Salernitana,Serie A,Defence,young
+1679,Mile Svilar,SRB,Roma,Serie A,Goalkeeper,young
+1680,Alexis Saelemaekers,BEL,Milan,Serie A,Defence,young
+1681,Fodé Ballo-Touré,SEN,Milan,Serie A,Defence,young
+1682,Agustín Álvarez Martínez,URU,Sassuolo,Serie A,Forward,young
+1683,Assan Ceesay,GAM,Lecce,Serie A,Forward,middle_age
+1684,Luca Caldirola,ITA,Monza,Serie A,Defence,middle_age
+1685,Patrick Ciurria,ITA,Monza,Serie A,Defence,middle_age
+1686,Nikola Moro,CRO,Bologna,Serie A,Midfield,young
+1687,Adolfo Gaich,ARG,Hellas Verona,Serie A,Forward,young
+1688,Harry Winks,ENG,Sampdoria,Serie A,Midfield,middle_age
+1689,Mattia Caldara,ITA,Spezia,Serie A,Defence,middle_age
+1690,Adam Masina,MAR,Udinese,Serie A,Defence,middle_age
+1691,Joshua Zirkzee,NED,Bologna,Serie A,Forward,young
+1692,Arkadiusz Reca,POL,Spezia,Serie A,Defence,middle_age
+1693,Marcos Antônio,BRA,Lazio,Serie A,Midfield,young
+1694,Cyriel Dessers,NGA,Cremonese,Serie A,Forward,middle_age
+1695,Dylan Bronn,TUN,Salernitana,Serie A,Defence,middle_age
+1696,Armand Lauriente,FRA,Sassuolo,Serie A,Forward,young
+1697,Christian Gytkjær,DEN,Monza,Serie A,Forward,seniors
+1698,Bram Nuytinck,NED,Udinese,Serie A,Defence,seniors
+1699,Bram Nuytinck,NED,Udinese,Serie A,Defence,seniors
+1700,Bram Nuytinck,NED,Udinese,Serie A,Defence,seniors
+1701,Bram Nuytinck,NED,Udinese,Serie A,Defence,seniors
+1702,Darko Lazović,SRB,Hellas Verona,Serie A,Midfield,middle_age
+1703,Giangiacomo Magnani,ITA,Hellas Verona,Serie A,Defence,middle_age
+1704,Koray Günter,GER,Hellas Verona,Serie A,Defence,middle_age
+1705,Koray Günter,GER,Hellas Verona,Serie A,Defence,middle_age
+1706,Koray Günter,GER,Hellas Verona,Serie A,Defence,middle_age
+1707,Koray Günter,GER,Hellas Verona,Serie A,Defence,middle_age
+1708,Ronaldo Vieira,ENG,Torino,Serie A,Midfield,young
+1709,Ronaldo Vieira,ENG,Torino,Serie A,Midfield,young
+1710,Ronaldo Vieira,ENG,Torino,Serie A,Midfield,young
+1711,Ronaldo Vieira,ENG,Torino,Serie A,Midfield,young
+1712,Luca Ranieri,ITA,Fiorentina,Serie A,Defence,young
+1713,Riccardo Sottil,ITA,Fiorentina,Serie A,Forward,young
+1714,Mehdi Bourabia,MAR,Spezia,Serie A,Midfield,middle_age
+1715,Marco Sportiello,ITA,Atalanta,Serie A,Goalkeeper,middle_age
+1716,Filippo Bandinelli,ITA,Empoli,Serie A,Midfield,middle_age
+1717,Guglielmo Vicario,ITA,Empoli,Serie A,Goalkeeper,young
+1718,Ivan Radovanović,SRB,Salernitana,Serie A,Midfield,seniors
+1719,Leonardo Capezzi,ITA,Salernitana,Serie A,Midfield,middle_age
+1720,Gian Marco Ferrari,ITA,Sassuolo,Serie A,Defence,middle_age
+1721,Pedro Obiang,EQG,Sassuolo,Serie A,Midfield,middle_age
+1722,Luca Marrone,ITA,Monza,Serie A,Defence,seniors
+1723,Caleb Okoli,ITA,Atalanta,Serie A,Defence,young
+1724,Enzo Ebosse,CMR,Udinese,Serie A,Defence,young
+1725,Jaka Bijol,SVN,Udinese,Serie A,Defence,young
+1726,Walace,BRA,Udinese,Serie A,Midfield,middle_age
+1727,Thomas Henry,FRA,Hellas Verona,Serie A,Forward,middle_age
+1728,Nemanja Radonjić,SRB,Torino,Serie A,Midfield,middle_age
+1729,Sam Lammers,NED,Sampdoria,Serie A,Forward,young
+1730,Sam Lammers,NED,Sampdoria,Serie A,Forward,young
+1731,Sam Lammers,NED,Sampdoria,Serie A,Forward,young
+1732,Sam Lammers,NED,Sampdoria,Serie A,Forward,young
+1733,Malick Thiaw,GER,Milan,Serie A,Defence,young
+1734,Malick Thiaw,GER,Milan,Serie A,Defence,young
+1735,Malick Thiaw,GER,Milan,Serie A,Defence,young
+1736,Malick Thiaw,GER,Milan,Serie A,Defence,young
+1737,Yacine Adli,FRA,Milan,Serie A,Midfield,young
+1738,M'Bala Nzola,ANG,Spezia,Serie A,Forward,young
+1739,Stefan Posch,AUT,Bologna,Serie A,Defence,young
+1740,Stefan Posch,AUT,Bologna,Serie A,Defence,young
+1741,Stefan Posch,AUT,Bologna,Serie A,Defence,young
+1742,Stefan Posch,AUT,Bologna,Serie A,Defence,young
+1743,Emil Bohinen,NOR,Salernitana,Serie A,Midfield,young
+1744,Jhon Lucumí,COL,Bologna,Serie A,Defence,young
+1745,Antonino Gallo,ITA,Lecce,Serie A,Defence,young
+1746,Remi Oudin,FRA,Lecce,Serie A,Forward,young
+1747,Davide Faraoni,ITA,Hellas Verona,Serie A,Defence,middle_age
+1748,Federico Ceccherini,ITA,Hellas Verona,Serie A,Defence,middle_age
+1749,Miguel Veloso,POR,Hellas Verona,Serie A,Midfield,seniors
+1750,Charalambos Lykogiannis,GRE,Bologna,Serie A,Defence,middle_age
+1751,Andrea Carboni,ITA,Monza,Serie A,Defence,young
+1752,Szymon Żurkowski,POL,Fiorentina,Serie A,Midfield,young
+1753,Szymon Żurkowski,POL,Fiorentina,Serie A,Midfield,young
+1754,Szymon Żurkowski,POL,Fiorentina,Serie A,Midfield,young
+1755,Szymon Żurkowski,POL,Fiorentina,Serie A,Midfield,young
+1756,Fabio Quagliarella,ITA,Sampdoria,Serie A,Forward,seniors
+1757,Ignacio Pussetto,ARG,Sampdoria,Serie A,Midfield,middle_age
+1758,Daniel Ciofani,ITA,Cremonese,Serie A,Forward,seniors
+1759,Paolo Ghiglione,ITA,Cremonese,Serie A,Defence,young
+1760,Jean-Daniel Akpa-Akpro,CIV,Empoli,Serie A,Midfield,middle_age
+1761,Matteo Lovato,ITA,Salernitana,Serie A,Defence,young
+1762,Norbert Gyömbér,SVK,Salernitana,Serie A,Defence,middle_age
+1763,Gianluca Pegolo,ITA,Sassuolo,Serie A,Goalkeeper,seniors
+1764,Hamed Junior Traorè,CIV,Sassuolo,Serie A,Midfield,young
+1765,Hamed Junior Traorè,CIV,Sassuolo,Serie A,Midfield,young
+1766,Hamed Junior Traorè,CIV,Sassuolo,Serie A,Midfield,young
+1767,Hamed Junior Traorè,CIV,Sassuolo,Serie A,Midfield,young
+1768,Hamed Junior Traorè,CIV,Bournemouth,Premier League,Forward,young
+1769,Hamed Junior Traorè,CIV,Bournemouth,Premier League,Forward,young
+1770,Hamed Junior Traorè,CIV,Bournemouth,Premier League,Forward,young
+1771,Hamed Junior Traorè,CIV,Bournemouth,Premier League,Forward,young
+1772,Riccardo Marchizza,ITA,Sassuolo,Serie A,Defence,young
+1773,Simone Romagnoli,ITA,Lecce,Serie A,Defence,seniors
+1774,Matteo Scozzarella,ITA,Monza,Serie A,Midfield,seniors
+1775,Isaac Success,NGA,Udinese,Serie A,Forward,middle_age
+1776,Kingsley Ehizibue,NED,Udinese,Serie A,Defence,middle_age
+1777,Kingsley Ehizibue,NED,Udinese,Serie A,Defence,middle_age
+1778,Kingsley Ehizibue,NED,Udinese,Serie A,Defence,middle_age
+1779,Kingsley Ehizibue,NED,Udinese,Serie A,Defence,middle_age
+1780,Sandi Lovrić,SVN,Udinese,Serie A,Midfield,young
+1781,Milan Đurić,BIH,Hellas Verona,Serie A,Forward,seniors
+1782,Mërgim Vojvoda,KVX,Torino,Serie A,Defence,middle_age
+1783,Nicolás Domínguez,ARG,Bologna,Serie A,Midfield,young
+1784,Igor,BRA,Fiorentina,Serie A,Defence,young
+1785,Dimitrije Kamenović,SRB,Lazio,Serie A,Defence,young
+1786,Ola Solbakken,Unknown,Roma,Serie A,Midfield,young
+1787,William Bianda,FRA,Roma,Serie A,Defence,young
+1788,Jeremy Toljan,GER,Sassuolo,Serie A,Defence,middle_age
+1789,Kristijan Bistrović,CRO,Lecce,Serie A,Midfield,young
+1790,Andrea Barberis,ITA,Monza,Serie A,Midfield,middle_age
+1791,Nehuén Pérez,ARG,Udinese,Serie A,Defence,young
+1792,Michele Di Gregorio,ITA,Monza,Serie A,Goalkeeper,young
+1793,Samuele Birindelli,ITA,Monza,Serie A,Defence,young
+1794,Salvatore Esposito,ITA,Spezia,Serie A,Midfield,young
+1795,Bartosz Bereszyński,POL,Sampdoria,Serie A,Defence,middle_age
+1796,Bartosz Bereszyński,POL,Sampdoria,Serie A,Defence,middle_age
+1797,Bartosz Bereszyński,POL,Sampdoria,Serie A,Defence,middle_age
+1798,Bartosz Bereszyński,POL,Sampdoria,Serie A,Defence,middle_age
+1799,Ebrima Darboe,GAM,Roma,Serie A,Midfield,young
+1800,Rodrigo Becão,BRA,Udinese,Serie A,Defence,middle_age
+1801,Tolgay Arslan,GER,Udinese,Serie A,Midfield,middle_age
+1802,Cyril Ngonge,BEL,Hellas Verona,Serie A,Midfield,young
+1803,Isak Hien,Unknown,Hellas Verona,Serie A,Defence,young
+1804,Valentin Antov,BUL,Monza,Serie A,Defence,young
+1805,Brandon Soppy,FRA,Atalanta,Serie A,Defence,young
+1806,Brandon Soppy,FRA,Atalanta,Serie A,Defence,young
+1807,Brandon Soppy,FRA,Atalanta,Serie A,Defence,young
+1808,Brandon Soppy,FRA,Atalanta,Serie A,Defence,young
+1809,Charles Pickel,COD,Cremonese,Serie A,Midfield,young
+1810,David Okereke,NGA,Cremonese,Serie A,Forward,young
+1811,Mohammed Ihattaren,NED,Juventus,Serie A,Midfield,young
+1812,Kaan Ayhan,TUR,Sassuolo,Serie A,Defence,middle_age
+1813,Kristian Thorstvedt,NOR,Sassuolo,Serie A,Midfield,young
+1814,Maxime Lopez,FRA,Sassuolo,Serie A,Midfield,young
+1815,Demba Seck,SEN,Torino,Serie A,Midfield,young
+1816,Simone Edera,ITA,Torino,Serie A,Midfield,young
+1817,Vanja Milinković-Savić,SRB,Torino,Serie A,Goalkeeper,young
+1818,Marco D'Alessandro,ITA,Monza,Serie A,Defence,middle_age
+1819,Lorenzo Venuti,ITA,Fiorentina,Serie A,Defence,middle_age
+1820,Daniele Verde,ITA,Spezia,Serie A,Forward,middle_age
+1821,Jacopo Sala,ITA,Spezia,Serie A,Midfield,middle_age
+1822,Kevin Agudelo,COL,Spezia,Serie A,Midfield,young
+1823,Alessandro Zanoli,ITA,Sampdoria,Serie A,Defence,young
+1824,Alessandro Zanoli,ITA,Sampdoria,Serie A,Defence,young
+1825,Alessandro Zanoli,ITA,Sampdoria,Serie A,Defence,young
+1826,Alessandro Zanoli,ITA,Sampdoria,Serie A,Defence,young
+1827,Alex Ferrari,ITA,Sampdoria,Serie A,Defence,middle_age
+1828,Alex Ferrari,ITA,Sampdoria,Serie A,Defence,middle_age
+1829,Alex Ferrari,ITA,Sampdoria,Serie A,Defence,middle_age
+1830,Alex Ferrari,ITA,Sampdoria,Serie A,Defence,middle_age
+1831,Cristian Buonaiuto,ITA,Cremonese,Serie A,Midfield,middle_age
+1832,Tonny Vilhena,NED,Salernitana,Serie A,Midfield,middle_age
+1833,Filippo Romagna,ITA,Sassuolo,Serie A,Defence,young
+1834,Alessandro Tuia,ITA,Lecce,Serie A,Defence,seniors
+1835,Oliver Abildgaard,DEN,Hellas Verona,Serie A,Midfield,middle_age
+1836,Kelvin Amian,FRA,Spezia,Serie A,Defence,young
+1837,Janis Antiste,FRA,Sassuolo,Serie A,Forward,young
+1838,Fabio Depaoli,ITA,Hellas Verona,Serie A,Defence,young
+1839,Fabio Depaoli,ITA,Hellas Verona,Serie A,Defence,young
+1840,Fabio Depaoli,ITA,Hellas Verona,Serie A,Defence,young
+1841,Fabio Depaoli,ITA,Hellas Verona,Serie A,Defence,young
+1842,Mattia Valoti,ITA,Monza,Serie A,Midfield,middle_age
+1843,Salvatore Molina,ITA,Monza,Serie A,Defence,middle_age
+1844,Martin Satriano,URU,Empoli,Serie A,Forward,young
+1845,Giuseppe Pezzella,ITA,Lecce,Serie A,Defence,young
+1846,Marvin Zeegelaar,NED,Udinese,Serie A,Defence,middle_age
+1847,Adrien Tameze,CMR,Hellas Verona,Serie A,Midfield,middle_age
+1848,Josh Doig,SCO,Hellas Verona,Serie A,Defence,young
+1849,David Zima,CZE,Torino,Serie A,Defence,young
+1850,Jerdy Schouten,NED,Bologna,Serie A,Midfield,young
+1851,Michel Aebischer,SUI,Bologna,Serie A,Forward,young
+1852,Mario Gila,Unknown,Lazio,Serie A,Defence,young
+1853,Jesé,ESP,Sampdoria,Serie A,Forward,middle_age
+1854,Rasmus Højlund,DEN,Atalanta,Serie A,Forward,young
+1855,Luka Lochoshvili,GEO,Cremonese,Serie A,Defence,young
+1856,Petar Stojanović,SVN,Empoli,Serie A,Defence,middle_age
+1857,Tyronne Ebuehi,NGA,Empoli,Serie A,Defence,middle_age
+1858,Flavius Daniliuc,AUT,Salernitana,Serie A,Defence,young
+1859,Samuel Iling-Junior,ENG,Juventus,Serie A,Defence,young
+1860,Alexis Blin,FRA,Lecce,Serie A,Midfield,young
+1861,Joan Gonzàlez,ESP,Lecce,Serie A,Midfield,young
+1862,Lameck Banda,Unknown,Lecce,Serie A,Midfield,young
+1863,Carlos Augusto,BRA,Monza,Serie A,Defence,young
+1864,Gabriel Paletta,ITA,Monza,Serie A,Defence,seniors
+1865,Matteo Bianchetti,ITA,Cremonese,Serie A,Defence,middle_age
+1866,Johan Vásquez,MEX,Cremonese,Serie A,Defence,young
+1867,Matheus Henrique,BRA,Sassuolo,Serie A,Midfield,young
+1868,Roberto Piccoli,ITA,Hellas Verona,Serie A,Forward,young
+1869,Roberto Piccoli,ITA,Hellas Verona,Serie A,Forward,young
+1870,Roberto Piccoli,ITA,Hellas Verona,Serie A,Forward,young
+1871,Roberto Piccoli,ITA,Hellas Verona,Serie A,Forward,young
+1872,Brian Bayeye,Unknown,Torino,Serie A,Midfield,young
+1873,Emanuel Vignato,ITA,Bologna,Serie A,Midfield,young
+1874,Emanuel Vignato,ITA,Bologna,Serie A,Midfield,young
+1875,Emanuel Vignato,ITA,Bologna,Serie A,Midfield,young
+1876,Emanuel Vignato,ITA,Bologna,Serie A,Midfield,young
+1877,Gabriele Corbo,ITA,Bologna,Serie A,Defence,young
+1878,Daniel Maldini,ITA,Spezia,Serie A,Forward,young
+1879,Nikita Contini Baranovsky,ITA,Sampdoria,Serie A,Goalkeeper,middle_age
+1880,Giorgio Scalvini,ITA,Atalanta,Serie A,Defence,young
+1881,Frank Tsadjout,ITA,Cremonese,Serie A,Forward,young
+1882,Michele Castagnetti,ITA,Cremonese,Serie A,Midfield,seniors
+1883,Tommaso Baldanzi,ITA,Empoli,Serie A,Midfield,young
+1884,Lorenzo Pirola,ITA,Salernitana,Serie A,Defence,young
+1885,Nicola Zalewski,POL,Roma,Serie A,Defence,young
+1886,Carlo Pinsoglio,ITA,Juventus,Serie A,Goalkeeper,seniors
+1887,Fabio Miretti,ITA,Juventus,Serie A,Midfield,young
+1888,Federico Baschirotto,ITA,Lecce,Serie A,Defence,young
+1889,Kastriot Dermaku,ALB,Lecce,Serie A,Defence,middle_age
+1890,Lorenzo Colombo,ITA,Lecce,Serie A,Forward,young
+1891,Pietro Ceccaroni,ITA,Lecce,Serie A,Defence,middle_age
+1892,Marco Bleve,ITA,Lecce,Serie A,Goalkeeper,middle_age
+1893,Mirko Marić,CRO,Monza,Serie A,Forward,middle_age
+1894,Mehdi Léris,ALG,Sampdoria,Serie A,Midfield,young
+1895,Alessandro Micai,ITA,Salernitana,Serie A,Goalkeeper,middle_age
+1896,Lazar Samardzic,SRB,Udinese,Serie A,Midfield,young
+1897,Denso Kasius,NED,Bologna,Serie A,Defence,young
+1898,Giorgos Kyriakopoulos,GRE,Bologna,Serie A,Defence,middle_age
+1899,Giorgos Kyriakopoulos,GRE,Bologna,Serie A,Defence,middle_age
+1900,Giorgos Kyriakopoulos,GRE,Bologna,Serie A,Defence,middle_age
+1901,Giorgos Kyriakopoulos,GRE,Bologna,Serie A,Defence,middle_age
+1902,Lewis Ferguson,SCO,Bologna,Serie A,Midfield,young
+1903,Przemysław Wiśniewski,POL,Spezia,Serie A,Defence,young
+1904,Luka Romero,ARG,Lazio,Serie A,Forward,young
+1905,Mickaël Cuisance,FRA,Sampdoria,Serie A,Midfield,young
+1906,Erik Botheim,NOR,Salernitana,Serie A,Midfield,young
+1907,Lassana Coulibaly,MLI,Salernitana,Serie A,Midfield,middle_age
+1908,Mert Müldür,TUR,Sassuolo,Serie A,Defence,young
+1909,Lorenzo Montipò,ITA,Hellas Verona,Serie A,Goalkeeper,middle_age
+1910,Vincenzo Fiorillo,ITA,Salernitana,Serie A,Goalkeeper,seniors
+1911,Ruan,BRA,Sassuolo,Serie A,Defence,young
+1912,Koffi Djidji,CIV,Torino,Serie A,Defence,middle_age
+1913,Alessandro Berardi,ITA,Hellas Verona,Serie A,Goalkeeper,middle_age
+1914,Diego Coppola,ITA,Hellas Verona,Serie A,Defence,young
+1915,Simone Perilli,ITA,Hellas Verona,Serie A,Goalkeeper,middle_age
+1916,Yayah Kallon,SLE,Hellas Verona,Serie A,Midfield,young
+1917,Musa Juwara,GAM,Bologna,Serie A,Midfield,young
+1918,Filippo Ranocchia,ITA,Monza,Serie A,Midfield,young
+1919,Mikael Ellertsson,ISL,Spezia,Serie A,Midfield,young
+1920,Tommaso Augello,ITA,Sampdoria,Serie A,Defence,middle_age
+1921,Samir Ujkani,KVX,Empoli,Serie A,Goalkeeper,seniors
+1922,Gabriel Strefezza,BRA,Lecce,Serie A,Forward,young
+1923,Juan David Cabal,COL,Hellas Verona,Serie A,Defence,young
+1924,Ethan Ampadu,WAL,Spezia,Serie A,Defence,young
+1925,Pablo Galdames Millán,CHI,Cremonese,Serie A,Midfield,young
+1926,Domen Črnigoj,SVN,Salernitana,Serie A,Midfield,middle_age
+1927,Dany Mota,POR,Monza,Serie A,Forward,young
+1928,Alessandro Buongiorno,ITA,Torino,Serie A,Defence,young
+1929,Raimonds Krollis,Unknown,Spezia,Serie A,Forward,young
+1930,Hans Nicolussi Caviglia,ITA,Salernitana,Serie A,Midfield,young
+1931,Jean-Victor Makengo,FRA,Udinese,Serie A,Midfield,young
+1932,Ajdin Hrustic,AUS,Hellas Verona,Serie A,Midfield,middle_age
+1933,Paweł Dawidowicz,POL,Hellas Verona,Serie A,Defence,middle_age
+1934,Joaquín Sosa,Unknown,Bologna,Serie A,Defence,young
+1935,Aleksa Terzić,SRB,Fiorentina,Serie A,Defence,young
+1936,João Moutinho,POR,Spezia,Serie A,Defence,young
+1937,João Moutinho,POR,Spezia,Serie A,Defence,young
+1938,João Moutinho,POR,Spezia,Serie A,Defence,young
+1939,João Moutinho,POR,Spezia,Serie A,Defence,young
+1940,João Moutinho,POR,Wolves,Premier League,Midfield,seniors
+1941,João Moutinho,POR,Wolves,Premier League,Midfield,seniors
+1942,João Moutinho,POR,Wolves,Premier League,Midfield,seniors
+1943,João Moutinho,POR,Wolves,Premier League,Midfield,seniors
+1944,Emanuel Aiwum,AUT,Cremonese,Serie A,Defence,young
+1945,Sebastian Walukiewicz,POL,Empoli,Serie A,Defence,young
+1946,Daniele Padelli,ITA,Udinese,Serie A,Goalkeeper,seniors
+1947,Gabriele Ferrarini,ITA,Monza,Serie A,Defence,young
+1948,Michele Cerofolini,ITA,Fiorentina,Serie A,Goalkeeper,young
+1949,Federico Marchetti,ITA,Spezia,Serie A,Goalkeeper,seniors
+1950,Felix Afena-Gyan,GHA,Cremonese,Serie A,Forward,young
+1951,Luca Zanimacchia,ITA,Cremonese,Serie A,Midfield,young
+1952,Mouhamadou Sarr,SEN,Cremonese,Serie A,Goalkeeper,young
+1953,Samuele Perisan,ITA,Empoli,Serie A,Goalkeeper,young
+1954,Cristian Volpato,ITA,Roma,Serie A,Midfield,young
+1955,Edoardo Bove,ITA,Roma,Serie A,Midfield,young
+1956,Pietro Boer,ITA,Roma,Serie A,Goalkeeper,young
+1957,Morten Hjulmand,DEN,Lecce,Serie A,Midfield,young
+1958,Emirhan İlkhan,TUR,Torino,Serie A,Midfield,young
+1959,Emirhan İlkhan,TUR,Torino,Serie A,Midfield,young
+1960,Emirhan İlkhan,TUR,Torino,Serie A,Midfield,young
+1961,Emirhan İlkhan,TUR,Torino,Serie A,Midfield,young
+1962,Giulio Donati,ITA,Monza,Serie A,Defence,seniors
+1963,Jack Hendry,SCO,Cremonese,Serie A,Defence,middle_age
+1964,Nicola Rigoni,ITA,Monza,Serie A,Midfield,middle_age
+1965,Nadir Zortea,ITA,Atalanta,Serie A,Defence,young
+1966,Nadir Zortea,ITA,Atalanta,Serie A,Defence,young
+1967,Nadir Zortea,ITA,Atalanta,Serie A,Defence,young
+1968,Nadir Zortea,ITA,Atalanta,Serie A,Defence,young
+1969,Alessio Zerbin,ITA,Napoli,Serie A,Forward,young
+1970,Leonardo Buta,POR,Udinese,Serie A,Defence,young
+1971,Ivan Ilić,SRB,Hellas Verona,Serie A,Midfield,young
+1972,Ivan Ilić,SRB,Hellas Verona,Serie A,Midfield,young
+1973,Ivan Ilić,SRB,Hellas Verona,Serie A,Midfield,young
+1974,Ivan Ilić,SRB,Hellas Verona,Serie A,Midfield,young
+1975,Mateusz Praszelik,POL,Hellas Verona,Serie A,Midfield,young
+1976,Salvador Ferrer,ESP,Spezia,Serie A,Defence,young
+1977,Diego Valencia,Unknown,Salernitana,Serie A,Forward,young
+1978,Marko Lazetić,SRB,Milan,Serie A,Forward,young
+1979,John Björkengren,SWE,Lecce,Serie A,Midfield,young
+1980,Yıldırım Mert Çetin,TUR,Lecce,Serie A,Defence,young
+1981,Pablo Rodríguez,ESP,Lecce,Serie A,Forward,young
+1982,Devis Vásquez,Unknown,Milan,Serie A,Goalkeeper,young
+1983,Antonis Siatounis,GRE,Monza,Serie A,Midfield,young
+1984,Pasquale Mazzocchi,ITA,Salernitana,Serie A,Defence,middle_age
+1985,Liberato Cacace,NZL,Empoli,Serie A,Defence,young
+1986,Destiny Udogie,ITA,Udinese,Serie A,Defence,young
+1987,Mattia Chiesa,ITA,Hellas Verona,Serie A,Goalkeeper,young
+1988,Eugenio Lamanna,ITA,Monza,Serie A,Goalkeeper,seniors
+1989,Petar Zovko,BIH,Spezia,Serie A,Goalkeeper,young
+1990,Tommaso Milanese,ITA,Cremonese,Serie A,Midfield,young
+1991,Alex Cordaz,ITA,Inter,Serie A,Goalkeeper,seniors
+1992,Martin Erlic,CRO,Sassuolo,Serie A,Defence,young
+1993,Wilfried Singo,CIV,Torino,Serie A,Defence,young
+1994,Emil Holm,SWE,Spezia,Serie A,Defence,young
+1995,Leandro Sanca,GNB,Spezia,Serie A,Forward,young
+1996,Marios Oikonomou,GRE,Sampdoria,Serie A,Defence,middle_age
+1997,Giacomo Quagliata,ITA,Cremonese,Serie A,Defence,young
+1998,Franco Carboni,ITA,Monza,Serie A,Defence,young
+1999,Festy Ebosele,IRL,Udinese,Serie A,Defence,young
+2000,Aurélien Nguiamba,FRA,Spezia,Serie A,Midfield,young
+2001,Marcin Listkowski,POL,Lecce,Serie A,Midfield,young
+2002,Jaime Báez,URU,Cremonese,Serie A,Defence,middle_age
+2003,Beto,GNB,Udinese,Serie A,Forward,young
+2004,Jayden Braaf,NED,Hellas Verona,Serie A,Midfield,young
+2005,Warren Bondo,FRA,Monza,Serie A,Midfield,young
+2006,Alessandro Bianco,ITA,Fiorentina,Serie A,Midfield,young
+2007,Aimar Sher,SWE,Spezia,Serie A,Midfield,young
+2008,Dávid Strelec,SVK,Spezia,Serie A,Forward,young
+2009,Simone Bastoni,ITA,Spezia,Serie A,Midfield,young
+2010,Tio Cipot,Unknown,Spezia,Serie A,Midfield,young
+2011,Marius Adamonis,LTU,Lazio,Serie A,Goalkeeper,young
+2012,Lorenzo Malagrida,Unknown,Sampdoria,Serie A,Midfield,young
+2013,Nicola Ravaglia,ITA,Sampdoria,Serie A,Goalkeeper,seniors
+2014,Francesco Rossi,ITA,Atalanta,Serie A,Goalkeeper,middle_age
+2015,Emanuele Valeri,ITA,Cremonese,Serie A,Defence,young
+2016,Marco Carnesecchi,ITA,Cremonese,Serie A,Goalkeeper,young
+2017,Emmanuel Ekong,SWE,Empoli,Serie A,Forward,young
+2018,Fabiano Parisi,ITA,Empoli,Serie A,Defence,young
+2019,Grigoris Kastanos,CYP,Salernitana,Serie A,Midfield,young
+2020,Brian Oddei,ITA,Sassuolo,Serie A,Midfield,young
+2021,Daniel Samek,Unknown,Lecce,Serie A,Midfield,young
+2022,Joel Voelkerling Persson,Unknown,Lecce,Serie A,Forward,young
+2023,Tommaso Cassandro,ITA,Lecce,Serie A,Defence,young
+2024,Gianluca Gaetano,ITA,Napoli,Serie A,Midfield,young
+2025,Andrea Colpani,ITA,Monza,Serie A,Midfield,young
+2026,Axel Guessand,FRA,Udinese,Serie A,Defence,young
+2027,Alessandro Sorrentino,ITA,Monza,Serie A,Goalkeeper,young
+2028,Gerard Yepes,ESP,Sampdoria,Serie A,Midfield,young
+2029,Simone Trimboli,ITA,Sampdoria,Serie A,Midfield,young
+2030,Gianluca Saro,ITA,Cremonese,Serie A,Goalkeeper,young
+2031,Leonardo Sernicola,ITA,Cremonese,Serie A,Defence,young
+2032,Maissa Ndiaye,Unknown,Cremonese,Serie A,Defence,young
+2033,Koni De Winter,Unknown,Empoli,Serie A,Defence,young
+2034,Nicolò Cambiaghi,ITA,Empoli,Serie A,Forward,young
+2035,Federico Brancolini,ITA,Lecce,Serie A,Goalkeeper,young
+2036,Wladimiro Falcone,ITA,Lecce,Serie A,Goalkeeper,middle_age
+2037,Jakub Kiwior,POL,Spezia,Serie A,Defence,young
+2038,Jakub Kiwior,POL,Spezia,Serie A,Defence,young
+2039,Jakub Kiwior,POL,Spezia,Serie A,Defence,young
+2040,Jakub Kiwior,POL,Spezia,Serie A,Defence,young
+2041,Jakub Kiwior,POL,Arsenal,Premier League,Defence,young
+2042,Jakub Kiwior,POL,Arsenal,Premier League,Defence,young
+2043,Jakub Kiwior,POL,Arsenal,Premier League,Defence,young
+2044,Jakub Kiwior,POL,Arsenal,Premier League,Defence,young
+2045,Bruno Amione,ARG,Sampdoria,Serie A,Defence,young
+2046,Bruno Amione,ARG,Sampdoria,Serie A,Defence,young
+2047,Bruno Amione,ARG,Sampdoria,Serie A,Defence,young
+2048,Bruno Amione,ARG,Sampdoria,Serie A,Defence,young
+2049,Kristoffer Askildsen,NOR,Lecce,Serie A,Midfield,young
+2050,Abdou Harroui,NED,Sassuolo,Serie A,Midfield,young
+2051,Valentin Gendrey,FRA,Lecce,Serie A,Defence,young
+2052,Gvidas Gineitis,Unknown,Torino,Serie A,Midfield,young
+2053,Luca Gemello,ITA,Torino,Serie A,Goalkeeper,young
+2054,Michel Ndary Adopo,FRA,Torino,Serie A,Midfield,young
+2055,Abdelhamid Sabiri,MAR,Sampdoria,Serie A,Midfield,young
+2056,Jacopo Fazzini,Unknown,Empoli,Serie A,Midfield,young
+2057,Francesco Orlando,Unknown,Salernitana,Serie A,Midfield,young
+2058,Sanasi Sy,FRA,Salernitana,Serie A,Defence,young
+2059,Alessandro Russo,ITA,Sassuolo,Serie A,Goalkeeper,young
+2060,Emil Ceide,NOR,Sassuolo,Serie A,Forward,young
+2061,Alessandro Cortinovis,ITA,Hellas Verona,Serie A,Midfield,young
+2062,Filippo Terracciano,Unknown,Hellas Verona,Serie A,Midfield,young
+2063,Andrew Gravillon,GLP,Torino,Serie A,Defence,young
+2064,Antonio Raimondo,Unknown,Bologna,Serie A,Forward,young
+2065,Kacper Urbanski,POL,Bologna,Serie A,Midfield,young
+2066,Orji Okwonkwo,NGA,Bologna,Serie A,Midfield,young
+2067,Daniele Montevago,Unknown,Sampdoria,Serie A,Forward,young
+2068,Davide Marfella,ITA,Napoli,Serie A,Goalkeeper,young
+2069,Ibrahim Sulemana,Unknown,Hellas Verona,Serie A,Midfield,young
+2070,Pepín,EQG,Monza,Serie A,Midfield,young
+2071,Petko Hristov,BUL,Spezia,Serie A,Defence,young
+2072,Manuel De Luca,ITA,Sampdoria,Serie A,Forward,young
+2073,Matteo Ruggeri,ITA,Atalanta,Serie A,Defence,young
+2074,Dorian Ciężkowski,POL,Cremonese,Serie A,Goalkeeper,young
+2075,James Abankwah,Unknown,Udinese,Serie A,Defence,young
+2076,Matthew Garbett,Unknown,Torino,Serie A,Midfield,young
+2077,Federico Ravaglia,ITA,Bologna,Serie A,Goalkeeper,young
+2078,Telasco Segovia,Unknown,Sampdoria,Serie A,Midfield,young
+2079,Emil Roback,Unknown,Milan,Serie A,Forward,young
+2080,Mats Lemmens,Unknown,Lecce,Serie A,Defence,young
+2081,Edoardo Piana,Unknown,Udinese,Serie A,Goalkeeper,young
+2082,Simone Pafundi,Unknown,Udinese,Serie A,Midfield,young
+2083,Nicola Bagnolini,Unknown,Bologna,Serie A,Goalkeeper,young
+2084,Wisdom Amey,Unknown,Bologna,Serie A,Defence,young
+2085,Elia Tantalocchi,Unknown,Sampdoria,Serie A,Goalkeeper,young
+2086,Christian Acella,ITA,Cremonese,Serie A,Midfield,young
+2087,Duccio Degli Innocenti,Unknown,Empoli,Serie A,Midfield,young
+2088,Andrei Motoc,Unknown,Salernitana,Serie A,Defence,young
+2089,Antonio Pio Iervolino,Unknown,Salernitana,Serie A,Midfield,young
+2090,Luca D'Andrea,Unknown,Sassuolo,Serie A,Midfield,young
+2091,Karim Zedadka,FRA,Napoli,Serie A,Forward,young
+2092,Lovro Stubljar,Unknown,Empoli,Serie A,Goalkeeper,young
+2093,Julian Kristoffersen,NOR,Salernitana,Serie A,Forward,young
+2094,Medon Berisha,Unknown,Lecce,Serie A,Midfield,young
+2095,Matteo Fiorenza,Unknown,Torino,Serie A,Goalkeeper,young
+2096,Jasper Samooja,FIN,Lecce,Serie A,Goalkeeper,young
+2097,Samuele Vignato,ITA,Monza,Serie A,Midfield,young
+2098,Martin Turk,SVN,Sampdoria,Serie A,Goalkeeper,young
+2099,Simone Muratore,ITA,Atalanta,Serie A,Midfield,young
+2100,Gabriele Guarino,Unknown,Empoli,Serie A,Defence,young
+2101,Julius Beck,Unknown,Spezia,Serie A,Midfield,young
+2102,Þórir Jóhann Helgason,ISL,Lecce,Serie A,Midfield,young
+2103,Cristiano Ronaldo,POR,Manchester Utd,Premier League,Forward,seniors
+2104,Kevin De Bruyne,BEL,Manchester City,Premier League,Midfield,middle_age
+2105,David de Gea,ESP,Manchester Utd,Premier League,Goalkeeper,middle_age
+2106,Erling Haaland,NOR,Manchester City,Premier League,Forward,young
+2107,Casemiro,BRA,Manchester Utd,Premier League,Midfield,middle_age
+2108,Casemiro,BRA,Manchester Utd,Premier League,Midfield,middle_age
+2109,Casemiro,BRA,Manchester Utd,Premier League,Midfield,middle_age
+2110,Casemiro,BRA,Manchester Utd,Premier League,Midfield,middle_age
+2111,Jadon Sancho,ENG,Manchester Utd,Premier League,Forward,young
+2112,Mohamed Salah,EGY,Liverpool,Premier League,Forward,middle_age
+2113,Raphaël Varane,FRA,Manchester Utd,Premier League,Defence,middle_age
+2114,Raheem Sterling,ENG,Chelsea,Premier League,Forward,middle_age
+2115,Jack Grealish,ENG,Manchester City,Premier League,Forward,middle_age
+2116,Kalidou Koulibaly,SEN,Chelsea,Premier League,Defence,middle_age
+2117,N'Golo Kanté,FRA,Chelsea,Premier League,Midfield,middle_age
+2118,Gabriel Jesus,BRA,Arsenal,Premier League,Forward,young
+2119,Anthony Martial,FRA,Manchester Utd,Premier League,Forward,middle_age
+2120,Kai Havertz,GER,Chelsea,Premier League,Forward,young
+2121,Reece James,ENG,Chelsea,Premier League,Defence,young
+2122,John Stones,ENG,Manchester City,Premier League,Defence,middle_age
+2123,Bruno Fernandes,POR,Manchester Utd,Premier League,Midfield,middle_age
+2124,Phil Foden,ENG,Manchester City,Premier League,Forward,young
+2125,Virgil van Dijk,NED,Liverpool,Premier League,Defence,middle_age
+2126,Thomas Partey,GHA,Arsenal,Premier League,Midfield,middle_age
+2127,Antony,BRA,Manchester Utd,Premier League,Forward,young
+2128,Marcus Rashford,ENG,Manchester Utd,Premier League,Forward,young
+2129,Harry Kane,ENG,Tottenham,Premier League,Forward,middle_age
+2130,Thiago Alcántara,ESP,Liverpool,Premier League,Midfield,middle_age
+2131,Wesley Fofana,FRA,Chelsea,Premier League,Defence,young
+2132,Wesley Fofana,FRA,Chelsea,Premier League,Defence,young
+2133,Wesley Fofana,FRA,Chelsea,Premier League,Defence,young
+2134,Wesley Fofana,FRA,Chelsea,Premier League,Defence,young
+2135,Harry Maguire,ENG,Manchester Utd,Premier League,Defence,middle_age
+2136,Son Heung-min,KOR,Tottenham,Premier League,Midfield,middle_age
+2137,Ben Chilwell,ENG,Chelsea,Premier League,Defence,young
+2138,Ivan Perišić,CRO,Tottenham,Premier League,Defence,seniors
+2139,Fabinho,BRA,Liverpool,Premier League,Midfield,middle_age
+2140,Roberto Firmino,BRA,Liverpool,Premier League,Forward,middle_age
+2141,Trent Alexander-Arnold,ENG,Liverpool,Premier League,Defence,young
+2142,César Azpilicueta,ESP,Chelsea,Premier League,Defence,seniors
+2143,Enzo Fernández,ARG,Chelsea,Premier League,Midfield,young
+2144,Manuel Akanji,SUI,Manchester City,Premier League,Defence,middle_age
+2145,Rúben Dias,POR,Manchester City,Premier League,Defence,young
+2146,Marc Cucurella,ESP,Chelsea,Premier League,Defence,young
+2147,Cristian Romero,ARG,Tottenham,Premier League,Defence,young
+2148,Lucas Digne,FRA,Aston Villa,Premier League,Defence,middle_age
+2149,Pierre-Emerick Aubameyang,GAB,Chelsea,Premier League,Forward,seniors
+2150,Pierre-Emerick Aubameyang,GAB,Chelsea,Premier League,Forward,seniors
+2151,Pierre-Emerick Aubameyang,GAB,Chelsea,Premier League,Forward,seniors
+2152,Pierre-Emerick Aubameyang,GAB,Chelsea,Premier League,Forward,seniors
+2153,Kyle Walker,ENG,Manchester City,Premier League,Defence,seniors
+2154,Riyad Mahrez,ALG,Manchester City,Premier League,Forward,middle_age
+2155,Oleksandr Zinchenko,UKR,Arsenal,Premier League,Defence,young
+2156,Christian Eriksen,DEN,Manchester Utd,Premier League,Midfield,middle_age
+2157,Luke Shaw,ENG,Manchester Utd,Premier League,Defence,middle_age
+2158,Lucas Paquetá,BRA,West Ham,Premier League,Midfield,young
+2159,Alisson,BRA,Liverpool,Premier League,Goalkeeper,middle_age
+2160,Boubacar Kamara,FRA,Aston Villa,Premier League,Midfield,young
+2161,Christian Pulisic,USA,Chelsea,Premier League,Defence,young
+2162,Kepa Arrizabalaga,ESP,Chelsea,Premier League,Goalkeeper,middle_age
+2163,Bernardo Silva,POR,Manchester City,Premier League,Midfield,middle_age
+2164,Kalvin Phillips,ENG,Manchester City,Premier League,Midfield,middle_age
+2165,Clément Lenglet,FRA,Tottenham,Premier League,Defence,middle_age
+2166,Darwin Núñez,URU,Liverpool,Premier League,Forward,young
+2167,Diogo Jota,POR,Liverpool,Premier League,Forward,young
+2168,Jordan Henderson,ENG,Liverpool,Premier League,Midfield,seniors
+2169,Jamie Vardy,ENG,Leicester City,Premier League,Forward,seniors
+2170,İlkay Gündoğan,GER,Manchester City,Premier League,Midfield,middle_age
+2171,Wilfried Zaha,CIV,Crystal Palace,Premier League,Forward,middle_age
+2172,Danny Ings,ENG,West Ham,Premier League,Forward,middle_age
+2173,Danny Ings,ENG,West Ham,Premier League,Forward,middle_age
+2174,Danny Ings,ENG,West Ham,Premier League,Forward,middle_age
+2175,Danny Ings,ENG,West Ham,Premier League,Forward,middle_age
+2176,Kurt Zouma,FRA,West Ham,Premier League,Defence,middle_age
+2177,Philippe Coutinho,BRA,Aston Villa,Premier League,Midfield,middle_age
+2178,Ben White,ENG,Arsenal,Premier League,Defence,young
+2179,Granit Xhaka,SUI,Arsenal,Premier League,Midfield,middle_age
+2180,Donny van de Beek,NED,Manchester Utd,Premier League,Midfield,young
+2181,Fred,BRA,Manchester Utd,Premier League,Midfield,middle_age
+2182,Lisandro Martínez,ARG,Manchester Utd,Premier League,Defence,young
+2183,Victor Lindelöf,SWE,Manchester Utd,Premier League,Defence,middle_age
+2184,Alphonse Areola,FRA,West Ham,Premier League,Goalkeeper,middle_age
+2185,Alex Oxlade-Chamberlain,ENG,Liverpool,Premier League,Forward,middle_age
+2186,Cody Gakpo,NED,Liverpool,Premier League,Forward,young
+2187,Naby Keïta,GUI,Liverpool,Premier League,Midfield,middle_age
+2188,Emiliano Martínez,ARG,Aston Villa,Premier League,Goalkeeper,middle_age
+2189,Alexander Isak,SWE,Newcastle Utd,Premier League,Forward,young
+2190,Alexander Isak,SWE,Newcastle Utd,Premier League,Forward,young
+2191,Alexander Isak,SWE,Newcastle Utd,Premier League,Forward,young
+2192,Alexander Isak,SWE,Newcastle Utd,Premier League,Forward,young
+2193,Bruno Guimarães,BRA,Newcastle Utd,Premier League,Midfield,young
+2194,Ruben Loftus-Cheek,ENG,Chelsea,Premier League,Midfield,middle_age
+2195,Abdoulaye Doucouré,MLI,Everton,Premier League,Midfield,middle_age
+2196,Alex Iwobi,NGA,Everton,Premier League,Midfield,middle_age
+2197,Yerry Mina,COL,Everton,Premier League,Defence,middle_age
+2198,Aymeric Laporte,ESP,Manchester City,Premier League,Defence,middle_age
+2199,Martin Ødegaard,NOR,Arsenal,Premier League,Midfield,young
+2200,Jorginho,ITA,Arsenal,Premier League,Midfield,middle_age
+2201,Jorginho,ITA,Arsenal,Premier League,Midfield,middle_age
+2202,Jorginho,ITA,Arsenal,Premier League,Midfield,middle_age
+2203,Jorginho,ITA,Arsenal,Premier League,Midfield,middle_age
+2204,Kieran Tierney,SCO,Arsenal,Premier League,Defence,young
+2205,Dejan Kulusevski,SWE,Tottenham,Premier League,Midfield,young
+2206,James Maddison,ENG,Leicester City,Premier League,Midfield,young
+2207,Thiago Silva,BRA,Chelsea,Premier League,Defence,seniors
+2208,Eddie Nketiah,ENG,Arsenal,Premier League,Forward,young
+2209,James Ward-Prowse,ENG,Southampton,Premier League,Midfield,middle_age
+2210,Hugo Lloris,FRA,Tottenham,Premier League,Goalkeeper,seniors
+2211,Pierre Højbjerg,DEN,Tottenham,Premier League,Midfield,middle_age
+2212,Rodrigo,ESP,Leeds United,Premier League,Forward,middle_age
+2213,Andrew Robertson,SCO,Liverpool,Premier League,Defence,middle_age
+2214,Joël Matip,CMR,Liverpool,Premier League,Defence,middle_age
+2215,Diego Carlos,BRA,Aston Villa,Premier League,Defence,middle_age
+2216,Leon Bailey,JAM,Aston Villa,Premier League,Forward,young
+2217,Raúl Jiménez,MEX,Wolves,Premier League,Forward,middle_age
+2218,Jonny Evans,NIR,Leicester City,Premier League,Defence,seniors
+2219,Kieran Trippier,ENG,Newcastle Utd,Premier League,Defence,middle_age
+2220,Matt Targett,ENG,Newcastle Utd,Premier League,Defence,middle_age
+2221,Carney Chukwuemeka,ENG,Chelsea,Premier League,Midfield,young
+2222,Hakim Ziyech,MAR,Chelsea,Premier League,Forward,middle_age
+2223,Mateo Kovačić,CRO,Chelsea,Premier League,Midfield,middle_age
+2224,Mykhailo Mudryk,UKR,Chelsea,Premier League,Forward,young
+2225,Amadou Onana,BEL,Everton,Premier League,Midfield,young
+2226,Dominic Calvert-Lewin,ENG,Everton,Premier League,Forward,young
+2227,James Tarkowski,ENG,Everton,Premier League,Defence,middle_age
+2228,Jordan Pickford,ENG,Everton,Premier League,Goalkeeper,middle_age
+2229,Dean Henderson,ENG,Nott'ham Forest,Premier League,Goalkeeper,young
+2230,Ederson,BRA,Manchester City,Premier League,Goalkeeper,middle_age
+2231,Emerson Palmieri,ITA,West Ham,Premier League,Defence,middle_age
+2232,Leandro Trossard,BEL,Arsenal,Premier League,Forward,middle_age
+2233,Leandro Trossard,BEL,Arsenal,Premier League,Forward,middle_age
+2234,Leandro Trossard,BEL,Arsenal,Premier League,Forward,middle_age
+2235,Leandro Trossard,BEL,Arsenal,Premier League,Forward,middle_age
+2236,Aaron Wan-Bissaka,ENG,Manchester Utd,Premier League,Defence,young
+2237,Lucas Moura,BRA,Tottenham,Premier League,Midfield,middle_age
+2238,Richarlison,BRA,Tottenham,Premier League,Midfield,young
+2239,Odsonne Édouard,FRA,Crystal Palace,Premier League,Forward,young
+2240,Gianluca Scamacca,ITA,West Ham,Premier League,Forward,young
+2241,Leander Dendoncker,BEL,Aston Villa,Premier League,Midfield,middle_age
+2242,Leander Dendoncker,BEL,Aston Villa,Premier League,Midfield,middle_age
+2243,Leander Dendoncker,BEL,Aston Villa,Premier League,Midfield,middle_age
+2244,Leander Dendoncker,BEL,Aston Villa,Premier League,Midfield,middle_age
+2245,Gonçalo Guedes,POR,Wolves,Premier League,Forward,young
+2246,Pablo Sarabia,ESP,Wolves,Premier League,Forward,middle_age
+2247,Sven Botman,NED,Newcastle Utd,Premier League,Defence,young
+2248,Benoît Badiashile,FRA,Chelsea,Premier League,Defence,young
+2249,Denis Zakaria,SUI,Chelsea,Premier League,Midfield,young
+2250,Denis Zakaria,SUI,Chelsea,Premier League,Midfield,young
+2251,Denis Zakaria,SUI,Chelsea,Premier League,Midfield,young
+2252,Denis Zakaria,SUI,Chelsea,Premier League,Midfield,young
+2253,Adam Lallana,ENG,Brighton,Premier League,Midfield,seniors
+2254,Keylor Navas,CRC,Nott'ham Forest,Premier League,Goalkeeper,seniors
+2255,Bernd Leno,GER,Fulham,Premier League,Goalkeeper,middle_age
+2256,Layvin Kurzawa,FRA,Fulham,Premier League,Defence,middle_age
+2257,Benjamin Mendy,FRA,Manchester City,Premier League,Defence,middle_age
+2258,Nathan Aké,NED,Manchester City,Premier League,Defence,middle_age
+2259,Eric Dier,ENG,Tottenham,Premier League,Defence,middle_age
+2260,Pedro Porro,ESP,Tottenham,Premier League,Defence,young
+2261,Michail Antonio,JAM,West Ham,Premier League,Forward,seniors
+2262,Joe Gomez,ENG,Liverpool,Premier League,Defence,young
+2263,Matheus Nunes,POR,Wolves,Premier League,Midfield,young
+2264,Joelinton,BRA,Newcastle Utd,Premier League,Midfield,young
+2265,Mislav Oršić,CRO,Southampton,Premier League,Midfield,middle_age
+2266,Ben Davies,WAL,Tottenham,Premier League,Defence,middle_age
+2267,Joachim Andersen,DEN,Crystal Palace,Premier League,Defence,middle_age
+2268,Nathaniel Clyne,ENG,Crystal Palace,Premier League,Defence,middle_age
+2269,Thilo Kehrer,GER,West Ham,Premier League,Defence,young
+2270,Matty Cash,POL,Aston Villa,Premier League,Defence,young
+2271,Tyrone Mings,ENG,Aston Villa,Premier League,Defence,middle_age
+2272,Nélson Semedo,POR,Wolves,Premier League,Defence,middle_age
+2273,Boubakary Soumaré,FRA,Leicester City,Premier League,Midfield,young
+2274,Kelechi Iheanacho,NGA,Leicester City,Premier League,Forward,young
+2275,Ricardo Pereira,POR,Leicester City,Premier League,Defence,middle_age
+2276,Ryan Bertrand,ENG,Leicester City,Premier League,Defence,seniors
+2277,Chris Wood,NZL,Newcastle Utd,Premier League,Forward,middle_age
+2278,Chris Wood,NZL,Newcastle Utd,Premier League,Forward,middle_age
+2279,Chris Wood,NZL,Newcastle Utd,Premier League,Forward,middle_age
+2280,Chris Wood,NZL,Newcastle Utd,Premier League,Forward,middle_age
+2281,Joe Willock,ENG,Newcastle Utd,Premier League,Midfield,young
+2282,Mason Mount,ENG,Chelsea,Premier League,Midfield,young
+2283,Idrissa Gana Gueye,SEN,Everton,Premier League,Midfield,seniors
+2284,Michael Keane,ENG,Everton,Premier League,Defence,middle_age
+2285,Salomón Rondón,VEN,Everton,Premier League,Forward,seniors
+2286,Jesse Lingard,ENG,Nott'ham Forest,Premier League,Forward,middle_age
+2287,Morgan Gibbs-White,ENG,Nott'ham Forest,Premier League,Midfield,young
+2288,Morgan Gibbs-White,ENG,Nott'ham Forest,Premier League,Midfield,young
+2289,Morgan Gibbs-White,ENG,Nott'ham Forest,Premier League,Midfield,young
+2290,Morgan Gibbs-White,ENG,Nott'ham Forest,Premier League,Midfield,young
+2291,Aleksandar Mitrović,SRB,Fulham,Premier League,Forward,middle_age
+2292,Bertrand Traoré,BFA,Aston Villa,Premier League,Forward,middle_age
+2293,Cédric Soares,POR,Arsenal,Premier League,Defence,middle_age
+2294,Cédric Soares,POR,Arsenal,Premier League,Defence,middle_age
+2295,Cédric Soares,POR,Arsenal,Premier League,Defence,middle_age
+2296,Cédric Soares,POR,Arsenal,Premier League,Defence,middle_age
+2297,Phil Jones,ENG,Manchester Utd,Premier League,Defence,middle_age
+2298,Tyrell Malacia,NED,Manchester Utd,Premier League,Defence,young
+2299,Theo Walcott,ENG,Southampton,Premier League,Forward,seniors
+2300,Fraser Forster,ENG,Tottenham,Premier League,Goalkeeper,seniors
+2301,Rodrigo Bentancur,URU,Tottenham,Premier League,Midfield,young
+2302,Luka Milivojević,SRB,Crystal Palace,Premier League,Midfield,middle_age
+2303,Vicente Guaita,ESP,Crystal Palace,Premier League,Goalkeeper,seniors
+2304,Douglas Luiz,BRA,Aston Villa,Premier League,Midfield,young
+2305,Emi Buendía,ARG,Aston Villa,Premier League,Midfield,young
+2306,Ollie Watkins,ENG,Aston Villa,Premier League,Forward,middle_age
+2307,Dennis Praet,BEL,Leicester City,Premier League,Midfield,middle_age
+2308,Patson Daka,ZAM,Leicester City,Premier League,Forward,young
+2309,Wilfred Ndidi,NGA,Leicester City,Premier League,Midfield,young
+2310,Lewis Dunk,ENG,Brighton,Premier League,Defence,middle_age
+2311,Ben Godfrey,ENG,Everton,Premier League,Defence,young
+2312,Bukayo Saka,ENG,Arsenal,Premier League,Forward,young
+2313,Gabriel Martinelli,BRA,Arsenal,Premier League,Forward,young
+2314,Joe Aribo,NGA,Southampton,Premier League,Midfield,middle_age
+2315,Patrick Bamford,ENG,Leeds United,Premier League,Forward,middle_age
+2316,Angelo Ogbonna,ITA,West Ham,Premier League,Defence,seniors
+2317,Manuel Lanzini,ARG,West Ham,Premier League,Midfield,middle_age
+2318,Ibrahima Konaté,FRA,Liverpool,Premier League,Defence,young
+2319,Jacob Ramsey,ENG,Aston Villa,Premier League,Midfield,young
+2320,Jannik Vestergaard,DEN,Leicester City,Premier League,Defence,middle_age
+2321,Allan Saint-Maximin,FRA,Newcastle Utd,Premier League,Forward,young
+2322,Jonjo Shelvey,ENG,Newcastle Utd,Premier League,Midfield,middle_age
+2323,Jonjo Shelvey,ENG,Newcastle Utd,Premier League,Midfield,middle_age
+2324,Jonjo Shelvey,ENG,Newcastle Utd,Premier League,Midfield,middle_age
+2325,Jonjo Shelvey,ENG,Newcastle Utd,Premier League,Midfield,middle_age
+2326,Mason Holgate,ENG,Everton,Premier League,Defence,young
+2327,Issa Diop,FRA,Fulham,Premier League,Defence,young
+2328,Brandon Williams,ENG,Manchester Utd,Premier League,Defence,young
+2329,Moussa Djenepo,MLI,Southampton,Premier League,Defence,young
+2330,Stuart Armstrong,SCO,Southampton,Premier League,Midfield,middle_age
+2331,Davinson Sánchez,COL,Tottenham,Premier League,Defence,middle_age
+2332,Luis Sinisterra,COL,Leeds United,Premier League,Forward,young
+2333,Łukasz Fabiański,POL,West Ham,Premier League,Goalkeeper,seniors
+2334,Maxwel Cornet,CIV,West Ham,Premier League,Forward,young
+2335,Pablo Fornals,ESP,West Ham,Premier League,Forward,middle_age
+2336,Tomáš Souček,CZE,West Ham,Premier League,Midfield,middle_age
+2337,Nathaniel Phillips,ENG,Liverpool,Premier League,Defence,young
+2338,Timothy Castagne,BEL,Leicester City,Premier League,Defence,middle_age
+2339,Aaron Ramsdale,ENG,Arsenal,Premier League,Goalkeeper,young
+2340,Reiss Nelson,ENG,Arsenal,Premier League,Forward,young
+2341,Scott McTominay,SCO,Manchester Utd,Premier League,Midfield,young
+2342,Jan Bednarek,POL,Southampton,Premier League,Defence,middle_age
+2343,Jan Bednarek,POL,Southampton,Premier League,Defence,middle_age
+2344,Jan Bednarek,POL,Southampton,Premier League,Defence,middle_age
+2345,Jan Bednarek,POL,Southampton,Premier League,Defence,middle_age
+2346,Mohamed Elyounoussi,NOR,Southampton,Premier League,Midfield,middle_age
+2347,Cheick Doucouré,MLI,Crystal Palace,Premier League,Midfield,young
+2348,Junior Firpo,DOM,Leeds United,Premier League,Defence,young
+2349,Declan Rice,ENG,West Ham,Premier League,Midfield,young
+2350,Jarrod Bowen,ENG,West Ham,Premier League,Forward,young
+2351,Adrián,ESP,Liverpool,Premier League,Goalkeeper,seniors
+2352,James Milner,ENG,Liverpool,Premier League,Midfield,seniors
+2353,Daniel Podence,POR,Wolves,Premier League,Forward,middle_age
+2354,Anthony Gordon,ENG,Newcastle Utd,Premier League,Forward,young
+2355,Anthony Gordon,ENG,Newcastle Utd,Premier League,Forward,young
+2356,Anthony Gordon,ENG,Newcastle Utd,Premier League,Forward,young
+2357,Anthony Gordon,ENG,Newcastle Utd,Premier League,Forward,young
+2358,Nick Pope,ENG,Newcastle Utd,Premier League,Goalkeeper,middle_age
+2359,Pascal Groß,GER,Brighton,Premier League,Midfield,middle_age
+2360,Renan Lodi,BRA,Nott'ham Forest,Premier League,Defence,young
+2361,Vitaliy Mykolenko,UKR,Everton,Premier League,Defence,young
+2362,Mohamed Elneny,EGY,Arsenal,Premier League,Midfield,middle_age
+2363,Takehiro Tomiyasu,JPN,Arsenal,Premier League,Defence,young
+2364,Adam Armstrong,ENG,Southampton,Premier League,Forward,young
+2365,Ibrahima Diallo,FRA,Southampton,Premier League,Midfield,young
+2366,Ryan Sessegnon,ENG,Tottenham,Premier League,Defence,young
+2367,Yves Bissouma,MLI,Tottenham,Premier League,Midfield,young
+2368,Chris Richards,USA,Crystal Palace,Premier League,Defence,young
+2369,Jaïro Riedewald,NED,Crystal Palace,Premier League,Defence,young
+2370,James McArthur,SCO,Crystal Palace,Premier League,Midfield,seniors
+2371,Jefferson Lerma,COL,Bournemouth,Premier League,Midfield,middle_age
+2372,Tyler Adams,USA,Leeds United,Premier League,Midfield,young
+2373,Saïd Benrahma,ALG,West Ham,Premier League,Forward,middle_age
+2374,Luis Díaz,COL,Liverpool,Premier League,Forward,young
+2375,John McGinn,SCO,Aston Villa,Premier League,Midfield,middle_age
+2376,Adama Traoré,ESP,Wolves,Premier League,Forward,middle_age
+2377,Boubacar Traoré,MLI,Wolves,Premier League,Midfield,young
+2378,Nampalys Mendy,SEN,Leicester City,Premier League,Midfield,middle_age
+2379,Emil Krafth,SWE,Newcastle Utd,Premier League,Defence,middle_age
+2380,Ben Mee,ENG,Brentford,Premier League,Defence,seniors
+2381,Edouard Mendy,SEN,Chelsea,Premier League,Goalkeeper,middle_age
+2382,Adam Webster,ENG,Brighton,Premier League,Defence,middle_age
+2383,Danny Welbeck,ENG,Brighton,Premier League,Forward,middle_age
+2384,Conor Coady,ENG,Everton,Premier League,Defence,middle_age
+2385,Séamus Coleman,IRL,Everton,Premier League,Defence,seniors
+2386,Stefan Ortega,GER,Manchester City,Premier League,Goalkeeper,middle_age
+2387,Albert Sambi Lokonga,BEL,Arsenal,Premier League,Midfield,young
+2388,Albert Sambi Lokonga,BEL,Arsenal,Premier League,Midfield,young
+2389,Albert Sambi Lokonga,BEL,Arsenal,Premier League,Midfield,young
+2390,Albert Sambi Lokonga,BEL,Arsenal,Premier League,Midfield,young
+2391,Gabriel Magalhães,BRA,Arsenal,Premier League,Defence,young
+2392,Axel Tuanzebe,ENG,Manchester Utd,Premier League,Defence,young
+2393,Alex McCarthy,ENG,Southampton,Premier League,Goalkeeper,seniors
+2394,James Tomkins,ENG,Crystal Palace,Premier League,Defence,seniors
+2395,Jean-Philippe Mateta,FRA,Crystal Palace,Premier League,Forward,young
+2396,Jeffrey Schlupp,GHA,Crystal Palace,Premier League,Midfield,middle_age
+2397,Marc Guéhi,ENG,Crystal Palace,Premier League,Defence,young
+2398,David Brooks,WAL,Bournemouth,Premier League,Forward,young
+2399,Dominic Solanke,ENG,Bournemouth,Premier League,Forward,young
+2400,Marcos Senesi,ARG,Bournemouth,Premier League,Defence,young
+2401,Neto,BRA,Bournemouth,Premier League,Goalkeeper,seniors
+2402,Jack Harrison,ENG,Leeds United,Premier League,Forward,young
+2403,Marc Roca,ESP,Leeds United,Premier League,Midfield,young
+2404,Pascal Struijk,NED,Leeds United,Premier League,Defence,young
+2405,Aaron Cresswell,ENG,West Ham,Premier League,Defence,seniors
+2406,Nayef Aguerd,MAR,West Ham,Premier League,Defence,middle_age
+2407,Kostas Tsimikas,GRE,Liverpool,Premier League,Defence,middle_age
+2408,Ashley Young,ENG,Aston Villa,Premier League,Defence,seniors
+2409,Calum Chambers,ENG,Aston Villa,Premier League,Defence,middle_age
+2410,Robin Olsen,SWE,Aston Villa,Premier League,Goalkeeper,seniors
+2411,Diego Costa,ESP,Wolves,Premier League,Forward,seniors
+2412,Pedro Neto,POR,Wolves,Premier League,Forward,young
+2413,Rúben Neves,POR,Wolves,Premier League,Midfield,young
+2414,Tetê,BRA,Leicester City,Premier League,Forward,young
+2415,Wout Faes,BEL,Leicester City,Premier League,Defence,young
+2416,Sean Longstaff,ENG,Newcastle Utd,Premier League,Midfield,young
+2417,Conor Gallagher,ENG,Chelsea,Premier League,Midfield,young
+2418,Noni Madueke,Unknown,Chelsea,Premier League,Midfield,young
+2419,Trevoh Chalobah,ENG,Chelsea,Premier League,Defence,young
+2420,Alexis Mac Allister,ARG,Brighton,Premier League,Midfield,young
+2421,Pervis Estupiñán,ECU,Brighton,Premier League,Defence,young
+2422,Neal Maupay,FRA,Everton,Premier League,Forward,young
+2423,Neco Williams,WAL,Nott'ham Forest,Premier League,Defence,young
+2424,Taiwo Awoniyi,NGA,Nott'ham Forest,Premier League,Forward,young
+2425,Andreas Pereira,BRA,Fulham,Premier League,Midfield,middle_age
+2426,Daniel James,WAL,Fulham,Premier League,Forward,young
+2427,Daniel James,WAL,Fulham,Premier League,Forward,young
+2428,Daniel James,WAL,Fulham,Premier League,Forward,young
+2429,Daniel James,WAL,Fulham,Premier League,Forward,young
+2430,João Palhinha,POR,Fulham,Premier League,Midfield,middle_age
+2431,Kenny Tete,NED,Fulham,Premier League,Defence,middle_age
+2432,Julián Álvarez,ARG,Manchester City,Premier League,Forward,young
+2433,Sergio Gómez,ESP,Manchester City,Premier League,Defence,young
+2434,Callum Wilson,ENG,Newcastle Utd,Premier League,Forward,middle_age
+2435,Fabio Vieira,POR,Arsenal,Premier League,Midfield,young
+2436,Tom Heaton,ENG,Manchester Utd,Premier League,Goalkeeper,seniors
+2437,Michael Olise,FRA,Crystal Palace,Premier League,Forward,young
+2438,Jack Stephens,ENG,Bournemouth,Premier League,Defence,middle_age
+2439,Jack Stephens,ENG,Bournemouth,Premier League,Defence,middle_age
+2440,Jack Stephens,ENG,Bournemouth,Premier League,Defence,middle_age
+2441,Jack Stephens,ENG,Bournemouth,Premier League,Defence,middle_age
+2442,Brenden Aaronson,USA,Leeds United,Premier League,Midfield,young
+2443,Stuart Dallas,NIR,Leeds United,Premier League,Defence,middle_age
+2444,Craig Dawson,ENG,West Ham,Premier League,Defence,seniors
+2445,Craig Dawson,ENG,West Ham,Premier League,Defence,seniors
+2446,Craig Dawson,ENG,West Ham,Premier League,Defence,seniors
+2447,Craig Dawson,ENG,West Ham,Premier League,Defence,seniors
+2448,Keinan Davis,ENG,Aston Villa,Premier League,Forward,young
+2449,Morgan Sanson,FRA,Aston Villa,Premier League,Midfield,middle_age
+2450,Mario Lemina,GAB,Wolves,Premier League,Midfield,middle_age
+2451,Çağlar Söyüncü,TUR,Leicester City,Premier League,Defence,middle_age
+2452,Marc Albrighton,ENG,Leicester City,Premier League,Forward,seniors
+2453,Matt Ritchie,SCO,Newcastle Utd,Premier League,Forward,seniors
+2454,Bryan Mbeumo,CMR,Brentford,Premier League,Forward,young
+2455,Asmir Begović,BIH,Everton,Premier League,Goalkeeper,seniors
+2456,André Ayew,GHA,Nott'ham Forest,Premier League,Forward,seniors
+2457,Cheikhou Kouyaté,SEN,Nott'ham Forest,Premier League,Midfield,seniors
+2458,Moussa Niakhate,SEN,Nott'ham Forest,Premier League,Defence,middle_age
+2459,Miguel Almirón,PAR,Newcastle Utd,Premier League,Forward,middle_age
+2460,Ryan Fraser,SCO,Newcastle Utd,Premier League,Forward,middle_age
+2461,Emile Smith Rowe,ENG,Arsenal,Premier League,Midfield,young
+2462,Rob Holding,ENG,Arsenal,Premier League,Defence,middle_age
+2463,William Saliba,FRA,Arsenal,Premier League,Defence,young
+2464,Martin Dúbravka,SVK,Manchester Utd,Premier League,Goalkeeper,seniors
+2465,Duje Ćaleta-Car,CRO,Southampton,Premier League,Defence,young
+2466,Kamaldeen Sulemana,GHA,Southampton,Premier League,Forward,young
+2467,Emerson,BRA,Tottenham,Premier League,Defence,young
+2468,Oliver Skipp,ENG,Tottenham,Premier League,Midfield,young
+2469,Sam Johnstone,ENG,Crystal Palace,Premier League,Goalkeeper,middle_age
+2470,Tyrick Mitchell,ENG,Crystal Palace,Premier League,Defence,young
+2471,Lewis Cook,ENG,Bournemouth,Premier League,Midfield,young
+2472,Philip Billing,DEN,Bournemouth,Premier League,Midfield,middle_age
+2473,Rasmus Kristensen,DEN,Leeds United,Premier League,Defence,young
+2474,Robin Koch,GER,Leeds United,Premier League,Defence,middle_age
+2475,Fabio Carvalho,POR,Liverpool,Premier League,Midfield,young
+2476,Harvey Elliott,ENG,Liverpool,Premier League,Midfield,young
+2477,Stefan Bajcetic,Unknown,Liverpool,Premier League,Midfield,young
+2478,Frederic Guilbert,FRA,Aston Villa,Premier League,Defence,middle_age
+2479,Danny Ward,WAL,Leicester City,Premier League,Goalkeeper,middle_age
+2480,Harry Souttar,AUS,Leicester City,Premier League,Defence,young
+2481,Harvey Barnes,ENG,Leicester City,Premier League,Forward,young
+2482,Fabian Schär,SUI,Newcastle Utd,Premier League,Defence,middle_age
+2483,Jamaal Lascelles,ENG,Newcastle Utd,Premier League,Defence,middle_age
+2484,Armando Broja,ALB,Chelsea,Premier League,Forward,young
+2485,Gaga Slonina,USA,Chelsea,Premier League,Goalkeeper,young
+2486,Joël Veltman,NED,Brighton,Premier League,Defence,middle_age
+2487,Solly March,ENG,Brighton,Premier League,Defence,middle_age
+2488,Andros Townsend,ENG,Everton,Premier League,Midfield,middle_age
+2489,Emmanuel Dennis,NGA,Nott'ham Forest,Premier League,Forward,young
+2490,Remo Freuler,SUI,Nott'ham Forest,Premier League,Midfield,middle_age
+2491,Willy Boly,CIV,Nott'ham Forest,Premier League,Defence,middle_age
+2492,Carlos Vinícius,BRA,Fulham,Premier League,Forward,middle_age
+2493,Kevin Mbabu,SUI,Fulham,Premier League,Defence,middle_age
+2494,Shane Duffy,IRL,Fulham,Premier League,Defence,middle_age
+2495,Tosin Adarabioyo,ENG,Fulham,Premier League,Defence,young
+2496,Willian,BRA,Fulham,Premier League,Forward,seniors
+2497,Jamal Lewis,NIR,Newcastle Utd,Premier League,Defence,young
+2498,Matt Turner,USA,Arsenal,Premier League,Goalkeeper,middle_age
+2499,Jack Butland,ENG,Manchester Utd,Premier League,Goalkeeper,middle_age
+2500,Wout Weghorst,NED,Manchester Utd,Premier League,Forward,middle_age
+2501,Ainsley Maitland-Niles,ENG,Southampton,Premier League,Defence,young
+2502,Lyanco,BRA,Southampton,Premier League,Defence,young
+2503,Joel Ward,ENG,Crystal Palace,Premier League,Defence,seniors
+2504,Jordan Ayew,GHA,Crystal Palace,Premier League,Forward,middle_age
+2505,Will Hughes,ENG,Crystal Palace,Premier League,Midfield,middle_age
+2506,Adam Smith,ENG,Bournemouth,Premier League,Defence,middle_age
+2507,Chris Mepham,WAL,Bournemouth,Premier League,Defence,young
+2508,Dango Ouattara,BFA,Bournemouth,Premier League,Midfield,young
+2509,Junior Stanislas,ENG,Bournemouth,Premier League,Midfield,seniors
+2510,Ryan Fredericks,ENG,Bournemouth,Premier League,Defence,middle_age
+2511,Maximilian Wöber,AUT,Leeds United,Premier League,Defence,young
+2512,Vladimír Coufal,CZE,West Ham,Premier League,Defence,middle_age
+2513,Jonny Castro,ESP,Wolves,Premier League,Defence,middle_age
+2514,Sasa Kalajdzic,AUT,Wolves,Premier League,Forward,young
+2515,Sasa Kalajdzic,AUT,Wolves,Premier League,Forward,young
+2516,Sasa Kalajdzic,AUT,Wolves,Premier League,Forward,young
+2517,Sasa Kalajdzic,AUT,Wolves,Premier League,Forward,young
+2518,Youri Tielemans,BEL,Leicester City,Premier League,Midfield,young
+2519,Dan Burn,ENG,Newcastle Utd,Premier League,Defence,middle_age
+2520,Jacob Murphy,ENG,Newcastle Utd,Premier League,Forward,middle_age
+2521,Javier Manquillo,ESP,Newcastle Utd,Premier League,Defence,middle_age
+2522,Paul Dummett,WAL,Newcastle Utd,Premier League,Defence,middle_age
+2523,Christian Nørgaard,DEN,Brentford,Premier League,Midfield,middle_age
+2524,Keane Lewis-Potter,ENG,Brentford,Premier League,Forward,young
+2525,Kristoffer Ajer,NOR,Brentford,Premier League,Defence,young
+2526,Rico Henry,ENG,Brentford,Premier League,Defence,young
+2527,Marcus Bettinelli,ENG,Chelsea,Premier League,Goalkeeper,middle_age
+2528,Tariq Lamptey,GHA,Brighton,Premier League,Defence,young
+2529,Serge Aurier,CIV,Nott'ham Forest,Premier League,Defence,middle_age
+2530,Bobby Reid,JAM,Fulham,Premier League,Defence,middle_age
+2531,Harry Wilson,WAL,Fulham,Premier League,Forward,young
+2532,Nathaniel Chalobah,ENG,Fulham,Premier League,Midfield,middle_age
+2533,Marquinhos,BRA,Arsenal,Premier League,Midfield,young
+2534,Che Adams,SCO,Southampton,Premier League,Forward,middle_age
+2535,Paul Onuachu,NGA,Southampton,Premier League,Forward,middle_age
+2536,Romain Perraud,FRA,Southampton,Premier League,Defence,young
+2537,Eberechi Eze,ENG,Crystal Palace,Premier League,Midfield,young
+2538,Jack Stacey,ENG,Bournemouth,Premier League,Defence,middle_age
+2539,Lloyd Kelly,ENG,Bournemouth,Premier League,Defence,young
+2540,Ryan Christie,SCO,Bournemouth,Premier League,Midfield,middle_age
+2541,Illan Meslier,FRA,Leeds United,Premier League,Goalkeeper,young
+2542,Sam Greenwood,ENG,Leeds United,Premier League,Midfield,young
+2543,Ezri Konsa,ENG,Aston Villa,Premier League,Defence,young
+2544,Jhon Durán,COL,Aston Villa,Premier League,Forward,young
+2545,Marvelous Nakamba,ZIM,Aston Villa,Premier League,Midfield,middle_age
+2546,Hwang Hee-chan,KOR,Wolves,Premier League,Forward,middle_age
+2547,João Gomes,BRA,Wolves,Premier League,Midfield,young
+2548,Alex Smithies,ENG,Leicester City,Premier League,Goalkeeper,seniors
+2549,James Justin,ENG,Leicester City,Premier League,Defence,young
+2550,Elliot Anderson,SCO,Newcastle Utd,Premier League,Midfield,young
+2551,Karl Darlow,ENG,Newcastle Utd,Premier League,Goalkeeper,middle_age
+2552,Aaron Hickey,SCO,Brentford,Premier League,Defence,young
+2553,Mikkel Damsgaard,DEN,Brentford,Premier League,Midfield,young
+2554,Vitaly Janelt,GER,Brentford,Premier League,Midfield,young
+2555,David Datro Fofana,Unknown,Chelsea,Premier League,Forward,young
+2556,James Garner,ENG,Everton,Premier League,Midfield,young
+2557,Brennan Johnson,WAL,Nott'ham Forest,Premier League,Forward,young
+2558,Gustavo Scarpa,BRA,Nott'ham Forest,Premier League,Midfield,middle_age
+2559,Omar Richards,ENG,Nott'ham Forest,Premier League,Defence,young
+2560,Orel Mangala,BEL,Nott'ham Forest,Premier League,Midfield,young
+2561,Steve Cook,ENG,Nott'ham Forest,Premier League,Defence,middle_age
+2562,Harrison Reed,ENG,Fulham,Premier League,Midfield,middle_age
+2563,Josh Onomah,ENG,Fulham,Premier League,Midfield,young
+2564,Neeskens Kebano,COD,Fulham,Premier League,Forward,middle_age
+2565,Tim Ream,USA,Fulham,Premier League,Defence,seniors
+2566,Tom Cairney,SCO,Fulham,Premier League,Midfield,middle_age
+2567,Máximo Perrone,Unknown,Manchester City,Premier League,Midfield,young
+2568,Scott Carson,ENG,Manchester City,Premier League,Goalkeeper,seniors
+2569,Nathan Patterson,SCO,Everton,Premier League,Defence,young
+2570,Diogo Dalot,POR,Manchester Utd,Premier League,Defence,young
+2571,Carlos Alcaraz,ARG,Southampton,Premier League,Midfield,young
+2572,Mohammed Salisu,GHA,Southampton,Premier League,Defence,young
+2573,Roméo Lavia,Unknown,Southampton,Premier League,Midfield,young
+2574,Sekou Mara,FRA,Southampton,Premier League,Forward,young
+2575,Djed Spence,ENG,Tottenham,Premier League,Defence,young
+2576,Japhet Tanganga,ENG,Tottenham,Premier League,Defence,young
+2577,Nathan Ferguson,ENG,Crystal Palace,Premier League,Defence,young
+2578,Darren Randolph,IRL,Bournemouth,Premier League,Goalkeeper,seniors
+2579,Ilya Zabarnyi,Unknown,Bournemouth,Premier League,Defence,young
+2580,Liam Cooper,SCO,Leeds United,Premier League,Defence,middle_age
+2581,Mateusz Klich,POL,Leeds United,Premier League,Midfield,seniors
+2582,Flynn Downes,ENG,West Ham,Premier League,Midfield,young
+2583,José Sá,POR,Wolves,Premier League,Goalkeeper,middle_age
+2584,Victor Kristiansen,Unknown,Leicester City,Premier League,Defence,young
+2585,David Raya,ESP,Brentford,Premier League,Goalkeeper,middle_age
+2586,Frank Onyeka,NGA,Brentford,Premier League,Midfield,young
+2587,Pontus Jansson,SWE,Brentford,Premier League,Defence,middle_age
+2588,Sergi Canós,ESP,Brentford,Premier League,Defence,young
+2589,Thomas Strakosha,ALB,Brentford,Premier League,Goalkeeper,middle_age
+2590,Robert Sánchez,ESP,Brighton,Premier League,Goalkeeper,young
+2591,Demarai Gray,JAM,Everton,Premier League,Forward,middle_age
+2592,Dwight McNeil,ENG,Everton,Premier League,Forward,young
+2593,Rúben Vinagre,POR,Everton,Premier League,Defence,young
+2594,Tom Davies,ENG,Everton,Premier League,Midfield,young
+2595,Ryan Yates,ENG,Nott'ham Forest,Premier League,Midfield,young
+2596,Antonee Robinson,USA,Fulham,Premier League,Defence,young
+2597,Facundo Pellistri,URU,Manchester Utd,Premier League,Forward,young
+2598,Gavin Bazunu,IRL,Southampton,Premier League,Goalkeeper,young
+2599,Kyle Walker-Peters,ENG,Southampton,Premier League,Defence,young
+2600,Willy Caballero,ARG,Southampton,Premier League,Goalkeeper,seniors
+2601,Antoine Semenyo,GHA,Bournemouth,Premier League,Forward,young
+2602,Marcus Tavernier,ENG,Bournemouth,Premier League,Midfield,young
+2603,Mark Travers,IRL,Bournemouth,Premier League,Goalkeeper,young
+2604,Adam Forshaw,ENG,Leeds United,Premier League,Midfield,middle_age
+2605,Joel Robles,ESP,Leeds United,Premier League,Goalkeeper,seniors
+2606,Luke Ayling,ENG,Leeds United,Premier League,Defence,middle_age
+2607,Wilfried Gnonto,ITA,Leeds United,Premier League,Forward,young
+2608,Ben Johnson,ENG,West Ham,Premier League,Defence,young
+2609,Cameron Archer,ENG,Aston Villa,Premier League,Forward,young
+2610,Jed Steer,ENG,Aston Villa,Premier League,Goalkeeper,middle_age
+2611,Léo Bonatini,BRA,Wolves,Premier League,Forward,middle_age
+2612,Nathan Collins,IRL,Wolves,Premier League,Defence,young
+2613,Daniel Amartey,GHA,Leicester City,Premier League,Defence,middle_age
+2614,Daniel Iversen,DEN,Leicester City,Premier League,Goalkeeper,young
+2615,Kiernan Dewsbury-Hall,ENG,Leicester City,Premier League,Midfield,young
+2616,Ivan Toney,ENG,Brentford,Premier League,Forward,middle_age
+2617,Josh Dasilva,ENG,Brentford,Premier League,Midfield,young
+2618,Mathias Jensen,DEN,Brentford,Premier League,Midfield,middle_age
+2619,Yoane Wissa,COD,Brentford,Premier League,Forward,young
+2620,Mathias Jørgensen,DEN,Brentford,Premier League,Defence,seniors
+2621,Billy Gilmour,SCO,Brighton,Premier League,Midfield,young
+2622,Deniz Undav,GER,Brighton,Premier League,Forward,middle_age
+2623,Giulian Biancone,FRA,Nott'ham Forest,Premier League,Defence,young
+2624,Harry Arter,IRL,Nott'ham Forest,Premier League,Midfield,seniors
+2625,Lyle Taylor,MSR,Nott'ham Forest,Premier League,Forward,seniors
+2626,Scott McKenna,SCO,Nott'ham Forest,Premier League,Defence,young
+2627,Manor Solomon,ISR,Fulham,Premier League,Forward,young
+2628,Cole Palmer,ENG,Manchester City,Premier League,Midfield,young
+2629,Pape Matar Sarr,SEN,Tottenham,Premier League,Midfield,young
+2630,Armel Bella Kotchap,GER,Southampton,Premier League,Defence,young
+2631,Juan Larios,Unknown,Southampton,Premier League,Defence,young
+2632,Samuel Edozie,Unknown,Southampton,Premier League,Midfield,young
+2633,Emiliano Marcondes,DEN,Bournemouth,Premier League,Midfield,middle_age
+2634,Kieffer Moore,WAL,Bournemouth,Premier League,Forward,middle_age
+2635,Crysencio Summerville,NED,Leeds United,Premier League,Forward,young
+2636,Joe Gelhardt,ENG,Leeds United,Premier League,Forward,young
+2637,Calvin Ramsay,SCO,Liverpool,Premier League,Defence,young
+2638,Curtis Jones,ENG,Liverpool,Premier League,Midfield,young
+2639,Max Kilman,ENG,Wolves,Premier League,Defence,young
+2640,Ethan Pinnock,JAM,Brentford,Premier League,Defence,middle_age
+2641,Saman Ghoddos,IRN,Brentford,Premier League,Midfield,middle_age
+2642,Shandon Baptiste,GRN,Brentford,Premier League,Midfield,young
+2643,Facundo Buonanotte,Unknown,Brighton,Premier League,Midfield,young
+2644,Jason Steele,ENG,Brighton,Premier League,Goalkeeper,middle_age
+2645,Moisés Caicedo,ECU,Brighton,Premier League,Midfield,young
+2646,Harry Toffolo,ENG,Nott'ham Forest,Premier League,Defence,middle_age
+2647,Jack Colback,ENG,Nott'ham Forest,Premier League,Midfield,seniors
+2648,Joe Worrall,ENG,Nott'ham Forest,Premier League,Defence,young
+2649,Lewis O'Brien,ENG,Nott'ham Forest,Premier League,Midfield,young
+2650,Sam Surridge,ENG,Nott'ham Forest,Premier League,Forward,young
+2651,Wayne Hennessey,WAL,Nott'ham Forest,Premier League,Goalkeeper,seniors
+2652,Marek Rodák,SVK,Fulham,Premier League,Goalkeeper,young
+2653,Jamal Lowe,JAM,Bournemouth,Premier League,Midfield,middle_age
+2654,Rhys Williams,ENG,Liverpool,Premier League,Defence,young
+2655,James Bree,ENG,Southampton,Premier League,Defence,young
+2656,Malcolm Ebiowei,ENG,Crystal Palace,Premier League,Midfield,young
+2657,Jaidon Anthony,ENG,Bournemouth,Premier League,Midfield,young
+2658,Kristoffer Klaesson,NOR,Leeds United,Premier League,Goalkeeper,young
+2659,Caoimhín Kelleher,IRL,Liverpool,Premier League,Goalkeeper,young
+2660,Chiquinho,POR,Wolves,Premier League,Midfield,young
+2661,Daniel Bentley,ENG,Wolves,Premier League,Goalkeeper,middle_age
+2662,Matija Šarkić,MNE,Wolves,Premier League,Goalkeeper,young
+2663,Rayan Aït-Nouri,ALG,Wolves,Premier League,Defence,young
+2664,Luke Thomas,ENG,Leicester City,Premier League,Defence,young
+2665,Harrison Ashby,Unknown,Newcastle Utd,Premier League,Defence,young
+2666,Loris Karius,GER,Newcastle Utd,Premier League,Goalkeeper,middle_age
+2667,Mark Gillespie,ENG,Newcastle Utd,Premier League,Goalkeeper,middle_age
+2668,Mads Roerslev,DEN,Brentford,Premier League,Defence,young
+2669,Jakub Moder,POL,Brighton,Premier League,Midfield,young
+2670,Jeremy Sarmiento,ECU,Brighton,Premier League,Midfield,young
+2671,Julio Enciso,PAR,Brighton,Premier League,Forward,young
+2672,Kaoru Mitoma,JPN,Brighton,Premier League,Forward,young
+2673,Tom McGill,Unknown,Brighton,Premier League,Goalkeeper,young
+2674,Andy Lonergan,IRL,Everton,Premier League,Goalkeeper,seniors
+2675,Cafú,POR,Nott'ham Forest,Premier League,Midfield,middle_age
+2676,Loïc Mbe Soh,FRA,Nott'ham Forest,Premier League,Defence,young
+2677,Valentino Livramento,ENG,Southampton,Premier League,Defence,young
+2678,Ben Pearson,ENG,Bournemouth,Premier League,Midfield,middle_age
+2679,Joe Rothwell,ENG,Bournemouth,Premier League,Midfield,middle_age
+2680,Jordan Zemura,ZIM,Bournemouth,Premier League,Defence,young
+2681,Siriki Dembélé,CIV,Bournemouth,Premier League,Forward,young
+2682,Yerson Mosquera,COL,Wolves,Premier League,Defence,young
+2683,Charlie Goode,ENG,Brentford,Premier League,Defence,middle_age
+2684,Yasin Ayari,Unknown,Brighton,Premier League,Midfield,young
+2685,Matthew Longstaff,ENG,Newcastle Utd,Premier League,Midfield,young
+2686,Alfie Whiteman,ENG,Tottenham,Premier League,Goalkeeper,young
+2687,Brandon Austin,ENG,Tottenham,Premier League,Goalkeeper,young
+2688,Alejandro Garnacho,Unknown,Manchester Utd,Premier League,Midfield,young
+2689,Lewis Hall,Unknown,Chelsea,Premier League,Defence,young
+2690,Ellis Simms,ENG,Everton,Premier League,Forward,young
+2691,Finley Stevens,WAL,Brentford,Premier League,Defence,young
+2692,Anthony Elanga,SWE,Manchester Utd,Premier League,Forward,young
+2693,Shola Shoretire,ENG,Manchester Utd,Premier League,Midfield,young
+2694,Teden Mengi,ENG,Manchester Utd,Premier League,Defence,young
+2695,Conor Coventry,IRL,West Ham,Premier League,Midfield,young
+2696,Hugo Bueno,Unknown,Wolves,Premier League,Defence,young
+2697,Joe Hodge,Unknown,Wolves,Premier League,Midfield,young
+2698,Toti Gomes,POR,Wolves,Premier League,Defence,young
+2699,Jan Paul van Hecke,NED,Brighton,Premier League,Defence,young
+2700,Levi Colwill,ENG,Brighton,Premier League,Defence,young
+2701,Eldin Jakupović,SUI,Everton,Premier League,Goalkeeper,seniors
+2702,Rico Lewis,Unknown,Manchester City,Premier League,Defence,young
+2703,Alex Mighten,ENG,Nott'ham Forest,Premier League,Forward,young
+2704,James Hill,ENG,Bournemouth,Premier League,Defence,young
+2705,Connor Ronan,IRL,Wolves,Premier League,Midfield,young
+2706,Evan Ferguson,IRL,Brighton,Premier League,Forward,young
+2707,Cody Drameh,ENG,Leeds United,Premier League,Defence,young
+2708,Chem Campbell,WAL,Wolves,Premier League,Forward,young
+2709,Jordan Smith,ENG,Nott'ham Forest,Premier League,Goalkeeper,middle_age
+2710,Will Dennis,ENG,Bournemouth,Premier League,Goalkeeper,young
+2711,Leo Fuhr Hjelde,NOR,Leeds United,Premier League,Defence,young
+2712,Tyrese Francois,AUS,Fulham,Premier League,Forward,young
